@@ -1,0 +1,543 @@
+[
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Enhanced Short Term Euro AT",
+    "isin": "LU0293294277",
+    "riesgo": "1/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,51 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Euro Oblig Court Terme ISR RC",
+    "isin": "FR0011387299",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,34 %",
+    "comision": "0,45 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Cash Euro_A2 ESG",
+    "isin": "LU0568620560",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,77 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Cash USD_A2 USD ESG",
+    "isin": "LU0568621618",
+    "riesgo": "1/7",
+    "ren-ytd": "1,46 %",
+    "ren-2025": "-8,15 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Euro Liquidity Short Term Gov...",
+    "isin": "FR0011399633",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,93 %",
+    "comision": "0,285 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Euro Liquidity-Rated Respons P",
+    "isin": "FR0011408764",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "2,03 %",
+    "comision": "0,381 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Amundi Ultra Short Term Bond Resp_E",
+    "isin": "FR0011365212",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,43 %",
+    "comision": "0,281 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Amundi Ultra Short Term Bond Respons...",
+    "isin": "FR0050000860",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,33 %",
+    "comision": "0,371 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BANKINTER AHORRO ACTIVOS EURO FI CL-R",
+    "isin": "ES0114821038",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "1,86 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BANKINTER CAPITAL 4 FI",
+    "isin": "ES0127186031",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "2,07 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BANKINTER CAPITAL PLUS FI",
+    "isin": "ES0114868039",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,87 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "BBVA FONDTESORO CORTO PLAZO, FI",
+    "isin": "ES0113200036",
+    "riesgo": "1/7",
+    "ren-ytd": "0,06 %",
+    "ren-2025": "1,60 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "BBVA RENTABILIDAD AHORRO CORTO PLAZO...",
+    "isin": "ES0110131036",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,63 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BGF Euro Reserve Fund Class A2 EUR",
+    "isin": "LU0432365988",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "1,85 %",
+    "comision": "0,45 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BGF US Dollar Reserve A2 USD",
+    "isin": "LU0006061419",
+    "riesgo": "1/7",
+    "ren-ytd": "1,44 %",
+    "ren-2025": "-8,34 %",
+    "comision": "0,45 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BGF US Dollar Reserve Fund Class A2 ...",
+    "isin": "LU0297945965",
+    "riesgo": "1/7",
+    "ren-ytd": "0,90 %",
+    "ren-2025": "-1,68 %",
+    "comision": "0,45 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BNP PARIBAS INSTICASH EUR 1D LVNAV C",
+    "isin": "LU0167237543",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,98 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BNP PARIBAS INSTICASH EUR 3M C",
+    "isin": "LU0423950210",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "2,12 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BNP Paribas Euro Money Market C",
+    "isin": "LU0083138064",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,99 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BNP Paribas USD Money Market C",
+    "isin": "LU0012186622",
+    "riesgo": "1/7",
+    "ren-ytd": "1,38 %",
+    "ren-2025": "-8,23 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "BlackRock ICS Euro Liquidity Fund Co...",
+    "isin": "IE0005023910",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,16 %",
+    "comision": "0,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Candriam Bonds Floating Rate Notes C...",
+    "isin": "LU1838941372",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,34 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Candriam Money Market Euro AAA C CAP",
+    "isin": "LU0354091653",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "1,81 %",
+    "comision": "0,45 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Candriam Money Market Euro C",
+    "isin": "LU0093583077",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "1,91 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Candriam Sustain Money Market Euro C",
+    "isin": "LU1434529050",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,09 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "DWS ESG Floating Rate Notes LC",
+    "isin": "LU1965927921",
+    "riesgo": "1/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "2,70 %",
+    "comision": "0,175 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "DWS Euro Ultra Short Fixed Income NC",
+    "isin": "LU0080237943",
+    "riesgo": "1/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "2,77 %",
+    "comision": "0,05 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "DWS Floating Rate Notes LC",
+    "isin": "LU0034353002",
+    "riesgo": "1/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "2,75 %",
+    "comision": "0,15 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "DWS USD Floating Rate Notes USD LC",
+    "isin": "LU1546474658",
+    "riesgo": "1/7",
+    "ren-ytd": "1,49 %",
+    "ren-2025": "-7,54 %",
+    "comision": "0,20 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "DWS Vorsorge Geldmarkt LC",
+    "isin": "LU0011254512",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,23 %",
+    "comision": "0,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "EVLI Euro Liquidity B",
+    "isin": "FI0008804463",
+    "riesgo": "1/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,90 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Goldman Sachs AAA ABS - X",
+    "isin": "LU1835818565",
+    "riesgo": "1/7",
+    "ren-ytd": "0,16 %",
+    "ren-2025": "2,44 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Groupama Entreprises _ N",
+    "isin": "FR0010288316",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,16 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Groupama Tresorerie _ NC",
+    "isin": "FR0013314234",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,21 %",
+    "comision": "0,28 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Groupama Ultra Short Term _ NC",
+    "isin": "FR0013346079",
+    "riesgo": "1/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "2,54 %",
+    "comision": "0,36 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Invesco Euro Ultra Short-Term Debt_A",
+    "isin": "LU0102737730",
+    "riesgo": "1/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "2,36 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Invesco USD Ultra-Short Term_A",
+    "isin": "LU0028121183",
+    "riesgo": "1/7",
+    "ren-ytd": "1,42 %",
+    "ren-2025": "-7,68 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "JPM EUR Money Market VNAV A",
+    "isin": "LU0252499412",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "1,95 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "JPM EUR Standard Money Market VNAV A",
+    "isin": "LU2095450123",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,04 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "JPM GBP Standard Money Market VNAV A",
+    "isin": "LU0070177588",
+    "riesgo": "1/7",
+    "ren-ytd": "0,90 %",
+    "ren-2025": "-1,22 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "JPM USD Standard Money Market VNAV A",
+    "isin": "LU0011815304",
+    "riesgo": "1/7",
+    "ren-ytd": "1,45 %",
+    "ren-2025": "-8,07 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "LO Short-Term Money Mrkt P",
+    "isin": "LU0209997997",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "2,11 %",
+    "comision": "0,11 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "La Francaise Tresorerie ISR R",
+    "isin": "FR0000991390",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,26 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Mutuafondo Dinero D",
+    "isin": "ES0165143019",
+    "riesgo": "1/7",
+    "ren-ytd": "0,06 %",
+    "ren-2025": "1,84 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "OSTRUM Credit Ultra Short R/C",
+    "isin": "FR001400CFA4",
+    "riesgo": "1/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "2,99 %",
+    "comision": "0,200 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Pictet Sovereign Short-Term Money Ma...",
+    "isin": "LU0366536711",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "2,12 %",
+    "comision": "0,09 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "RENTA 4 FONDTESORO CORTO PLAZO FI",
+    "isin": "ES0173372030",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "1,95 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Santander Corto Plazo",
+    "isin": "ES0174735003",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "1,63 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "Santander GO Short Duration DOLLAR B...",
+    "isin": "LU0082919001",
+    "riesgo": "1/7",
+    "ren-ytd": "1,36 %",
+    "ren-2025": "-8,06 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Santander Money Market A",
+    "isin": "LU2843777538",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,76 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Santander Money Market B",
+    "isin": "LU2843777611",
+    "riesgo": "1/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "2,03 %",
+    "comision": "0,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Santander PB Strategic Bond",
+    "isin": "ES0174980005",
+    "riesgo": "1/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "0,72 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Santander Rendimiento_C",
+    "isin": "ES0138534039",
+    "riesgo": "1/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,01 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Schroder ISF US Dollar Liquidity B A...",
+    "isin": "LU0136043980",
+    "riesgo": "1/7",
+    "ren-ytd": "1,45 %",
+    "ren-2025": "-8,26 %",
+    "comision": "0,20 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Swisscanto (LU) Money Market Fund Re...",
+    "isin": "LU0141250786",
+    "riesgo": "1/7",
+    "ren-ytd": "1,36 %",
+    "ren-2025": "-8,04 %",
+    "comision": "0,33 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Swisscanto Money Market Respons EUR ...",
+    "isin": "LU0141249770",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,18 %",
+    "comision": "0,20 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "UBS Money Market CHF_P CHF",
+    "isin": "LU0033502740",
+    "riesgo": "1/7",
+    "ren-ytd": "-0,06 %",
+    "ren-2025": "0,86 %",
+    "comision": "0,04 %"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "UBS Money Market _P GBP",
+    "isin": "LU0006277635",
+    "riesgo": "1/7",
+    "ren-ytd": "0,91 %",
+    "ren-2025": "-1,58 %",
+    "comision": "0,40 %"
+  }
+]

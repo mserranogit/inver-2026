@@ -1,0 +1,791 @@
+﻿Mercado Monetario
+AXA Court Terme P
+FR0010693689
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,22 %
+Comisión de gestión*
+0,20 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Allianz Enhanced Short Term Euro AT
+LU0293294277
+Riesgo
+1/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+2,51 %
+Comisión de gestión*
+0,25 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Allianz Euro Oblig Court Terme ISR RC
+FR0011387299
+Riesgo
+1/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,34 %
+Comisión de gestión*
+0,45 %
+
+***
+Mercado Monetario
+Amundi Cash Euro_A2 ESG
+LU0568620560
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,77 %
+Comisión de gestión*
+0,50 %
+
+***
+Mercado Monetario
+Amundi Cash USD_A2 USD ESG
+LU0568621618
+Riesgo
+1/7
+Rentabilidad YTD
+1,46 %
+Rentabilidad 2025
+-8,15 %
+Comisión de gestión*
+0,30 %
+
+***
+Mercado Monetario
+Amundi Euro Liquidity Short Term Gov...
+FR0011399633
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,93 %
+Comisión de gestión*
+0,285 %
+
+***
+Mercado Monetario
+Amundi Euro Liquidity-Rated Respons P
+FR0011408764
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,03 %
+Comisión de gestión*
+0,381 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Amundi Ultra Short Term Bond Resp_E
+FR0011365212
+Riesgo
+1/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,43 %
+Comisión de gestión*
+0,281 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Amundi Ultra Short Term Bond Respons...
+FR0050000860
+Riesgo
+1/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,33 %
+Comisión de gestión*
+0,371 %
+
+***
+Mercado Monetario
+BANKINTER AHORRO ACTIVOS EURO FI CL-R
+ES0114821038
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+1,86 %
+Comisión de gestión*
+0,60 %
+
+***
+
+Mercado Monetario
+BANKINTER CAPITAL 4 FI
+ES0127186031
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,07 %
+Comisión de gestión*
+0,30 %
+
+***
+Mercado Monetario
+BANKINTER CAPITAL PLUS FI
+ES0114868039
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,87 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+BBVA FONDTESORO CORTO PLAZO, FI
+ES0113200036
+Riesgo
+1/7
+Rentabilidad YTD
+0,06 %
+Rentabilidad 2025
+1,60 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+BBVA RENTABILIDAD AHORRO CORTO PLAZO...
+ES0110131036
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,63 %
+Comisión de gestión*
+0,70 %
+
+***
+Mercado Monetario
+BGF Euro Reserve Fund Class A2 EUR
+LU0432365988
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+1,85 %
+Comisión de gestión*
+0,45 %
+
+***
+Mercado Monetario
+BGF US Dollar Reserve A2 USD
+LU0006061419
+Riesgo
+1/7
+Rentabilidad YTD
+1,44 %
+Rentabilidad 2025
+-8,34 %
+Comisión de gestión*
+0,45 %
+
+***
+Mercado Monetario
+BGF US Dollar Reserve Fund Class A2 ...
+LU0297945965
+Riesgo
+1/7
+Rentabilidad YTD
+0,90 %
+Rentabilidad 2025
+-1,68 %
+Comisión de gestión*
+0,45 %
+
+***
+Mercado Monetario
+BNP PARIBAS INSTICASH EUR 1D LVNAV C
+LU0167237543
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,98 %
+Comisión de gestión*
+0,30 %
+
+***
+Mercado Monetario
+BNP PARIBAS INSTICASH EUR 3M C
+LU0423950210
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,12 %
+Comisión de gestión*
+0,30 %
+
+***
+Mercado Monetario
+BNP Paribas Euro Money Market C
+LU0083138064
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,99 %
+Comisión de gestión*
+0,40 %
+
+***
+
+Mercado Monetario
+BNP Paribas USD Money Market C
+LU0012186622
+Riesgo
+1/7
+Rentabilidad YTD
+1,38 %
+Rentabilidad 2025
+-8,23 %
+Comisión de gestión*
+0,40 %
+
+***
+Mercado Monetario
+BlackRock ICS Euro Liquidity Fund Co...
+IE0005023910
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,16 %
+Comisión de gestión*
+0,20 %
+
+***
+Renta Fija
+Gobiernos Global
+Candriam Bonds Floating Rate Notes C...
+LU1838941372
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,34 %
+Comisión de gestión*
+0,50 %
+
+***
+Mercado Monetario
+Candriam Money Market Euro AAA C CAP
+LU0354091653
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+1,81 %
+Comisión de gestión*
+0,45 %
+
+***
+Mercado Monetario
+Candriam Money Market Euro C
+LU0093583077
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+1,91 %
+Comisión de gestión*
+0,50 %
+
+***
+Mercado Monetario
+Candriam Sustain Money Market Euro C
+LU1434529050
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,09 %
+Comisión de gestión*
+0,30 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+DWS ESG Floating Rate Notes LC
+LU1965927921
+Riesgo
+1/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+2,70 %
+Comisión de gestión*
+0,175 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+DWS Euro Ultra Short Fixed Income NC
+LU0080237943
+Riesgo
+1/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+2,77 %
+Comisión de gestión*
+0,05 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+DWS Floating Rate Notes LC
+LU0034353002
+Riesgo
+1/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+2,75 %
+Comisión de gestión*
+0,15 %
+
+***
+Mercado Monetario
+DWS USD Floating Rate Notes USD LC
+LU1546474658
+Riesgo
+1/7
+Rentabilidad YTD
+1,49 %
+Rentabilidad 2025
+-7,54 %
+Comisión de gestión*
+0,20 %
+
+***
+
+Mercado Monetario
+DWS Vorsorge Geldmarkt LC
+LU0011254512
+Riesgo
+1/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,23 %
+Comisión de gestión*
+0,10 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+EVLI Euro Liquidity B
+FI0008804463
+Riesgo
+1/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+2,90 %
+Comisión de gestión*
+0,30 %
+
+***
+Renta Fija
+Sin Restricciones
+Goldman Sachs AAA ABS - X
+LU1835818565
+Riesgo
+1/7
+Rentabilidad YTD
+0,16 %
+Rentabilidad 2025
+2,44 %
+Comisión de gestión*
+0,60 %
+
+***
+Mercado Monetario
+Groupama Entreprises _ N
+FR0010288316
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,16 %
+Comisión de gestión*
+0,30 %
+
+***
+Mercado Monetario
+Groupama Tresorerie _ NC
+FR0013314234
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,21 %
+Comisión de gestión*
+0,28 %
+
+***
+Renta Fija
+Gobiernos Global
+Groupama Ultra Short Term _ NC
+FR0013346079
+Riesgo
+1/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+2,54 %
+Comisión de gestión*
+0,36 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Invesco Euro Ultra Short-Term Debt_A
+LU0102737730
+Riesgo
+1/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+2,36 %
+Comisión de gestión*
+0,25 %
+
+***
+Mercado Monetario
+Invesco USD Ultra-Short Term_A
+LU0028121183
+Riesgo
+1/7
+Rentabilidad YTD
+1,42 %
+Rentabilidad 2025
+-7,68 %
+Comisión de gestión*
+0,25 %
+
+***
+Mercado Monetario
+JPM EUR Money Market VNAV A
+LU0252499412
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+1,95 %
+Comisión de gestión*
+0,25 %
+
+***
+Mercado Monetario
+JPM EUR Standard Money Market VNAV A
+LU2095450123
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,04 %
+Comisión de gestión*
+0,40 %
+
+***
+
+Mercado Monetario
+JPM GBP Standard Money Market VNAV A
+LU0070177588
+Riesgo
+1/7
+Rentabilidad YTD
+0,90 %
+Rentabilidad 2025
+-1,22 %
+Comisión de gestión*
+0,40 %
+
+***
+Mercado Monetario
+JPM USD Standard Money Market VNAV A
+LU0011815304
+Riesgo
+1/7
+Rentabilidad YTD
+1,45 %
+Rentabilidad 2025
+-8,07 %
+Comisión de gestión*
+0,40 %
+
+***
+Mercado Monetario
+LO Short-Term Money Mrkt P
+LU0209997997
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,11 %
+Comisión de gestión*
+0,11 %
+
+***
+Mercado Monetario
+La Francaise Tresorerie ISR R
+FR0000991390
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,26 %
+Comisión de gestión*
+0,25 %
+
+***
+Mercado Monetario
+Mutuafondo Dinero D
+ES0165143019
+Riesgo
+1/7
+Rentabilidad YTD
+0,06 %
+Rentabilidad 2025
+1,84 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Gobiernos Global
+OSTRUM Credit Ultra Short R/C
+FR001400CFA4
+Riesgo
+1/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+2,99 %
+Comisión de gestión*
+0,200 %
+
+***
+Mercado Monetario
+Pictet Sovereign Short-Term Money Ma...
+LU0366536711
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,12 %
+Comisión de gestión*
+0,09 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+RENTA 4 FONDTESORO CORTO PLAZO FI
+ES0173372030
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+1,95 %
+Comisión de gestión*
+0,25 %
+
+***
+Renta Fija
+Sin Restricciones
+Santander Corto Plazo
+ES0174735003
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+1,63 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Otros
+Santander GO Short Duration DOLLAR B...
+LU0082919001
+Riesgo
+1/7
+Rentabilidad YTD
+1,36 %
+Rentabilidad 2025
+-8,06 %
+Comisión de gestión*
+0,00 %
+
+***
+Mercado Monetario
+Santander Money Market A
+LU2843777538
+Riesgo
+1/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,76 %
+Comisión de gestión*
+0,60 %
+
+***
+Mercado Monetario
+Santander Money Market B
+LU2843777611
+Riesgo
+1/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+2,03 %
+Comisión de gestión*
+0,35 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Santander PB Strategic Bond
+ES0174980005
+Riesgo
+1/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+0,72 %
+Comisión de gestión*
+1,50 %
+
+***
+Mercado Monetario
+Santander Rendimiento_C
+ES0138534039
+Riesgo
+1/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,01 %
+Comisión de gestión*
+0,50 %
+
+***
+Mercado Monetario
+Schroder ISF US Dollar Liquidity B A...
+LU0136043980
+Riesgo
+1/7
+Rentabilidad YTD
+1,45 %
+Rentabilidad 2025
+-8,26 %
+Comisión de gestión*
+0,20 %
+
+***
+Mercado Monetario
+Swisscanto (LU) Money Market Fund Re...
+LU0141250786
+Riesgo
+1/7
+Rentabilidad YTD
+1,36 %
+Rentabilidad 2025
+-8,04 %
+Comisión de gestión*
+0,33 %
+
+***
+Mercado Monetario
+Swisscanto Money Market Respons EUR ...
+LU0141249770
+Riesgo
+1/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,18 %
+Comisión de gestión*
+0,20 %
+
+***
+Mercado Monetario
+UBS Money Market CHF_P CHF
+LU0033502740
+Riesgo
+1/7
+Rentabilidad YTD
+-0,06 %
+Rentabilidad 2025
+0,86 %
+Comisión de gestión*
+0,04 %
+
+***
+
+Mercado Monetario
+UBS Money Market _P GBP
+LU0006277635
+Riesgo
+1/7
+Rentabilidad YTD
+0,91 %
+Rentabilidad 2025
+-1,58 %
+Comisión de gestión*
+0,40 %
+
+***
