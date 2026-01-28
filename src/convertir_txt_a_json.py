@@ -80,7 +80,7 @@ def convertir_txt_a_json(archivo_entrada):
     limpio = script_dir[:-4]
     assets_path = os.path.join(limpio, "assets")
 
-    archivo_salida = os.path.join(assets_path, 'json', 'fondos_open_R1.json')
+    archivo_salida = os.path.join(assets_path, 'json', 'fondos_open_R2.json')
     with open(archivo_salida, 'w', encoding='utf-8') as f:
         json.dump(fondos, f, ensure_ascii=False, indent=2)
 
@@ -94,7 +94,7 @@ if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     limpio = script_dir[:-4]
     assets_path = os.path.join(limpio, "assets")
-    archivo_entrada = os.path.join(assets_path, 'json', 'fondos-riesgo-1.txt')
+    archivo_entrada = os.path.join(assets_path, 'txt', 'fondos-riesgo-2.txt')
 
 
     # Verificar que existe el archivo

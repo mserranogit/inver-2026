@@ -1,0 +1,5930 @@
+﻿Mixtos
+Moderado
+ACACIA RENTA DINAMICA, FI "R" (EUR) ...
+ES0157935042
+Riesgo
+2/7
+Rentabilidad YTD
+0,03 %
+Rentabilidad 2025
+4,49 %
+Comisión de gestión*
+0,85 %
+
+***
+Renta Fija
+Mercados emergentes
+AXA Em Mkts Short Dur Low Carb A EUR...
+LU0800572702
+Riesgo
+2/7
+Rentabilidad YTD
+0,21 %
+Rentabilidad 2025
+5,62 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+AXA Euro Credit Plus A
+LU0164100710
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+2,97 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+AXA Euro Credit Short Duration A
+LU0251661756
+Riesgo
+2/7
+Rentabilidad YTD
+0,15 %
+Rentabilidad 2025
+2,72 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Sin Restricciones
+AXA Euro Strategic Bonds A
+LU0251659776
+Riesgo
+2/7
+Rentabilidad YTD
+0,65 %
+Rentabilidad 2025
+3,65 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+AXA Euro Sustainable Credit A
+LU0361820912
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+2,71 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa High Yield
+AXA Europe Short Duration HY_F ESG
+LU0658026603
+Riesgo
+2/7
+Rentabilidad YTD
+0,31 %
+Rentabilidad 2025
+3,45 %
+Comisión de gestión*
+1,00 %
+
+***
+Mixtos
+Defensivo
+AXA Global Income Generation A
+LU0960400249
+Riesgo
+2/7
+Rentabilidad YTD
+1,45 %
+Rentabilidad 2025
+1,42 %
+Comisión de gestión*
+1,25 %
+
+***
+Activos Reales
+Bonos ligados a la inflación
+AXA Global Inflation Bonds Redex A
+LU1790047804
+Riesgo
+2/7
+Rentabilidad YTD
+0,67 %
+Rentabilidad 2025
+0,80 %
+Comisión de gestión*
+0,65 %
+
+***
+Activos Reales
+Bonos ligados a la inflación
+AXA Global Inflation Short Dur A EUR...
+LU1353950725
+Riesgo
+2/7
+Rentabilidad YTD
+0,17 %
+Rentabilidad 2025
+2,96 %
+Comisión de gestión*
+0,50 %
+
+***
+
+Activos Reales
+Bonos ligados a la inflación
+AXA Global Inflation Short Dur A USD
+LU1353950568
+Riesgo
+2/7
+Rentabilidad YTD
+1,55 %
+Rentabilidad 2025
+-7,15 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Sin Restricciones
+AXA Global Responsible Aggregate A
+LU0184633773
+Riesgo
+2/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+1,68 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa High Yield
+AXA IM Europe Short Dur High Yield A
+FR0012903276
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+3,53 %
+Comisión de gestión*
+1,08 %
+
+***
+Renta Fija
+Corporativa High Yield
+AXA IM FIIS US Short Dur HY F EURHDG
+LU0292585626
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+4,12 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+AXA IM US Corp Interm Bonds F EURH
+LU0546066993
+Riesgo
+2/7
+Rentabilidad YTD
+-0,12 %
+Rentabilidad 2025
+4,42 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Aegon European ABS A
+IE00BG226Z29
+Riesgo
+2/7
+Rentabilidad YTD
+0,27 %
+Rentabilidad 2025
+2,97 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+Aegon High Yield Global A EURH
+IE00B296X584
+Riesgo
+2/7
+Rentabilidad YTD
+0,51 %
+Rentabilidad 2025
+6,59 %
+Comisión de gestión*
+1,30 %
+
+***
+Renta Fija
+Sin Restricciones
+Algebris Global Credit Opportunities...
+IE00BYT35X57
+Riesgo
+2/7
+Rentabilidad YTD
+0,43 %
+Rentabilidad 2025
+2,20 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Gobiernos Global
+Allianz Adv Fixed Income Short Dur AT
+LU1504571149
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+2,85 %
+Comisión de gestión*
+0,35 %
+
+***
+Renta Fija
+Sin Restricciones
+Allianz Advanced Fixed Inc Euro AT
+LU1205638155
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+2,38 %
+Comisión de gestión*
+0,65 %
+
+***
+
+Renta Fija
+Convertibles
+Allianz Convertible Bond AT
+LU0706716387
+Riesgo
+2/7
+Rentabilidad YTD
+1,31 %
+Rentabilidad 2025
+4,24 %
+Comisión de gestión*
+1,35 %
+
+***
+Renta Fija
+Sin Restricciones
+Allianz Credit Opportunities AT
+LU1951921383
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+3,39 %
+Comisión de gestión*
+0,44 %
+
+***
+Renta Fija
+Sin Restricciones
+Allianz Credit Opportunities Plus AT
+LU2002383896
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+4,25 %
+Comisión de gestión*
+1,29 %
+
+***
+Mixtos
+Defensivo
+Allianz Dynamic Multi Asset Strat SR...
+LU1548496022
+Riesgo
+2/7
+Rentabilidad YTD
+2,36 %
+Rentabilidad 2025
+5,30 %
+Comisión de gestión*
+1,15 %
+
+***
+Renta Fija
+Mercados emergentes
+Allianz Emerg Mkts Corp Bond AT EURH...
+LU1992133188
+Riesgo
+2/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+5,40 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Mercados emergentes
+Allianz Emerging Markets Short Dur B...
+LU1079477284
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+4,90 %
+Comisión de gestión*
+0,99 %
+
+***
+Renta Fija
+Sin Restricciones
+Allianz Euro Bond AT
+LU0165915058
+Riesgo
+2/7
+Rentabilidad YTD
+0,44 %
+Rentabilidad 2025
+0,77 %
+Comisión de gestión*
+0,94 %
+
+***
+Renta Fija
+Corporativa High Yield
+Allianz Euro High Yield Bond AT
+LU0482909909
+Riesgo
+2/7
+Rentabilidad YTD
+0,44 %
+Rentabilidad 2025
+3,86 %
+Comisión de gestión*
+1,35 %
+
+***
+Inversión alternativa
+Allianz Global Diversified Credit AT...
+LU1480269049
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+3,95 %
+Comisión de gestión*
+1,09 %
+
+***
+Renta Fija
+Sin Restricciones
+Allianz Global Float Rate Notes Plus...
+LU1740661167
+Riesgo
+2/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+2,38 %
+Comisión de gestión*
+0,55 %
+
+***
+
+Mixtos
+Defensivo
+Allianz Strategy 15 CT (EUR)
+LU0398560267
+Riesgo
+2/7
+Rentabilidad YTD
+1,03 %
+Rentabilidad 2025
+2,34 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Bond Euro Aggregate_AE ESG
+LU0616241476
+Riesgo
+2/7
+Rentabilidad YTD
+0,51 %
+Rentabilidad 2025
+1,79 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa High Yield
+Amundi Bond Euro High Yield_AE-C ESG
+LU0119110723
+Riesgo
+2/7
+Rentabilidad YTD
+0,48 %
+Rentabilidad 2025
+4,17 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Bond Global Agg_AU-C USD ESG
+LU0319688015
+Riesgo
+2/7
+Rentabilidad YTD
+1,60 %
+Rentabilidad 2025
+-5,76 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Bond Global Aggregate_AHE-C E...
+LU0906524193
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+4,54 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Core Glob Gov_AHE EURH Dist
+LU0389813071
+Riesgo
+2/7
+Rentabilidad YTD
+-0,02 %
+Rentabilidad 2025
+1,36 %
+Comisión de gestión*
+0,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Core Glob Govie_AHE EURH
+LU0389812933
+Riesgo
+2/7
+Rentabilidad YTD
+-0,03 %
+Rentabilidad 2025
+1,37 %
+Comisión de gestión*
+0,20 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Amundi Diversified Short Term Bnd Se...
+LU1706854152
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+4,64 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Mercados emergentes
+Amundi EM Blended Bond_AE ESG
+LU1161086159
+Riesgo
+2/7
+Rentabilidad YTD
+0,90 %
+Rentabilidad 2025
+6,78 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Mercados emergentes
+Amundi EM Short Term Bond_A2 EURH ESG
+LU1882462739
+Riesgo
+2/7
+Rentabilidad YTD
+0,99 %
+Rentabilidad 2025
+2,71 %
+Comisión de gestión*
+1,10 %
+
+***
+
+Renta Fija
+Gobiernos Global
+Amundi Enhan Ultra Short Term Bnd Se...
+FR0010829697
+Riesgo
+2/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+2,62 %
+Comisión de gestión*
+0,531 %
+
+***
+Renta Fija
+Gobiernos Global
+Amundi Enhanced Ultra Short Sel_E
+FR0010830885
+Riesgo
+2/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+2,75 %
+Comisión de gestión*
+0,381 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Amundi Euro Corp Bond Sel AE
+LU0119099819
+Riesgo
+2/7
+Rentabilidad YTD
+0,53 %
+Rentabilidad 2025
+3,20 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Global Aggregate Bond_AHC CHF...
+LU0945157773
+Riesgo
+2/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+3,15 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Amundi Global Corporate Bond_AHE ESG
+LU0839536322
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+4,14 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Amundi Index Euro Corp BBB 1 5_AE
+LU1525412281
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+3,02 %
+Comisión de gestión*
+0,25 %
+
+***
+Renta Fija
+Sin Restricciones
+Amundi Quantit Glob Abs Return Bond_A
+LU1894677027
+Riesgo
+2/7
+Rentabilidad YTD
+0,52 %
+Rentabilidad 2025
+2,60 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa High Yield
+Arcano Low Vol Europ Inc ESG Sel_REA...
+LU1720111282
+Riesgo
+2/7
+Rentabilidad YTD
+0,31 %
+Rentabilidad 2025
+4,34 %
+Comisión de gestión*
+1,30 %
+
+***
+Renta Fija
+Sin Restricciones
+Axa Global Strategic Income_A EURH E...
+LU0746604288
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+2,90 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+BANKINTER AHORRO RENTA FIJA FI CL-R
+ES0110053032
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+2,18 %
+Comisión de gestión*
+0,55 %
+
+***
+
+Renta Fija
+Sin Restricciones
+BANKINTER DEUDA FINANCIERA FI CL-R
+ES0114867031
+Riesgo
+2/7
+Rentabilidad YTD
+0,37 %
+Rentabilidad 2025
+2,87 %
+Comisión de gestión*
+1,00 %
+
+***
+Mixtos
+Defensivo
+BANKINTER MIXTO RENTA FIJA R
+ES0114793039
+Riesgo
+2/7
+Rentabilidad YTD
+1,25 %
+Rentabilidad 2025
+5,32 %
+Comisión de gestión*
+1,35 %
+
+***
+Renta Fija
+Sin Restricciones
+BANKINTER R. FIJA LARGO PLAZO FI CL-R
+ES0114837034
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+1,55 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Gobiernos Global
+BBVA BONOS DURACION FLEXIBLE, FI
+ES0113203030
+Riesgo
+2/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+2,56 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+BBVA BONOS GOBIERNOS, FI
+ES0113752002
+Riesgo
+2/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+1,95 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Sin Restricciones
+BGF World Bond A2 EURHDG
+LU0330917880
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+2,25 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+BGF EURO INVESTMEN GRADE FIXED MATUR...
+LU2697544943
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,78 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+BGF Euro Corporate Bond Fund Class A...
+LU0162658883
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+2,72 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+BGF Euro Short Duration Bond Fund Cl...
+LU0093503810
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+3,27 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+BGF Global Government Bond A2 Hedged...
+LU0297942863
+Riesgo
+2/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+1,76 %
+Comisión de gestión*
+0,75 %
+
+***
+
+Renta Fija
+Sin Restricciones
+BGF Global Government Bond Fund Clas...
+LU0006061385
+Riesgo
+2/7
+Rentabilidad YTD
+1,49 %
+Rentabilidad 2025
+-8,28 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa High Yield
+BGF Global High Yield Bond A2 Hedged...
+LU0093504206
+Riesgo
+2/7
+Rentabilidad YTD
+0,52 %
+Rentabilidad 2025
+5,72 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Corporativa High Yield
+BGF Global High Yield Bond A2 USD
+LU0171284937
+Riesgo
+2/7
+Rentabilidad YTD
+1,86 %
+Rentabilidad 2025
+-4,70 %
+Comisión de gestión*
+1,25 %
+
+***
+Activos Reales
+Bonos ligados a la inflación
+BGF Global Inflation Linked Bond A2 ...
+LU0425308086
+Riesgo
+2/7
+Rentabilidad YTD
+1,82 %
+Rentabilidad 2025
+-7,73 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Otros
+BGF US Dollar Short Duration Bond Fu...
+LU0839485744
+Riesgo
+2/7
+Rentabilidad YTD
+-0,10 %
+Rentabilidad 2025
+3,16 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Otros
+BGF US Dollar Short Duration Bond Fu...
+LU0154237225
+Riesgo
+2/7
+Rentabilidad YTD
+1,35 %
+Rentabilidad 2025
+-7,03 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+BGF World Bond A2 USD
+LU0184696937
+Riesgo
+2/7
+Rentabilidad YTD
+1,56 %
+Rentabilidad 2025
+-7,82 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+BL - Corporate Bond Opportunities B
+LU0093571148
+Riesgo
+2/7
+Rentabilidad YTD
+0,57 %
+Rentabilidad 2025
+2,28 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Sin Restricciones
+BL - Global Bond Opportunities B
+LU0093569910
+Riesgo
+2/7
+Rentabilidad YTD
+0,59 %
+Rentabilidad 2025
+1,17 %
+Comisión de gestión*
+0,40 %
+
+***
+Inversión alternativa
+BL Alternative Strategies B
+LU1526088379
+Riesgo
+2/7
+Rentabilidad YTD
+3,91 %
+Rentabilidad 2025
+-
+Comisión de gestión*
+0,69 %
+
+***
+
+Renta Fija
+Gobiernos Global
+BNP Paribas Enhanced Bond 6M C
+LU0325598166
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,85 %
+Comisión de gestión*
+0,30 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+BNP Paribas Euro Corporate Bond N C
+LU0131211418
+Riesgo
+2/7
+Rentabilidad YTD
+0,50 %
+Rentabilidad 2025
+2,25 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas Euro MediumTerm Inc Bond...
+LU0086914362
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+2,22 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas Global Abs Return Bonds ...
+LU2155808491
+Riesgo
+2/7
+Rentabilidad YTD
+0,15 %
+Rentabilidad 2025
+4,39 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Global
+BNP Paribas Sustain Enhanced Bond 12...
+LU1819948784
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+2,63 %
+Comisión de gestión*
+0,30 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+BNP Paribas Sustain Euro Corp Bond C
+LU0265288877
+Riesgo
+2/7
+Rentabilidad YTD
+0,47 %
+Rentabilidad 2025
+2,24 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas Sustainable Euro Bond C
+LU0828230697
+Riesgo
+2/7
+Rentabilidad YTD
+0,59 %
+Rentabilidad 2025
+0,19 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Otros
+BNP Paribas USD Short Dur Bond CH EU...
+LU0194436803
+Riesgo
+2/7
+Rentabilidad YTD
+0,06 %
+Rentabilidad 2025
+3,41 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Mercados emergentes
+BNY Mellon Emerg Mrkts Corp Debt EUR...
+IE00BB7N4393
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+5,61 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Mercados emergentes
+BNY Mellon Emerg Mrkts Corp Debt USD...
+IE00BBMT6W55
+Riesgo
+2/7
+Rentabilidad YTD
+1,64 %
+Rentabilidad 2025
+-4,86 %
+Comisión de gestión*
+1,50 %
+
+***
+
+Renta Fija
+Sin Restricciones
+BNY Mellon Euroland Bond Fund Euro A
+IE0032722260
+Riesgo
+2/7
+Rentabilidad YTD
+0,55 %
+Rentabilidad 2025
+1,00 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+BNY Mellon Glob ShortDat High Yield ...
+IE00BD5CTS25
+Riesgo
+2/7
+Rentabilidad YTD
+1,57 %
+Rentabilidad 2025
+-6,06 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Corporativa High Yield
+BNY Mellon Glob ShortDated High Yiel...
+IE00BD5CTX77
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+4,32 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Sin Restricciones
+BSF ESG Fixed Income Strategies A2
+LU0438336264
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+4,98 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+BUY & HOLD Lux Debt_2
+LU2842969151
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+2,81 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa High Yield
+BlueBay Funds - BlueBay High Yield...
+LU0438373382
+Riesgo
+2/7
+Rentabilidad YTD
+0,63 %
+Rentabilidad 2025
+4,75 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+BlueBay Funds - BlueBay Investment...
+LU0627765794
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+2,07 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+BlueBay Funds - BlueBay Investment...
+LU0549547510
+Riesgo
+2/7
+Rentabilidad YTD
+0,59 %
+Rentabilidad 2025
+1,67 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa High Yield
+CM High Yield Short Dur_C
+FR0011829134
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+5,11 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+CS CORTO PLAZO FI CL B
+ES0155598032
+Riesgo
+2/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,26 %
+Comisión de gestión*
+0,35 %
+
+***
+
+Renta Fija
+Gobiernos Europa CP
+CS DURACION 0-2 CL B
+ES0126547035
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+2,03 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+CS RENTA FIJA 0-5 FI CL B
+ES0124880032
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+2,66 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Sin Restricciones
+CT (LUX) I EUROPEAN "AE" (EUR) D A
+LU2170387828
+Riesgo
+2/7
+Rentabilidad YTD
+0,46 %
+Rentabilidad 2025
+2,07 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Sin Restricciones
+CT European Strategic Bond AE
+LU0096353940
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+3,06 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Convertibles
+Candriam Bonds Convertible Defensive...
+LU0459959929
+Riesgo
+2/7
+Rentabilidad YTD
+0,54 %
+Rentabilidad 2025
+4,77 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Sin Restricciones
+Candriam Bonds Credit Opp C
+LU0151324422
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+2,77 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Candriam Bonds Euro Corporate C CAP
+LU0237839757
+Riesgo
+2/7
+Rentabilidad YTD
+0,50 %
+Rentabilidad 2025
+2,54 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Global
+Candriam Bonds Euro Short Term C
+LU0157929810
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,46 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Corporativa High Yield
+Candriam Bonds Global High Yield C
+LU0170291933
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+5,89 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Candriam Bonds International C CAP
+LU0012119433
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+2,05 %
+Comisión de gestión*
+0,70 %
+
+***
+
+Pg. 11
+Activos Reales
+Bonos ligados a la inflación
+Candriam Global Inflation Short Dur C
+LU0165520114
+Riesgo
+2/7
+Rentabilidad YTD
+0,01 %
+Rentabilidad 2025
+3,25 %
+Comisión de gestión*
+0,60 %
+
+***
+Inversión alternativa
+Candriam Index Arbitrage C
+FR0010016477
+Riesgo
+2/7
+Rentabilidad YTD
+-0,11 %
+Rentabilidad 2025
+1,86 %
+Comisión de gestión*
+0,40 %
+
+***
+Inversión alternativa
+Candriam Risk Arbitrage C
+FR0000438707
+Riesgo
+2/7
+Rentabilidad YTD
+0,59 %
+Rentabilidad 2025
+3,58 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Gobiernos Global
+Candriam Sustain Bond Euro Short Ter...
+LU1434521826
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+2,28 %
+Comisión de gestión*
+0,40 %
+
+***
+Mixtos
+Defensivo
+Candriam Sustain Defensive Asset All...
+LU1644442102
+Riesgo
+2/7
+Rentabilidad YTD
+0,49 %
+Rentabilidad 2025
+2,28 %
+Comisión de gestión*
+1,15 %
+
+***
+Renta Fija
+Corporativa High Yield
+Candriam Sustain Global High Yield C
+LU1644441120
+Riesgo
+2/7
+Rentabilidad YTD
+0,22 %
+Rentabilidad 2025
+4,38 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Candriam Sustainable Bond Euro Corp C
+LU1313770452
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+2,51 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Carmignac Credit 2027 _ A
+FR00140081Y1
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+3,52 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Sin Restricciones
+Carmignac Credit 2029 _ A
+FR001400KAV4
+Riesgo
+2/7
+Rentabilidad YTD
+0,37 %
+Rentabilidad 2025
+5,03 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Carmignac Credit 2031 A
+FR001400U4S3
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+5,07 %
+Comisión de gestión*
+1,00 %
+
+***
+
+Renta Fija
+Sin Restricciones
+Carmignac Portfolio - Credit A EUR A...
+LU1623762843
+Riesgo
+2/7
+Rentabilidad YTD
+0,41 %
+Rentabilidad 2025
+6,66 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Carmignac Portfolio - Flexible Bond ...
+LU0336084032
+Riesgo
+2/7
+Rentabilidad YTD
+0,42 %
+Rentabilidad 2025
+4,32 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Carmignac Portfolio - Global Bond A ...
+LU0336083497
+Riesgo
+2/7
+Rentabilidad YTD
+0,79 %
+Rentabilidad 2025
+0,45 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Carmignac Portfolio - Securite AW US...
+LU1299306834
+Riesgo
+2/7
+Rentabilidad YTD
+0,47 %
+Rentabilidad 2025
+-8,09 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Carmignac Securite AW EUR Acc
+FR0010149120
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+2,30 %
+Comisión de gestión*
+1,00 %
+
+***
+Mixtos
+Defensivo
+Cartesio Funds Income R
+LU1966822956
+Riesgo
+2/7
+Rentabilidad YTD
+0,86 %
+Rentabilidad 2025
+8,71 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+Credit Portfolio Class R EUR Shares
+LU0028445590
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+4,55 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Corporativa High Yield
+Credit Portfolio Class R USD Shares
+LU0761040426
+Riesgo
+2/7
+Rentabilidad YTD
+0,76 %
+Rentabilidad 2025
+-6,29 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Sin Restricciones
+DIP - Paradigma Flexible Bonds A
+LU0546216986
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+2,54 %
+Comisión de gestión*
+0,005 %
+
+***
+Mixtos
+Defensivo
+DIP Paradigma Conservative Multi Ass...
+LU0804746799
+Riesgo
+2/7
+Rentabilidad YTD
+0,63 %
+Rentabilidad 2025
+4,34 %
+Comisión de gestión*
+0,006 %
+
+***
+
+Renta Fija
+Sin Restricciones
+DNB Nordic Corporate Bonds A
+LU2319926858
+Riesgo
+2/7
+Rentabilidad YTD
+0,28 %
+Rentabilidad 2025
+3,59 %
+Comisión de gestión*
+0,499 %
+
+***
+Renta Fija
+Corporativa High Yield
+DNB Nordic High Yield RA EURHDG
+LU1303785361
+Riesgo
+2/7
+Rentabilidad YTD
+0,58 %
+Rentabilidad 2025
+3,87 %
+Comisión de gestión*
+0,799 %
+
+***
+Renta Fija
+Sin Restricciones
+DNCA Alpha Bonds A
+LU1694789451
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+4,89 %
+Comisión de gestión*
+1,19 %
+
+***
+Renta Fija
+Sin Restricciones
+DNCA Invest - Credit Conviction - A
+LU0284393930
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+4,61 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+DNCA Invest - Serenite Plus - A
+LU1490785414
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+2,78 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+DPAM Bonds L Corporate EUR B
+LU0029260675
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+2,10 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Sin Restricciones
+DPAM L - Bonds Universalis Unconstra...
+LU0138643068
+Riesgo
+2/7
+Rentabilidad YTD
+0,75 %
+Rentabilidad 2025
+0,77 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa High Yield
+DPAM L Bonds EUR High Yield Short Te...
+LU0517222054
+Riesgo
+2/7
+Rentabilidad YTD
+0,25 %
+Rentabilidad 2025
+3,36 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+DPAM L Bonds EUR Quality Sustain B
+LU0130967168
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+2,14 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+DPAM L Bonds Government Sustain B EU...
+LU0336683502
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+0,55 %
+Comisión de gestión*
+0,55 %
+***
+
+Inversión alternativa
+DUNAS Valor Equilibrado R
+ES0175414012
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+4,37 %
+Comisión de gestión*
+1,20 %
+
+***
+Inversión alternativa
+DUNAS Valor Prudente R
+ES0175437005
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+2,94 %
+Comisión de gestión*
+0,85 %
+
+***
+Renta Fija
+Mercados emergentes
+DWS Asian Bonds LCH EURHDG
+LU0813324364
+Riesgo
+2/7
+Rentabilidad YTD
+0,04 %
+Rentabilidad 2025
+4,73 %
+Comisión de gestión*
+1,10 %
+
+***
+Mixtos
+Defensivo
+DWS Concept DJE Alpha Renten Global ...
+LU0087412390
+Riesgo
+2/7
+Rentabilidad YTD
+2,08 %
+Rentabilidad 2025
+2,21 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+DWS Covered Bond Fund LC
+DE000DWS1UL0
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+1,59 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+DWS ESG Euro Bonds (Short) LC
+LU0145655824
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+2,63 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+DWS Euro Corporate Bonds LC
+LU0300357554
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+2,72 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Corporativa High Yield
+DWS Euro High Yield Corporates LC
+LU0616839501
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+3,34 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Sin Restricciones
+DWS Global Bonds LCH EURHDG
+LU0616844923
+Riesgo
+2/7
+Rentabilidad YTD
+0,49 %
+Rentabilidad 2025
+3,96 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Corporativa High Yield
+DWS Global Hybrid Bond LD Dist
+DE0008490988
+Riesgo
+2/7
+Rentabilidad YTD
+0,42 %
+Rentabilidad 2025
+6,15 %
+Comisión de gestión*
+0,75 %
+
+***
+
+Renta Fija
+Corporativa Inv Grade
+DWS Invest Corporate Hybrid Bonds LC
+LU1245923484
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+4,72 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Mercados emergentes
+DWS Invest ESG Asian Bonds USD LC
+LU1859276286
+Riesgo
+2/7
+Rentabilidad YTD
+-0,06 %
+Rentabilidad 2025
+-5,34 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+DWS Net Zero Trans Euro Corp Bonds L...
+LU2357625875
+Riesgo
+2/7
+Rentabilidad YTD
+0,61 %
+Rentabilidad 2025
+-7,79 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+DWS Short Duration Credit LC
+LU0236145453
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+3,35 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Sin Restricciones
+DWS Short Duration Income LC
+LU2220514363
+Riesgo
+2/7
+Rentabilidad YTD
+0,05 %
+Rentabilidad 2025
+3,52 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Corporativa High Yield
+EDM High Yield Short Duration Class ...
+LU0146855530
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+3,29 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Sin Restricciones
+EDR Millesima 2030 A
+FR001400S680
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+3,64 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+ETHNA DEFENSIV "RT" (EUR) ACC
+LU1134013462
+Riesgo
+2/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,54 %
+Comisión de gestión*
+1,10 %
+
+***
+Mixtos
+Defensivo
+Echiquier Arty SRI A
+FR0010611293
+Riesgo
+2/7
+Rentabilidad YTD
+0,88 %
+Rentabilidad 2025
+4,41 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Echiquier Credit SRI Europe A
+FR0010491803
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+2,46 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+Echiquier Hybrid Bonds A
+FR0013277571
+Riesgo
+2/7
+Rentabilidad YTD
+0,53 %
+Rentabilidad 2025
+4,12 %
+Comisión de gestión*
+1,30 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Echiquier Short Term Credit A
+FR0010839282
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,69 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Sin Restricciones
+EdR Fund Bond Allocation A - EUR
+LU1161527038
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,88 %
+Comisión de gestión*
+0,802 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+EdR SICAV - Euro Sustainable Credit ...
+FR0010172767
+Riesgo
+2/7
+Rentabilidad YTD
+0,48 %
+Rentabilidad 2025
+2,77 %
+Comisión de gestión*
+0,95 %
+
+***
+Inversión alternativa
+Eleva Absolute Return Europe Fund-Cl...
+LU1331971769
+Riesgo
+2/7
+Rentabilidad YTD
+1,91 %
+Rentabilidad 2025
+5,05 %
+Comisión de gestión*
+2,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Euro Fixed Income Fund C EUR
+LU0095343264
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+1,06 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Evli Corporate Bond Fund B
+FI0008801097
+Riesgo
+2/7
+Rentabilidad YTD
+0,52 %
+Rentabilidad 2025
+3,34 %
+Comisión de gestión*
+0,85 %
+
+***
+Renta Fija
+Corporativa High Yield
+Evli European High Yield Fund B
+FI0008803929
+Riesgo
+2/7
+Rentabilidad YTD
+0,67 %
+Rentabilidad 2025
+5,50 %
+Comisión de gestión*
+0,95 %
+
+***
+Renta Fija
+Sin Restricciones
+Evli Nordic Corporate Bond B
+FI0008811997
+Riesgo
+2/7
+Rentabilidad YTD
+0,33 %
+Rentabilidad 2025
+4,28 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Evli Short Corporate Bond B
+FI0008800511
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+3,80 %
+Comisión de gestión*
+0,55 %
+
+***
+
+Renta Fija
+Sin Restricciones
+FLOSSBACH VON STORCH Bond Opportunit...
+LU1481583711
+Riesgo
+2/7
+Rentabilidad YTD
+0,02 %
+Rentabilidad 2025
+2,79 %
+Comisión de gestión*
+0,865 %
+
+***
+Renta Fija
+Corporativa High Yield
+FRANKLIN HIGH YIELD "A" INC
+LU0065014192
+Riesgo
+2/7
+Rentabilidad YTD
+0,83 %
+Rentabilidad 2025
+-4,67 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Mercados emergentes
+FRONTIER MARKETS "R" (EUR) ACC
+LU0501220429
+Riesgo
+2/7
+Rentabilidad YTD
+1,24 %
+Rentabilidad 2025
+15,35 %
+Comisión de gestión*
+1,495 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Fidelity Euro Short Term Bond A
+LU0267388220
+Riesgo
+2/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+0,65 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa High Yield
+Fidelity European High Yield A
+LU0251130802
+Riesgo
+2/7
+Rentabilidad YTD
+0,68 %
+Rentabilidad 2025
+4,50 %
+Comisión de gestión*
+1,00 %
+
+***
+Activos Reales
+Bonos ligados a la inflación
+Fidelity Glob Inflation-linked A EURH
+LU0353649279
+Riesgo
+2/7
+Rentabilidad YTD
+0,32 %
+Rentabilidad 2025
+3,30 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Sin Restricciones
+Fidelity Glob Short Dur Income A EURH
+LU1731833304
+Riesgo
+2/7
+Rentabilidad YTD
+0,27 %
+Rentabilidad 2025
+4,75 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Fidelity Global Bond A EURHDG
+LU0337577430
+Riesgo
+2/7
+Rentabilidad YTD
+-0,15 %
+Rentabilidad 2025
+1,97 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Fidelity Global Income_A EURH Dist
+LU0893310481
+Riesgo
+2/7
+Rentabilidad YTD
+0,27 %
+Rentabilidad 2025
+5,82 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Fondo Ahorro
+ES0178172039
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+2,37 %
+Comisión de gestión*
+0,10 %
+
+***
+
+Renta Fija
+Gobiernos Europa CP
+Franklin Euro Short Duration Bond A
+LU1022658667
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+2,35 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Franklin Templeton - FTGF Western As...
+IE00B4Y6F514
+Riesgo
+2/7
+Rentabilidad YTD
+0,10 %
+Rentabilidad 2025
+2,75 %
+Comisión de gestión*
+0,85 %
+
+***
+Renta Fija
+Sin Restricciones
+Franklin Templeton- FTGF Western Ass...
+IE00B23Z7J34
+Riesgo
+2/7
+Rentabilidad YTD
+0,25 %
+Rentabilidad 2025
+4,26 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Corporativa High Yield
+Franklin Templeton- Franklin Euro Hi...
+LU0131126574
+Riesgo
+2/7
+Rentabilidad YTD
+0,44 %
+Rentabilidad 2025
+4,69 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+GAM Star Income O EURHDG
+IE00BQZHS253
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+3,45 %
+Comisión de gestión*
+1,30 %
+
+***
+Renta Fija
+Sin Restricciones
+GAM Swiss RE CAT BOND "ORD" USD
+IE00B4VZPG27
+Riesgo
+2/7
+Rentabilidad YTD
+0,86 %
+Rentabilidad 2025
+-3,70 %
+Comisión de gestión*
+1,30 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+GENERALI EURO BOND 1-3 YEARS "D" (EU...
+LU0396183542
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,72 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+GENERALI EURO SHORT TERM BOND "D" (E...
+LU0145485214
+Riesgo
+2/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+2,32 %
+Comisión de gestión*
+0,30 %
+
+***
+Renta Fija
+Mercados emergentes
+Goldman Sachs Asian Debt Hard Cur P ...
+LU0546914168
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+-4,99 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Mercados emergentes
+Goldman Sachs Emerg Mrkts Corp Bond ...
+LU0622305505
+Riesgo
+2/7
+Rentabilidad YTD
+0,48 %
+Rentabilidad 2025
+-4,42 %
+Comisión de gestión*
+1,25 %
+
+***
+
+Renta Fija
+Corporativa Inv Grade
+Goldman Sachs Euro Credit P
+LU0546918235
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+2,86 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Goldman Sachs Euro Short Dur B Plus ...
+LU0997587836
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+2,94 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Goldman Sachs Euro Short Dur Bond P
+LU0555025955
+Riesgo
+2/7
+Rentabilidad YTD
+0,17 %
+Rentabilidad 2025
+1,91 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Goldman Sachs Euro Sust Cred ex-Fina...
+LU0577843187
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+2,07 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Goldman Sachs Euro Susta Cred P
+LU1106538165
+Riesgo
+2/7
+Rentabilidad YTD
+0,37 %
+Rentabilidad 2025
+2,68 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Sin Restricciones
+Goldman Sachs Euromix Bond P
+LU0546916619
+Riesgo
+2/7
+Rentabilidad YTD
+0,15 %
+Rentabilidad 2025
+0,44 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Sin Restricciones
+Goldman Sachs Glob Fix Inc Plus Port...
+LU0268109229
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+-6,47 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Goldman Sachs Glob Fixed Inc Plus Po...
+LU0234590353
+Riesgo
+2/7
+Rentabilidad YTD
+-0,21 %
+Rentabilidad 2025
+3,98 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Goldman Sachs Global Dynam Bond Plus...
+LU0600006117
+Riesgo
+2/7
+Rentabilidad YTD
+0,21 %
+Rentabilidad 2025
+-3,30 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Goldman Sachs Global Fixed Inc Portf...
+LU0234681152
+Riesgo
+2/7
+Rentabilidad YTD
+-0,14 %
+Rentabilidad 2025
+3,21 %
+Comisión de gestión*
+0,70 %
+
+***
+
+Renta Fija
+Corporativa High Yield
+Goldman Sachs Global High Yield Portf
+LU0405800185
+Riesgo
+2/7
+Rentabilidad YTD
+0,44 %
+Rentabilidad 2025
+6,27 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Corporativa High Yield
+Goldman Sachs Global High Yield Portf
+LU0234573771
+Riesgo
+2/7
+Rentabilidad YTD
+0,62 %
+Rentabilidad 2025
+-4,38 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Goldman Sachs Green Bond Short Dur P
+LU1922483299
+Riesgo
+2/7
+Rentabilidad YTD
+0,30 %
+Rentabilidad 2025
+3,48 %
+Comisión de gestión*
+0,40 %
+
+***
+Inversión alternativa
+Goldman Sachs Protection - P Cap EUR
+LU0546913194
+Riesgo
+2/7
+Rentabilidad YTD
+0,84 %
+Rentabilidad 2025
+5,54 %
+Comisión de gestión*
+0,72 %
+
+***
+Renta Fija
+Sin Restricciones
+Groupama Alpha Fixed Income _NC
+LU0571102010
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+2,45 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+Groupama Dynamic Bond _ NC
+LU1226626759
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+2,01 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Groupama Euro Credit Short Duration ...
+FR0010288332
+Riesgo
+2/7
+Rentabilidad YTD
+0,32 %
+Rentabilidad 2025
+3,42 %
+Comisión de gestión*
+0,49 %
+
+***
+Renta Fija
+Sin Restricciones
+Groupama Euro Financial Debt _N
+FR0013259181
+Riesgo
+2/7
+Rentabilidad YTD
+0,82 %
+Rentabilidad 2025
+8,12 %
+Comisión de gestión*
+1,20 %
+
+***
+Activos Reales
+Bonos ligados a la inflación
+Groupama Global Inflat Short Dur _ NC
+LU1717592262
+Riesgo
+2/7
+Rentabilidad YTD
+0,06 %
+Rentabilidad 2025
+3,97 %
+Comisión de gestión*
+0,68 %
+
+***
+Renta Fija
+Sin Restricciones
+HSBC GIF Global High Income AC USD
+LU0524291613
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+-5,10 %
+Comisión de gestión*
+1,247 %
+
+***
+
+Renta Fija
+Corporativa High Yield
+HSBC GIF Global High Yield AC USD
+LU0780251400
+Riesgo
+2/7
+Rentabilidad YTD
+0,61 %
+Rentabilidad 2025
+-4,68 %
+Comisión de gestión*
+1,098 %
+
+***
+Renta Fija
+Sin Restricciones
+HSBC GIF Global Short Dur Bond AC U...
+LU1163226092
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+-7,10 %
+Comisión de gestión*
+0,499 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+HSBC GIF - Euro Credit Bond AC
+LU0165124784
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+2,48 %
+Comisión de gestión*
+0,848 %
+
+***
+Renta Fija
+Mercados emergentes
+HSBC GIF Asia Bond ACH EURHDG
+LU1436995879
+Riesgo
+2/7
+Rentabilidad YTD
+-0,10 %
+Rentabilidad 2025
+4,07 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Sin Restricciones
+HSBC GIF Euro Bond Total Return AC
+LU0988492970
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+3,28 %
+Comisión de gestión*
+0,898 %
+
+***
+Renta Fija
+Corporativa High Yield
+HSBC GIF US Short Dur High Yield AC ...
+LU0922809933
+Riesgo
+2/7
+Rentabilidad YTD
+0,77 %
+Rentabilidad 2025
+-5,71 %
+Comisión de gestión*
+0,898 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+HSBC Global Corp Bond Clim Transitio...
+LU1674672883
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+-6,52 %
+Comisión de gestión*
+0,798 %
+
+***
+Inversión alternativa
+Helium Selection B
+LU1112771503
+Riesgo
+2/7
+Rentabilidad YTD
+0,68 %
+Rentabilidad 2025
+7,74 %
+Comisión de gestión*
+1,75 %
+
+***
+Renta Fija
+Corporativa High Yield
+IMGP Global High Yield Fund C USD
+LU0688633410
+Riesgo
+2/7
+Rentabilidad YTD
+1,27 %
+Rentabilidad 2025
+-7,12 %
+Comisión de gestión*
+1,35 %
+
+***
+Renta Fija
+Corporativa High Yield
+IMPG Global High Yield C HP EURHDG
+LU0688633683
+Riesgo
+2/7
+Rentabilidad YTD
+0,81 %
+Rentabilidad 2025
+2,94 %
+Comisión de gestión*
+1,35 %
+
+Renta Fija
+Mercados emergentes
+Invesco EM Corporate Bond_A EURH
+LU0607516928
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+4,83 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Environm Clim Opp Bond_A EURH
+LU0794791367
+Riesgo
+2/7
+Rentabilidad YTD
+-0,12 %
+Rentabilidad 2025
+4,81 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Environm Climate Opp Bond_A ...
+LU0113592215
+Riesgo
+2/7
+Rentabilidad YTD
+0,08 %
+Rentabilidad 2025
+-5,50 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Euro Bond_A
+LU0066341099
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+1,26 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Invesco Euro Corporate Bond A
+LU0243957825
+Riesgo
+2/7
+Rentabilidad YTD
+0,46 %
+Rentabilidad 2025
+2,08 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Invesco Euro Short Term Bond A
+LU0607519195
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+2,35 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Invesco Glob InvGrade Corp Bd_A USD ...
+LU0432616141
+Riesgo
+2/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+-5,67 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Global Total Return Bond_A
+LU0534239909
+Riesgo
+2/7
+Rentabilidad YTD
+0,32 %
+Rentabilidad 2025
+5,19 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Global Total Return_A Dist
+LU0794790633
+Riesgo
+2/7
+Rentabilidad YTD
+0,32 %
+Rentabilidad 2025
+5,19 %
+Comisión de gestión*
+1,00 %
+
+***
+Mixtos
+Defensivo
+Invesco Pan European High Income A
+LU0243957239
+Riesgo
+2/7
+Rentabilidad YTD
+0,85 %
+Rentabilidad 2025
+6,24 %
+Comisión de gestión*
+1,25 %
+
+***
+
+Mixtos
+Defensivo
+Invesco Pan European High Income A D...
+LU0243957312
+Riesgo
+2/7
+Rentabilidad YTD
+0,86 %
+Rentabilidad 2025
+6,23 %
+Comisión de gestión*
+1,25 %
+
+***
+Mixtos
+Defensivo
+Invesco Pan European High Income A D...
+LU1097692153
+Riesgo
+2/7
+Rentabilidad YTD
+0,76 %
+Rentabilidad 2025
+6,29 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Sust Multi - Sector Credit_A
+LU0102737144
+Riesgo
+2/7
+Rentabilidad YTD
+0,25 %
+Rentabilidad 2025
+5,36 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Invesco Sust Multi Sector Credt_A Di...
+LU1097690371
+Riesgo
+2/7
+Rentabilidad YTD
+0,31 %
+Rentabilidad 2025
+5,37 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa High Yield
+Invesco US High Yield Bond A
+LU0794787761
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+-5,44 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM Aggregate Bond A EURHDG
+LU0430493212
+Riesgo
+2/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+2,55 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM Euro Aggregate Bond A
+LU0430492594
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+1,58 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+JPM Euro Corporate Bond A
+LU0408847340
+Riesgo
+2/7
+Rentabilidad YTD
+0,49 %
+Rentabilidad 2025
+3,00 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+JPM Euro Gov Short Duration Bond A
+LU0408877412
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+2,17 %
+Comisión de gestión*
+0,35 %
+
+***
+Renta Fija
+Corporativa High Yield
+JPM Europe High Yield Bond A
+LU0210531470
+Riesgo
+2/7
+Rentabilidad YTD
+0,57 %
+Rentabilidad 2025
+4,74 %
+Comisión de gestión*
+0,75 %
+
+***
+
+Renta Fija
+Corporativa High Yield
+JPM Europe High Yield Short Duration...
+LU1533169378
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+4,45 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM Global Government Bond A (acc) -...
+LU0406674076
+Riesgo
+2/7
+Rentabilidad YTD
+-0,33 %
+Rentabilidad 2025
+1,82 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM Global Government Short Duration...
+LU0408876448
+Riesgo
+2/7
+Rentabilidad YTD
+-0,09 %
+Rentabilidad 2025
+2,46 %
+Comisión de gestión*
+0,35 %
+
+***
+Renta Fija
+Corporativa High Yield
+JPM Global High Yield Bond A EURHDG
+LU0108415935
+Riesgo
+2/7
+Rentabilidad YTD
+0,37 %
+Rentabilidad 2025
+6,18 %
+Comisión de gestión*
+0,85 %
+
+***
+Mixtos
+Defensivo
+JPM Global Income Conservative A
+LU1458463079
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+7,22 %
+Comisión de gestión*
+1,25 %
+
+***
+Mixtos
+Defensivo
+JPM Global Income Conservative A (di...
+LU1458463152
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+7,22 %
+Comisión de gestión*
+1,25 %
+
+***
+Mixtos
+Defensivo
+JPM Global Income Conservative A (di...
+LU1458463236
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+7,23 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM Global Strategic Bond A EUR (hed...
+LU1378863085
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+3,87 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM Income Opportunity A (perf) EUR ...
+LU0289470113
+Riesgo
+2/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+1,42 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM US Aggregate Bond A EURHDG
+LU0679000579
+Riesgo
+2/7
+Rentabilidad YTD
+-0,39 %
+Rentabilidad 2025
+4,27 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM US Aggregate Bond A USD
+LU0210532957
+Riesgo
+2/7
+Rentabilidad YTD
+-0,18 %
+Rentabilidad 2025
+-6,03 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Sin Restricciones
+JPM US Bond A USD
+LU0070215933
+Riesgo
+2/7
+Rentabilidad YTD
+-0,10 %
+Rentabilidad 2025
+-6,04 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Gobiernos Otros
+JPM US Short Duration Bond A USD
+LU0562247428
+Riesgo
+2/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+-7,32 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Sin Restricciones
+JSS Sust Bond EUR BROAD P
+LU2076223622
+Riesgo
+2/7
+Rentabilidad YTD
+0,51 %
+Rentabilidad 2025
+0,66 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa High Yield
+JSS Twelve Sustain Insurance Bond P
+LU1111708357
+Riesgo
+2/7
+Rentabilidad YTD
+0,49 %
+Rentabilidad 2025
+4,86 %
+Comisión de gestión*
+1,00 %
+
+***
+Inversión alternativa
+Janus Henderson Absolute Return A2 H...
+LU0490786174
+Riesgo
+2/7
+Rentabilidad YTD
+0,30 %
+Rentabilidad 2025
+4,81 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Janus Henderson Euro Corp Bond A2
+LU0451950314
+Riesgo
+2/7
+Rentabilidad YTD
+0,56 %
+Rentabilidad 2025
+2,41 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Gobiernos Otros
+Janus Henderson US Short Dur A2 HEUR
+IE0009533641
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+3,32 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Sin Restricciones
+Jupiter Asset Management Series PLC ...
+IE0031386414
+Riesgo
+2/7
+Rentabilidad YTD
+0,47 %
+Rentabilidad 2025
+-5,41 %
+Comisión de gestión*
+1,00 %
+
+***
+Inversión alternativa
+Jupiter Asset Management Series PLC ...
+IE00BLP5S460
+Riesgo
+2/7
+Rentabilidad YTD
+-0,10 %
+Rentabilidad 2025
+13,67 %
+Comisión de gestión*
+1,50 %
+
+***
+
+Renta Fija
+Corporativa High Yield
+LAZARD CREDIT FI SRI RVC EUR
+FR0010752543
+Riesgo
+2/7
+Rentabilidad YTD
+0,64 %
+Rentabilidad 2025
+6,05 %
+Comisión de gestión*
+0,97 %
+
+***
+Mixtos
+Defensivo
+LAZARD PATRIMOINE SRI RC EUR
+FR0012355139
+Riesgo
+2/7
+Rentabilidad YTD
+0,81 %
+Rentabilidad 2025
+1,06 %
+Comisión de gestión*
+1,38 %
+
+***
+Inversión alternativa
+LAZARD RATHMORE Alternative BP EURHDG
+IE00BFZ4RX34
+Riesgo
+2/7
+Rentabilidad YTD
+0,59 %
+Rentabilidad 2025
+4,59 %
+Comisión de gestión*
+2,50 %
+
+***
+Mixtos
+Defensivo
+LO All Roads Conservative P
+LU1514035655
+Riesgo
+2/7
+Rentabilidad YTD
+0,85 %
+Rentabilidad 2025
+2,74 %
+Comisión de gestión*
+0,35 %
+
+***
+Renta Fija
+Sin Restricciones
+LO Global Clim Bd, Syst. Multi Ccy H...
+LU1532731541
+Riesgo
+2/7
+Rentabilidad YTD
+-0,03 %
+Rentabilidad 2025
+2,18 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Sin Restricciones
+LO Global Fixed Income Opp P
+LU0970177431
+Riesgo
+2/7
+Rentabilidad YTD
+-0,01 %
+Rentabilidad 2025
+3,32 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+LO TargetNetZero Credit Bd P
+LU0465332160
+Riesgo
+2/7
+Rentabilidad YTD
+0,30 %
+Rentabilidad 2025
+1,92 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Gobiernos Global
+LO Ultra Low Duration P
+LU1230566553
+Riesgo
+2/7
+Rentabilidad YTD
+0,17 %
+Rentabilidad 2025
+2,71 %
+Comisión de gestión*
+0,15 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+La Francaise Carbon Impact Floating ...
+FR0013439148
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+3,51 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+La Francaise Financial Bonds 2027 RC
+FR001400I1A3
+Riesgo
+2/7
+Rentabilidad YTD
+0,16 %
+Rentabilidad 2025
+3,66 %
+Comisión de gestión*
+0,87 %
+
+***
+
+Renta Fija
+Sin Restricciones
+Latin American Corporate Debt, A, Ac...
+LU0492942718
+Riesgo
+2/7
+Rentabilidad YTD
+0,66 %
+Rentabilidad 2025
+-4,25 %
+Comisión de gestión*
+1,50 %
+
+***
+Inversión alternativa
+Lazard European Alternative Fund BP ...
+IE00BYQCRX98
+Riesgo
+2/7
+Rentabilidad YTD
+2,40 %
+Rentabilidad 2025
+3,11 %
+Comisión de gestión*
+2,25 %
+
+***
+Renta Fija
+Mercados emergentes
+Loomis Sayles Short Term Em Mrkts Bd...
+LU0980585672
+Riesgo
+2/7
+Rentabilidad YTD
+0,15 %
+Rentabilidad 2025
+4,20 %
+Comisión de gestión*
+1,05 %
+
+***
+Renta Fija
+Corporativa High Yield
+Lord Abbett Global Funds I plc - Lor...
+IE00BD8D5J55
+Riesgo
+2/7
+Rentabilidad YTD
+0,86 %
+Rentabilidad 2025
+4,68 %
+Comisión de gestión*
+1,35 %
+
+***
+Renta Fija
+Gobiernos Otros
+Lord Abbett Global Funds I plc - Lor...
+IE00BYP0Y993
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+3,31 %
+Comisión de gestión*
+1,00 %
+
+***
+Activos Reales
+Bonos ligados a la inflación
+M&G Euro Inflat Linked Corp Bond A
+LU1582984149
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+2,94 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+M&G Euro Corporate Bond A
+LU1670629549
+Riesgo
+2/7
+Rentabilidad YTD
+0,33 %
+Rentabilidad 2025
+2,64 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+M&G European Credit P
+LU2482630162
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+2,26 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+M&G Global Float Rate High Yield A-H...
+LU1670722161
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+3,09 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Global
+M&G Short Dated Corp Bond A
+LU1670718219
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+3,12 %
+Comisión de gestión*
+0,25 %
+
+***
+
+Renta Fija
+Sin Restricciones
+M&G Total Return Credit Invest P
+LU2482630675
+Riesgo
+2/7
+Rentabilidad YTD
+0,25 %
+Rentabilidad 2025
+2,19 %
+Comisión de gestión*
+0,00 %
+
+***
+Mixtos
+Defensivo
+MARCH INTERNATIONAL - TORRENOVA LUX ...
+LU0566417423
+Riesgo
+2/7
+Rentabilidad YTD
+0,46 %
+Rentabilidad 2025
+3,59 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Corporativa High Yield
+MFS Meridian Funds - Global High Yie...
+LU0035377810
+Riesgo
+2/7
+Rentabilidad YTD
+0,84 %
+Rentabilidad 2025
+-4,82 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+MFS Meridian Funds - Global Opportun...
+LU1340703070
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+2,60 %
+Comisión de gestión*
+0,55 %
+
+***
+Renta Fija
+Sin Restricciones
+MIRALTA SICAV - SEQUOIA - Class A EUR
+LU2638558333
+Riesgo
+2/7
+Rentabilidad YTD
+0,99 %
+Rentabilidad 2025
+3,16 %
+Comisión de gestión*
+1,05 %
+
+***
+Renta Fija
+Sin Restricciones
+MUTUAFONDO BONOS FINANCIEROS D
+ES0124143019
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+3,86 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+MUTUAFONDO CORTO PLAZO D FI
+ES0165142003
+Riesgo
+2/7
+Rentabilidad YTD
+0,16 %
+Rentabilidad 2025
+2,54 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+MUTUAFONDO D FI
+ES0165237001
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+3,22 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+MUTUAFONDO FLEXIBLE BOND A
+LU3105996899
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+-
+Comisión de gestión*
+0,93 %
+
+***
+Mixtos
+Defensivo
+MUTUAFONDO FORTALEZA D FI
+ES0165145014
+Riesgo
+2/7
+Rentabilidad YTD
+0,60 %
+Rentabilidad 2025
+6,41 %
+Comisión de gestión*
+1,00 %
+
+***
+
+Renta Fija
+Sin Restricciones
+MUTUAFONDO LARGO PLAZO A
+ES0165240039
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+3,01 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Corporativa High Yield
+Mirabaud Global High Yield Bonds AH ...
+LU0862027439
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+4,59 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Mirabaud Global Strategic Bond AH EU...
+LU0963986467
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+2,34 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Mirova Euro Green and Sust Corp Bd R
+LU0552643842
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+2,20 %
+Comisión de gestión*
+0,776 %
+
+***
+Renta Fija
+Sin Restricciones
+Morgan Stanley Global Asset Backed S...
+LU0858068660
+Riesgo
+2/7
+Rentabilidad YTD
+-0,16 %
+Rentabilidad 2025
+5,19 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Morgan Stanley Short Maturity Euro B...
+LU0073235904
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+2,30 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Gobiernos Otros
+Morgan Stanley USD Short Dur Bond A ...
+LU1387591990
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+-7,80 %
+Comisión de gestión*
+0,50 %
+
+***
+Mixtos
+Defensivo
+Multi Asset Strategic Allocation B
+LU1022124520
+Riesgo
+2/7
+Rentabilidad YTD
+2,63 %
+Rentabilidad 2025
+8,28 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Mercados emergentes
+Muzinich EmergingMarketsShortDuratio...
+IE00BFNXVS58
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+3,89 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Sin Restricciones
+Muzinich Enhancedyield Short-Term Fu...
+IE00B4MQD153
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+3,64 %
+Comisión de gestión*
+0,75 %
+
+***
+
+Renta Fija
+Sin Restricciones
+Muzinich Enhancedyield Short-Term Fu...
+IE00B65YMK29
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+3,64 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Muzinich Global Tactical Credit Fund
+IE00BHLSJ936
+Riesgo
+2/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+3,24 %
+Comisión de gestión*
+1,35 %
+
+***
+Renta Fija
+Corporativa High Yield
+Muzinich LongShortCreditYield Fund
+IE00BF8H6M17
+Riesgo
+2/7
+Rentabilidad YTD
+0,25 %
+Rentabilidad 2025
+1,40 %
+Comisión de gestión*
+1,50 %
+
+***
+Renta Fija
+Sin Restricciones
+Muzinich Market Duration EnhancedYie...
+IE00B4V6QY02
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+4,10 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Sin Restricciones
+NORDEA 1 European Cross Credit BP
+LU0733673288
+Riesgo
+2/7
+Rentabilidad YTD
+0,49 %
+Rentabilidad 2025
+4,66 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+NORDEA 1 European High Yield BP
+LU1927798717
+Riesgo
+2/7
+Rentabilidad YTD
+0,75 %
+Rentabilidad 2025
+2,69 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Mercados emergentes
+Neuberger Berman Short Duration Emer...
+IE00BDZRWZ54
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+6,34 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Nordea Active Rates Opp BP
+LU1915690595
+Riesgo
+2/7
+Rentabilidad YTD
+-0,29 %
+Rentabilidad 2025
+5,71 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Nordea Active Rates Opp BP
+LU0076315455
+Riesgo
+2/7
+Rentabilidad YTD
+0,28 %
+Rentabilidad 2025
+2,55 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Sin Restricciones
+Nordea Danish Covered Bond BP
+LU0173779223
+Riesgo
+2/7
+Rentabilidad YTD
+0,17 %
+Rentabilidad 2025
+2,01 %
+Comisión de gestión*
+0,60 %
+
+***
+
+Renta Fija
+Corporativa Inv Grade
+Nordea Euro Corp Sustain Stars Bd_BP
+LU1927797156
+Riesgo
+2/7
+Rentabilidad YTD
+0,41 %
+Rentabilidad 2025
+2,48 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Nordea Euro Financial Debt BP
+LU0772944145
+Riesgo
+2/7
+Rentabilidad YTD
+0,60 %
+Rentabilidad 2025
+4,60 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+Nordea Euro High Yield Bond BP
+LU0141799501
+Riesgo
+2/7
+Rentabilidad YTD
+0,63 %
+Rentabilidad 2025
+5,27 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Nordea European Corp Bond BP
+LU0173783928
+Riesgo
+2/7
+Rentabilidad YTD
+0,41 %
+Rentabilidad 2025
+2,64 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Sin Restricciones
+Nordea Flexible Fixed Income BP
+LU0915365364
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+1,16 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Nordea Low Dur Euro Covered Bond BP
+LU1694212348
+Riesgo
+2/7
+Rentabilidad YTD
+0,15 %
+Rentabilidad 2025
+3,93 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Sin Restricciones
+ODDO BHF Credit Opportunities CR
+LU1752460292
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+2,52 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+ODDO BHF Euro Credit Short Duration ...
+LU1486845537
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+3,64 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa High Yield
+ODDO BHF Euro High Yield Bond CR-EUR
+LU0115290974
+Riesgo
+2/7
+Rentabilidad YTD
+0,43 %
+Rentabilidad 2025
+4,10 %
+Comisión de gestión*
+1,40 %
+
+***
+Mixtos
+Defensivo
+ODDO BHF Polaris Moderate CR (EUR)
+DE000A2JJ1W5
+Riesgo
+2/7
+Rentabilidad YTD
+0,77 %
+Rentabilidad 2025
+2,10 %
+Comisión de gestión*
+1,15 %
+
+***
+
+Renta Fija
+Corporativa Inv Grade
+ODDO BHF Sustainable Euro Corporate ...
+LU0145975222
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+2,36 %
+Comisión de gestión*
+0,90 %
+
+***
+Renta Fija
+Corporativa High Yield
+Oaktree Global High Yield Bond Fund ...
+LU0854923900
+Riesgo
+2/7
+Rentabilidad YTD
+0,63 %
+Rentabilidad 2025
+4,60 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Ostrum Credit Short Dur I
+LU0935221761
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+3,29 %
+Comisión de gestión*
+0,250 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Ostrum Credit Short Duration R
+LU0935222066
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+2,79 %
+Comisión de gestión*
+0,600 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+PIMCO Euro Credit Fund E
+IE00B3KR3M49
+Riesgo
+2/7
+Rentabilidad YTD
+0,55 %
+Rentabilidad 2025
+2,56 %
+Comisión de gestión*
+1,36 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+PIMCO Euro Short-Term E
+IE00B11XYZ73
+Riesgo
+2/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+2,05 %
+Comisión de gestión*
+1,04 %
+
+***
+Renta Fija
+Gobiernos Global
+PIMCO European Short-Term Opp E
+IE00B90VC092
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+4,00 %
+Comisión de gestión*
+0,97 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+PIMCO Global Inv Grade Cred Inv EUR ...
+IE00B063CF11
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+4,86 %
+Comisión de gestión*
+0,49 %
+
+***
+Renta Fija
+Sin Restricciones
+PIMCO Income Fund Investor EUR (Hedg...
+IE00BWY53M78
+Riesgo
+2/7
+Rentabilidad YTD
+0,27 %
+Rentabilidad 2025
+7,89 %
+Comisión de gestión*
+0,55 %
+
+***
+Renta Fija
+Gobiernos Global
+PIMCO Low Duration Income E EURHDG
+IE00BDT57Y96
+Riesgo
+2/7
+Rentabilidad YTD
+0,18 %
+Rentabilidad 2025
+6,42 %
+Comisión de gestión*
+1,45 %
+
+***
+
+Renta Fija
+Gobiernos Global
+PIMCO Low Duration income E EURH Dis
+IE00BDT57Z04
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+6,42 %
+Comisión de gestión*
+1,45 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Pictet - EUR Corporate Bonds - P
+LU0128470845
+Riesgo
+2/7
+Rentabilidad YTD
+0,43 %
+Rentabilidad 2025
+2,63 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Pictet - EUR Income Opportunities - P
+LU0167158327
+Riesgo
+2/7
+Rentabilidad YTD
+0,26 %
+Rentabilidad 2025
+2,13 %
+Comisión de gestión*
+0,56 %
+
+***
+Renta Fija
+Gobiernos Global
+Pictet - EUR Short Term Corporate Bo...
+LU0954602750
+Riesgo
+2/7
+Rentabilidad YTD
+0,33 %
+Rentabilidad 2025
+3,34 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Mercados emergentes
+Pictet - Short Term Emerging Corpora...
+LU1055196213
+Riesgo
+2/7
+Rentabilidad YTD
+0,65 %
+Rentabilidad 2025
+-6,02 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Gobiernos Otros
+Pictet - USD Short Mid-Term Bonds - P
+LU0175073625
+Riesgo
+2/7
+Rentabilidad YTD
+0,09 %
+Rentabilidad 2025
+-7,30 %
+Comisión de gestión*
+0,30 %
+
+***
+Inversión alternativa
+Pictet TR - Atlas - P EUR
+LU1433232854
+Riesgo
+2/7
+Rentabilidad YTD
+1,32 %
+Rentabilidad 2025
+6,68 %
+Comisión de gestión*
+1,60 %
+
+***
+Inversión alternativa
+QUALITY GLOBAL, FI
+ES0114122031
+Riesgo
+2/7
+Rentabilidad YTD
+0,82 %
+Rentabilidad 2025
+3,28 %
+Comisión de gestión*
+1,25 %
+
+***
+Mixtos
+Defensivo
+QUALITY INVERSION CONSERVADORA, FI
+ES0172273007
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+3,02 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Quaestio Global Enhanced Cash R
+LU0981470809
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+2,78 %
+Comisión de gestión*
+0,85 %
+
+***
+
+Inversión alternativa
+RENTA 4 PEGASUS CLASE R
+ES0173321003
+Riesgo
+2/7
+Rentabilidad YTD
+0,32 %
+Rentabilidad 2025
+2,90 %
+Comisión de gestión*
+0,85 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+RENTA 4 Renta Fija Euro B
+ES0173319015
+Riesgo
+2/7
+Rentabilidad YTD
+0,12 %
+Rentabilidad 2025
+2,71 %
+Comisión de gestión*
+0,45 %
+
+***
+Inversión alternativa
+RENTA 4 VALOR RELATIVO CLASE R
+ES0128522002
+Riesgo
+2/7
+Rentabilidad YTD
+0,30 %
+Rentabilidad 2025
+2,82 %
+Comisión de gestión*
+0,85 %
+
+***
+Renta Fija
+Gobiernos Global
+ROBECO QI GLOBAL DYNAMIC DURATION "D...
+LU2819788964
+Riesgo
+2/7
+Rentabilidad YTD
+-0,02 %
+Rentabilidad 2025
+-1,20 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Sin Restricciones
+ROBECO SUSTAINABLE GL "DH" (EURHDG)
+LU2885076518
+Riesgo
+2/7
+Rentabilidad YTD
+-0,13 %
+Rentabilidad 2025
+3,34 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Sin Restricciones
+Robeco QI Long/Short Dynamic Dura D
+LU0230242504
+Riesgo
+2/7
+Rentabilidad YTD
+0,28 %
+Rentabilidad 2025
+-0,47 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+SANTALUCIA RENTA FIJA CORTO PLAZO EU...
+ES0170156030
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,72 %
+Comisión de gestión*
+0,32 %
+
+***
+Renta Fija
+Sin Restricciones
+SANTALUCIA RENTA FIJA, FI CL B
+ES0170138038
+Riesgo
+2/7
+Rentabilidad YTD
+0,34 %
+Rentabilidad 2025
+2,36 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+SIGMA Hous F
+LU1984948874
+Riesgo
+2/7
+Rentabilidad YTD
+0,56 %
+Rentabilidad 2025
+4,59 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+SIGMA INVESTMENT HOUSE AHORRO, FI, C...
+ES0141580037
+Riesgo
+2/7
+Rentabilidad YTD
+0,28 %
+Rentabilidad 2025
+3,07 %
+Comisión de gestión*
+0,50 %
+
+***
+
+Renta Fija
+Gobiernos Europa CP
+SPB RF Ahorro_A
+ES0112793007
+Riesgo
+2/7
+Rentabilidad YTD
+0,03 %
+Rentabilidad 2025
+2,52 %
+Comisión de gestión*
+0,25 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Santander Euro Corporate Bond B
+LU0094946778
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+2,06 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Santander Euro Corporate Bond_AD Dist
+LU1003778534
+Riesgo
+2/7
+Rentabilidad YTD
+0,37 %
+Rentabilidad 2025
+-0,86 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Santander Euro Corporate Bond_BD Dist
+LU1003778880
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+-0,61 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Santander GO Dynamic Bond A
+LU2004895350
+Riesgo
+2/7
+Rentabilidad YTD
+0,50 %
+Rentabilidad 2025
+-5,72 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Santander GO Dynamic Bond B
+LU2004895434
+Riesgo
+2/7
+Rentabilidad YTD
+0,52 %
+Rentabilidad 2025
+-5,38 %
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Santander GO Dynamic Bond BEH
+LU2260720631
+Riesgo
+2/7
+Rentabilidad YTD
+0,31 %
+Rentabilidad 2025
+4,95 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Corporativa High Yield
+Santander Go Global High Yield A USD
+LU2360100155
+Riesgo
+2/7
+Rentabilidad YTD
+1,00 %
+Rentabilidad 2025
+-5,96 %
+Comisión de gestión*
+1,15 %
+
+***
+Renta Fija
+Mercados emergentes
+Santander Latin American Corporate B...
+LU0047567978
+Riesgo
+2/7
+Rentabilidad YTD
+0,59 %
+Rentabilidad 2025
+-4,96 %
+Comisión de gestión*
+0,00 %
+
+***
+Mixtos
+Defensivo
+Santander Multi Asset Conserv Growth...
+LU0428586258
+Riesgo
+2/7
+Rentabilidad YTD
+0,42 %
+Rentabilidad 2025
+-5,39 %
+Comisión de gestión*
+0,00 %
+
+***
+
+Mixtos
+Defensivo
+Santander Multi Asset Conservative G...
+LU0428586332
+Riesgo
+2/7
+Rentabilidad YTD
+0,44 %
+Rentabilidad 2025
+-4,94 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Santander Renta Fija Flotante
+ES0107943005
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+2,27 %
+Comisión de gestión*
+0,40 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Santander Renta Fija Privada
+ES0175164039
+Riesgo
+2/7
+Rentabilidad YTD
+0,27 %
+Rentabilidad 2025
+1,69 %
+Comisión de gestión*
+1,40 %
+
+***
+Mixtos
+Moderado
+Santander Responsabilidad Solidario
+ES0145821007
+Riesgo
+2/7
+Rentabilidad YTD
+0,47 %
+Rentabilidad 2025
+3,96 %
+Comisión de gestión*
+1,10 %
+
+***
+Mixtos
+Moderado
+Santander Select Income AD Dist
+LU1590077316
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+-
+Comisión de gestión*
+0,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Santander Sostenible Bonos_A
+ES0113608006
+Riesgo
+2/7
+Rentabilidad YTD
+0,27 %
+Rentabilidad 2025
+1,93 %
+Comisión de gestión*
+0,60 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Santander Sostenible RF Ahorro_A
+ES0138986031
+Riesgo
+2/7
+Rentabilidad YTD
+0,21 %
+Rentabilidad 2025
+2,28 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Sin Restricciones
+Schelcher Flexible Short Duration ES...
+FR0010707513
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+4,00 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Mercados emergentes
+Schroder ISF Asian Bond Total Return...
+LU0106250508
+Riesgo
+2/7
+Rentabilidad YTD
+-0,06 %
+Rentabilidad 2025
+-7,73 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Mercados emergentes
+Schroder ISF Asian Bond Total Return...
+LU0327381843
+Riesgo
+2/7
+Rentabilidad YTD
+-0,28 %
+Rentabilidad 2025
+2,39 %
+Comisión de gestión*
+1,00 %
+
+***
+
+Renta Fija
+Mercados emergentes
+Schroder ISF BlueOrchard Emerg Mrkt ...
+LU2498533483
+Riesgo
+2/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+4,08 %
+Comisión de gestión*
+1,45 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Schroder ISF EURO Corporate Bond A A...
+LU0113257694
+Riesgo
+2/7
+Rentabilidad YTD
+0,49 %
+Rentabilidad 2025
+3,43 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Schroder ISF EURO Credit Conviction ...
+LU0995119665
+Riesgo
+2/7
+Rentabilidad YTD
+0,54 %
+Rentabilidad 2025
+3,85 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Schroder ISF EURO Credit Conviction ...
+LU0995120242
+Riesgo
+2/7
+Rentabilidad YTD
+0,54 %
+Rentabilidad 2025
+3,85 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+Schroder ISF EURO High Yield A ACC
+LU0849399786
+Riesgo
+2/7
+Rentabilidad YTD
+0,74 %
+Rentabilidad 2025
+4,88 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Schroder ISF EURO Short Term Bond A ...
+LU0106234643
+Riesgo
+2/7
+Rentabilidad YTD
+0,24 %
+Rentabilidad 2025
+2,58 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Schroder ISF Euro Credit Conviction ...
+LU1293074719
+Riesgo
+2/7
+Rentabilidad YTD
+0,40 %
+Rentabilidad 2025
+3,46 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Schroder ISF Global Bond A ACC EUR H...
+LU0694808618
+Riesgo
+2/7
+Rentabilidad YTD
+0,07 %
+Rentabilidad 2025
+2,57 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Mercados emergentes
+Schroder ISF Global Credit High Inco...
+LU0575582027
+Riesgo
+2/7
+Rentabilidad YTD
+0,41 %
+Rentabilidad 2025
+-3,49 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Mercados emergentes
+Schroder ISF Global Credit High Inco...
+LU0592039324
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+7,04 %
+Comisión de gestión*
+1,20 %
+
+***
+
+Renta Fija
+Sin Restricciones
+Schroder ISF Global Credit Income A ...
+LU1737068558
+Riesgo
+2/7
+Rentabilidad YTD
+0,33 %
+Rentabilidad 2025
+-4,56 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Corporativa High Yield
+Schroder ISF Global High Yield A ACC
+LU0189893018
+Riesgo
+2/7
+Rentabilidad YTD
+0,90 %
+Rentabilidad 2025
+-5,30 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa High Yield
+Schroder ISF Global High Yield A Dis...
+LU0205194797
+Riesgo
+2/7
+Rentabilidad YTD
+0,91 %
+Rentabilidad 2025
+-5,30 %
+Comisión de gestión*
+1,00 %
+
+***
+Mixtos
+Moderado
+Schroder ISF Global Target Return A ...
+LU1900986727
+Riesgo
+2/7
+Rentabilidad YTD
+1,76 %
+Rentabilidad 2025
+12,00 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Sin Restricciones
+Schroder ISF Strategic Bond A ACC
+LU0201322137
+Riesgo
+2/7
+Rentabilidad YTD
+0,32 %
+Rentabilidad 2025
+-4,22 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+Schroder ISF Strategic Credit A EURH
+LU1046235732
+Riesgo
+2/7
+Rentabilidad YTD
+0,33 %
+Rentabilidad 2025
+4,69 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Schroder ISF Sustain EURO Credit A
+LU2080993616
+Riesgo
+2/7
+Rentabilidad YTD
+0,42 %
+Rentabilidad 2025
+2,98 %
+Comisión de gestión*
+0,75 %
+
+***
+Renta Fija
+Corporativa High Yield
+Sextant Bond Picking A
+FR0013202132
+Riesgo
+2/7
+Rentabilidad YTD
+0,38 %
+Rentabilidad 2025
+4,23 %
+Comisión de gestión*
+1,25 %
+
+***
+Renta Fija
+Corporativa High Yield
+Swisscanto Bond Com Secur High Yield...
+LU1057799097
+Riesgo
+2/7
+Rentabilidad YTD
+0,57 %
+Rentabilidad 2025
+4,13 %
+Comisión de gestión*
+1,05 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+T. Rowe Price Euro Corp Bond A
+LU0133089424
+Riesgo
+2/7
+Rentabilidad YTD
+0,47 %
+Rentabilidad 2025
+2,95 %
+Comisión de gestión*
+0,435 %
+
+***
+
+Renta Fija
+Sin Restricciones
+Templeton Sustainable Global Bond A
+LU0170474422
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+6,42 %
+Comisión de gestión*
+1,05 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Tikehau Fund - Tikehau Short Duratio...
+LU1585265066
+Riesgo
+2/7
+Rentabilidad YTD
+0,13 %
+Rentabilidad 2025
+2,92 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Trea Renta Fija Ahorro S
+ES0125240038
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,45 %
+Comisión de gestión*
+0,55 %
+
+***
+Renta Fija
+Sin Restricciones
+Trea Renta Fija FI
+ES0168662031
+Riesgo
+2/7
+Rentabilidad YTD
+0,28 %
+Rentabilidad 2025
+2,63 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Sin Restricciones
+Twelve Cat Bond Fund B EURHDG
+IE00BD2B9603
+Riesgo
+2/7
+Rentabilidad YTD
+0,15 %
+Rentabilidad 2025
+6,52 %
+Comisión de gestión*
+1,525 %
+
+***
+Renta Fija
+Gobiernos Otros
+UBAM USD Floating Rates Notes A EURH...
+LU0352158918
+Riesgo
+2/7
+Rentabilidad YTD
+0,19 %
+Rentabilidad 2025
+2,89 %
+Comisión de gestión*
+0,11 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Bond CHF Flexible_P CHF
+LU0010001369
+Riesgo
+2/7
+Rentabilidad YTD
+0,51 %
+Rentabilidad 2025
+1,19 %
+Comisión de gestión*
+0,63 %
+
+***
+Renta Fija
+Mercados emergentes
+UBS Bond China Fixed Income RMB_P EU...
+LU2257619812
+Riesgo
+2/7
+Rentabilidad YTD
+0,11 %
+Rentabilidad 2025
+0,25 %
+Comisión de gestión*
+0,96 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+UBS Bond EUR Corp_P
+LU0162626096
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+2,70 %
+Comisión de gestión*
+0,86 %
+
+***
+Renta Fija
+Mercados emergentes
+UBS Bond Emerg Econom Corp (USD) P ...
+LU0896022620
+Riesgo
+2/7
+Rentabilidad YTD
+1,00 %
+Rentabilidad 2025
+7,00 %
+Comisión de gestión*
+1,28 %
+
+***
+
+Renta Fija
+Corporativa High Yield
+UBS Bond Euro High Yield_P
+LU0086177085
+Riesgo
+2/7
+Rentabilidad YTD
+0,73 %
+Rentabilidad 2025
+5,49 %
+Comisión de gestión*
+1,01 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Bond Global Flexible (CAD hedged...
+LU1467572357
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+-3,07 %
+Comisión de gestión*
+0,95 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Bond Global Flexible P GBPH
+LU1991433365
+Riesgo
+2/7
+Rentabilidad YTD
+0,98 %
+Rentabilidad 2025
+0,73 %
+Comisión de gestión*
+0,95 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Bond Global Flexible_P CHF
+LU0071006638
+Riesgo
+2/7
+Rentabilidad YTD
+0,73 %
+Rentabilidad 2025
+2,89 %
+Comisión de gestión*
+0,91 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Bond Global Short Term Flex_P GB...
+LU2327293929
+Riesgo
+2/7
+Rentabilidad YTD
+1,04 %
+Rentabilidad 2025
+0,41 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Corporativa High Yield
+UBS Bond Short Dur HY USD_P EURH
+LU0577855942
+Riesgo
+2/7
+Rentabilidad YTD
+0,28 %
+Rentabilidad 2025
+4,07 %
+Comisión de gestión*
+1,05 %
+
+***
+Renta Fija
+Gobiernos Global
+UBS Bond Short Term Corp_P
+LU0151774626
+Riesgo
+2/7
+Rentabilidad YTD
+0,30 %
+Rentabilidad 2025
+2,52 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Gobiernos Otros
+UBS Bond Short Term USD Corp_P USD
+LU0151774972
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+-7,17 %
+Comisión de gestión*
+0,65 %
+
+***
+Renta Fija
+Corporativa High Yield
+UBS Euro High Yield_P Dist
+LU1076698254
+Riesgo
+2/7
+Rentabilidad YTD
+0,72 %
+Rentabilidad 2025
+5,49 %
+Comisión de gestión*
+1,01 %
+
+***
+Renta Fija
+Corporativa High Yield
+UBS Floating Rate Income P EURHDG
+LU1679113404
+Riesgo
+2/7
+Rentabilidad YTD
+0,71 %
+Rentabilidad 2025
+3,90 %
+Comisión de gestión*
+1,08 %
+
+***
+
+Activos Reales
+Bonos ligados a la inflación
+UBS Global Inflation - linked_P EURH
+LU0455556406
+Riesgo
+2/7
+Rentabilidad YTD
+0,35 %
+Rentabilidad 2025
+4,66 %
+Comisión de gestión*
+0,76 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Global Short Term Flex USD_P AUDH
+LU1991167542
+Riesgo
+2/7
+Rentabilidad YTD
+3,15 %
+Rentabilidad 2025
+0,35 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Global Short Term Flex USD_P EURH
+LU0706127809
+Riesgo
+2/7
+Rentabilidad YTD
+0,65 %
+Rentabilidad 2025
+3,94 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Global Short Term Flexible_P CADH
+LU2254328649
+Riesgo
+2/7
+Rentabilidad YTD
+0,00 %
+Rentabilidad 2025
+-3,45 %
+Comisión de gestión*
+0,70 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Global Short Term Flexible_P USD
+LU0659916679
+Riesgo
+2/7
+Rentabilidad YTD
+0,84 %
+Rentabilidad 2025
+-6,28 %
+Comisión de gestión*
+0,66 %
+
+***
+Mixtos
+Defensivo
+UBS Income EUR_P
+LU0994951464
+Riesgo
+2/7
+Rentabilidad YTD
+0,36 %
+Rentabilidad 2025
+5,86 %
+Comisión de gestión*
+1,04 %
+
+***
+Renta Fija
+Corporativa High Yield
+UBS Short Dur HY USD _P USD
+LU0577855355
+Riesgo
+2/7
+Rentabilidad YTD
+0,47 %
+Rentabilidad 2025
+-6,09 %
+Comisión de gestión*
+1,01 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Strategy Fixed Income_P
+LU0039703029
+Riesgo
+2/7
+Rentabilidad YTD
+0,33 %
+Rentabilidad 2025
+3,43 %
+Comisión de gestión*
+0,86 %
+
+***
+Renta Fija
+Sin Restricciones
+UBS Strategy Fixed Income_P CHF
+LU0039343222
+Riesgo
+2/7
+Rentabilidad YTD
+0,29 %
+Rentabilidad 2025
+2,07 %
+Comisión de gestión*
+0,86 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+Vontobel Fund - Euro Corporate Bond A
+LU0153585566
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+2,59 %
+Comisión de gestión*
+1,10 %
+
+***
+
+Renta Fija
+Corporativa Inv Grade
+Vontobel Fund - Euro Corporate Bond B
+LU0153585723
+Riesgo
+2/7
+Rentabilidad YTD
+0,45 %
+Rentabilidad 2025
+2,60 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+Vontobel Fund - Euro Short Term Bond...
+LU0120689640
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+2,20 %
+Comisión de gestión*
+0,30 %
+
+***
+Renta Fija
+Sin Restricciones
+Vontobel Fund - Global Active Bond B
+LU1112750929
+Riesgo
+2/7
+Rentabilidad YTD
+0,31 %
+Rentabilidad 2025
+5,22 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Corporativa High Yield
+Vontobel Fund - Global High Yield Bo...
+LU0571066462
+Riesgo
+2/7
+Rentabilidad YTD
+0,74 %
+Rentabilidad 2025
+3,72 %
+Comisión de gestión*
+1,10 %
+
+***
+Renta Fija
+Gobiernos Global
+Vontobel Fund - TwentyFour Absolute ...
+LU1551754432
+Riesgo
+2/7
+Rentabilidad YTD
+0,20 %
+Rentabilidad 2025
+3,08 %
+Comisión de gestión*
+0,80 %
+
+***
+Renta Fija
+Sin Restricciones
+Vontobel Fund - TwentyFour Strategic...
+LU1551754515
+Riesgo
+2/7
+Rentabilidad YTD
+0,42 %
+Rentabilidad 2025
+4,25 %
+Comisión de gestión*
+1,20 %
+
+***
+Renta Fija
+Gobiernos Europa CP
+WAM DURACION 0-3 FI B
+ES0176408013
+Riesgo
+2/7
+Rentabilidad YTD
+0,23 %
+Rentabilidad 2025
+2,47 %
+Comisión de gestión*
+0,95 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+abrdn Euro Corporate Bond A
+LU0177497491
+Riesgo
+2/7
+Rentabilidad YTD
+0,39 %
+Rentabilidad 2025
+2,55 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+abrdn Global Income Bond A EURH
+LU1523963418
+Riesgo
+2/7
+Rentabilidad YTD
+0,50 %
+Rentabilidad 2025
+5,41 %
+Comisión de gestión*
+1,00 %
+
+***
+Renta Fija
+Sin Restricciones
+abrdn Macro Fixed Income A EURH
+LU0548158160
+Riesgo
+2/7
+Rentabilidad YTD
+-0,09 %
+Rentabilidad 2025
+2,60 %
+Comisión de gestión*
+1,25 %
+
+***
+
+Renta Fija
+Sin Restricciones
+abrdn Short Dated Enhanced A EURH
+LU2628679511
+Riesgo
+2/7
+Rentabilidad YTD
+0,14 %
+Rentabilidad 2025
+3,64 %
+Comisión de gestión*
+0,50 %
+
+***
+Renta Fija
+Corporativa Inv Grade
+iShares Euro Invest Grade Corp Bond ...
+IE00B67T5G21
+Riesgo
+2/7
+Rentabilidad YTD
+0,42 %
+Rentabilidad 2025
+2,98 %
+Comisión de gestión*
+0,12 %
+
+***
+

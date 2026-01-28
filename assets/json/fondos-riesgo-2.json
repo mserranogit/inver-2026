@@ -1,0 +1,4195 @@
+[
+  {
+    "tipoFondo": "﻿Mixtos",
+    "subtipoFondo": "Moderado",
+    "nombre": "ACACIA RENTA DINAMICA, FI \"R\" (EUR) ...",
+    "isin": "ES0157935042",
+    "riesgo": "2/7",
+    "ren-ytd": "0,03 %",
+    "ren-2025": "4,49 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "AXA Em Mkts Short Dur Low Carb A EUR...",
+    "isin": "LU0800572702",
+    "riesgo": "2/7",
+    "ren-ytd": "0,21 %",
+    "ren-2025": "5,62 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "AXA Euro Credit Plus A",
+    "isin": "LU0164100710",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "2,97 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "AXA Euro Credit Short Duration A",
+    "isin": "LU0251661756",
+    "riesgo": "2/7",
+    "ren-ytd": "0,15 %",
+    "ren-2025": "2,72 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "AXA Euro Strategic Bonds A",
+    "isin": "LU0251659776",
+    "riesgo": "2/7",
+    "ren-ytd": "0,65 %",
+    "ren-2025": "3,65 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "AXA Euro Sustainable Credit A",
+    "isin": "LU0361820912",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "2,71 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "AXA Europe Short Duration HY_F ESG",
+    "isin": "LU0658026603",
+    "riesgo": "2/7",
+    "ren-ytd": "0,31 %",
+    "ren-2025": "3,45 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "AXA Global Income Generation A",
+    "isin": "LU0960400249",
+    "riesgo": "2/7",
+    "ren-ytd": "1,45 %",
+    "ren-2025": "1,42 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "AXA Global Inflation Bonds Redex A",
+    "isin": "LU1790047804",
+    "riesgo": "2/7",
+    "ren-ytd": "0,67 %",
+    "ren-2025": "0,80 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "AXA Global Inflation Short Dur A EUR...",
+    "isin": "LU1353950725",
+    "riesgo": "2/7",
+    "ren-ytd": "0,17 %",
+    "ren-2025": "2,96 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "AXA Global Inflation Short Dur A USD",
+    "isin": "LU1353950568",
+    "riesgo": "2/7",
+    "ren-ytd": "1,55 %",
+    "ren-2025": "-7,15 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "AXA Global Responsible Aggregate A",
+    "isin": "LU0184633773",
+    "riesgo": "2/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,68 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "AXA IM Europe Short Dur High Yield A",
+    "isin": "FR0012903276",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "3,53 %",
+    "comision": "1,08 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "AXA IM FIIS US Short Dur HY F EURHDG",
+    "isin": "LU0292585626",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "4,12 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "AXA IM US Corp Interm Bonds F EURH",
+    "isin": "LU0546066993",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,12 %",
+    "ren-2025": "4,42 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Aegon European ABS A",
+    "isin": "IE00BG226Z29",
+    "riesgo": "2/7",
+    "ren-ytd": "0,27 %",
+    "ren-2025": "2,97 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Aegon High Yield Global A EURH",
+    "isin": "IE00B296X584",
+    "riesgo": "2/7",
+    "ren-ytd": "0,51 %",
+    "ren-2025": "6,59 %",
+    "comision": "1,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Algebris Global Credit Opportunities...",
+    "isin": "IE00BYT35X57",
+    "riesgo": "2/7",
+    "ren-ytd": "0,43 %",
+    "ren-2025": "2,20 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Allianz Adv Fixed Income Short Dur AT",
+    "isin": "LU1504571149",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "2,85 %",
+    "comision": "0,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Allianz Advanced Fixed Inc Euro AT",
+    "isin": "LU1205638155",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "2,38 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Convertibles",
+    "nombre": "Allianz Convertible Bond AT",
+    "isin": "LU0706716387",
+    "riesgo": "2/7",
+    "ren-ytd": "1,31 %",
+    "ren-2025": "4,24 %",
+    "comision": "1,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Allianz Credit Opportunities AT",
+    "isin": "LU1951921383",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "3,39 %",
+    "comision": "0,44 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Allianz Credit Opportunities Plus AT",
+    "isin": "LU2002383896",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "4,25 %",
+    "comision": "1,29 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Allianz Dynamic Multi Asset Strat SR...",
+    "isin": "LU1548496022",
+    "riesgo": "2/7",
+    "ren-ytd": "2,36 %",
+    "ren-2025": "5,30 %",
+    "comision": "1,15 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Allianz Emerg Mkts Corp Bond AT EURH...",
+    "isin": "LU1992133188",
+    "riesgo": "2/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "5,40 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Allianz Emerging Markets Short Dur B...",
+    "isin": "LU1079477284",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "4,90 %",
+    "comision": "0,99 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Allianz Euro Bond AT",
+    "isin": "LU0165915058",
+    "riesgo": "2/7",
+    "ren-ytd": "0,44 %",
+    "ren-2025": "0,77 %",
+    "comision": "0,94 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Allianz Euro High Yield Bond AT",
+    "isin": "LU0482909909",
+    "riesgo": "2/7",
+    "ren-ytd": "0,44 %",
+    "ren-2025": "3,86 %",
+    "comision": "1,35 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Allianz Global Diversified Credit AT...",
+    "isin": "LU1480269049",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "3,95 %",
+    "comision": "1,09 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Allianz Global Float Rate Notes Plus...",
+    "isin": "LU1740661167",
+    "riesgo": "2/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "2,38 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Allianz Strategy 15 CT (EUR)",
+    "isin": "LU0398560267",
+    "riesgo": "2/7",
+    "ren-ytd": "1,03 %",
+    "ren-2025": "2,34 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Bond Euro Aggregate_AE ESG",
+    "isin": "LU0616241476",
+    "riesgo": "2/7",
+    "ren-ytd": "0,51 %",
+    "ren-2025": "1,79 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Amundi Bond Euro High Yield_AE-C ESG",
+    "isin": "LU0119110723",
+    "riesgo": "2/7",
+    "ren-ytd": "0,48 %",
+    "ren-2025": "4,17 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Bond Global Agg_AU-C USD ESG",
+    "isin": "LU0319688015",
+    "riesgo": "2/7",
+    "ren-ytd": "1,60 %",
+    "ren-2025": "-5,76 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Bond Global Aggregate_AHE-C E...",
+    "isin": "LU0906524193",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "4,54 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Core Glob Gov_AHE EURH Dist",
+    "isin": "LU0389813071",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,02 %",
+    "ren-2025": "1,36 %",
+    "comision": "0,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Core Glob Govie_AHE EURH",
+    "isin": "LU0389812933",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,03 %",
+    "ren-2025": "1,37 %",
+    "comision": "0,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Amundi Diversified Short Term Bnd Se...",
+    "isin": "LU1706854152",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "4,64 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Amundi EM Blended Bond_AE ESG",
+    "isin": "LU1161086159",
+    "riesgo": "2/7",
+    "ren-ytd": "0,90 %",
+    "ren-2025": "6,78 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Amundi EM Short Term Bond_A2 EURH ESG",
+    "isin": "LU1882462739",
+    "riesgo": "2/7",
+    "ren-ytd": "0,99 %",
+    "ren-2025": "2,71 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Amundi Enhan Ultra Short Term Bnd Se...",
+    "isin": "FR0010829697",
+    "riesgo": "2/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "2,62 %",
+    "comision": "0,531 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Amundi Enhanced Ultra Short Sel_E",
+    "isin": "FR0010830885",
+    "riesgo": "2/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,75 %",
+    "comision": "0,381 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Amundi Euro Corp Bond Sel AE",
+    "isin": "LU0119099819",
+    "riesgo": "2/7",
+    "ren-ytd": "0,53 %",
+    "ren-2025": "3,20 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Global Aggregate Bond_AHC CHF...",
+    "isin": "LU0945157773",
+    "riesgo": "2/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "3,15 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Amundi Global Corporate Bond_AHE ESG",
+    "isin": "LU0839536322",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "4,14 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Amundi Index Euro Corp BBB 1 5_AE",
+    "isin": "LU1525412281",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "3,02 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Amundi Quantit Glob Abs Return Bond_A",
+    "isin": "LU1894677027",
+    "riesgo": "2/7",
+    "ren-ytd": "0,52 %",
+    "ren-2025": "2,60 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Arcano Low Vol Europ Inc ESG Sel_REA...",
+    "isin": "LU1720111282",
+    "riesgo": "2/7",
+    "ren-ytd": "0,31 %",
+    "ren-2025": "4,34 %",
+    "comision": "1,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Axa Global Strategic Income_A EURH E...",
+    "isin": "LU0746604288",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "2,90 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "BANKINTER AHORRO RENTA FIJA FI CL-R",
+    "isin": "ES0110053032",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "2,18 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BANKINTER DEUDA FINANCIERA FI CL-R",
+    "isin": "ES0114867031",
+    "riesgo": "2/7",
+    "ren-ytd": "0,37 %",
+    "ren-2025": "2,87 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "BANKINTER MIXTO RENTA FIJA R",
+    "isin": "ES0114793039",
+    "riesgo": "2/7",
+    "ren-ytd": "1,25 %",
+    "ren-2025": "5,32 %",
+    "comision": "1,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BANKINTER R. FIJA LARGO PLAZO FI CL-R",
+    "isin": "ES0114837034",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "1,55 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "BBVA BONOS DURACION FLEXIBLE, FI",
+    "isin": "ES0113203030",
+    "riesgo": "2/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,56 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "BBVA BONOS GOBIERNOS, FI",
+    "isin": "ES0113752002",
+    "riesgo": "2/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "1,95 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BGF World Bond A2 EURHDG",
+    "isin": "LU0330917880",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "2,25 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "BGF EURO INVESTMEN GRADE FIXED MATUR...",
+    "isin": "LU2697544943",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,78 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "BGF Euro Corporate Bond Fund Class A...",
+    "isin": "LU0162658883",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "2,72 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "BGF Euro Short Duration Bond Fund Cl...",
+    "isin": "LU0093503810",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "3,27 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BGF Global Government Bond A2 Hedged...",
+    "isin": "LU0297942863",
+    "riesgo": "2/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "1,76 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BGF Global Government Bond Fund Clas...",
+    "isin": "LU0006061385",
+    "riesgo": "2/7",
+    "ren-ytd": "1,49 %",
+    "ren-2025": "-8,28 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "BGF Global High Yield Bond A2 Hedged...",
+    "isin": "LU0093504206",
+    "riesgo": "2/7",
+    "ren-ytd": "0,52 %",
+    "ren-2025": "5,72 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "BGF Global High Yield Bond A2 USD",
+    "isin": "LU0171284937",
+    "riesgo": "2/7",
+    "ren-ytd": "1,86 %",
+    "ren-2025": "-4,70 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "BGF Global Inflation Linked Bond A2 ...",
+    "isin": "LU0425308086",
+    "riesgo": "2/7",
+    "ren-ytd": "1,82 %",
+    "ren-2025": "-7,73 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "BGF US Dollar Short Duration Bond Fu...",
+    "isin": "LU0839485744",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,10 %",
+    "ren-2025": "3,16 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "BGF US Dollar Short Duration Bond Fu...",
+    "isin": "LU0154237225",
+    "riesgo": "2/7",
+    "ren-ytd": "1,35 %",
+    "ren-2025": "-7,03 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BGF World Bond A2 USD",
+    "isin": "LU0184696937",
+    "riesgo": "2/7",
+    "ren-ytd": "1,56 %",
+    "ren-2025": "-7,82 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "BL - Corporate Bond Opportunities B",
+    "isin": "LU0093571148",
+    "riesgo": "2/7",
+    "ren-ytd": "0,57 %",
+    "ren-2025": "2,28 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BL - Global Bond Opportunities B",
+    "isin": "LU0093569910",
+    "riesgo": "2/7",
+    "ren-ytd": "0,59 %",
+    "ren-2025": "1,17 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "BL Alternative Strategies B",
+    "isin": "LU1526088379",
+    "riesgo": "2/7",
+    "ren-ytd": "3,91 %",
+    "ren-2025": "-",
+    "comision": "0,69 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "BNP Paribas Enhanced Bond 6M C",
+    "isin": "LU0325598166",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,85 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "BNP Paribas Euro Corporate Bond N C",
+    "isin": "LU0131211418",
+    "riesgo": "2/7",
+    "ren-ytd": "0,50 %",
+    "ren-2025": "2,25 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BNP Paribas Euro MediumTerm Inc Bond...",
+    "isin": "LU0086914362",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "2,22 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BNP Paribas Global Abs Return Bonds ...",
+    "isin": "LU2155808491",
+    "riesgo": "2/7",
+    "ren-ytd": "0,15 %",
+    "ren-2025": "4,39 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "BNP Paribas Sustain Enhanced Bond 12...",
+    "isin": "LU1819948784",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "2,63 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "BNP Paribas Sustain Euro Corp Bond C",
+    "isin": "LU0265288877",
+    "riesgo": "2/7",
+    "ren-ytd": "0,47 %",
+    "ren-2025": "2,24 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BNP Paribas Sustainable Euro Bond C",
+    "isin": "LU0828230697",
+    "riesgo": "2/7",
+    "ren-ytd": "0,59 %",
+    "ren-2025": "0,19 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "BNP Paribas USD Short Dur Bond CH EU...",
+    "isin": "LU0194436803",
+    "riesgo": "2/7",
+    "ren-ytd": "0,06 %",
+    "ren-2025": "3,41 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "BNY Mellon Emerg Mrkts Corp Debt EUR...",
+    "isin": "IE00BB7N4393",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "5,61 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "BNY Mellon Emerg Mrkts Corp Debt USD...",
+    "isin": "IE00BBMT6W55",
+    "riesgo": "2/7",
+    "ren-ytd": "1,64 %",
+    "ren-2025": "-4,86 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BNY Mellon Euroland Bond Fund Euro A",
+    "isin": "IE0032722260",
+    "riesgo": "2/7",
+    "ren-ytd": "0,55 %",
+    "ren-2025": "1,00 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "BNY Mellon Glob ShortDat High Yield ...",
+    "isin": "IE00BD5CTS25",
+    "riesgo": "2/7",
+    "ren-ytd": "1,57 %",
+    "ren-2025": "-6,06 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "BNY Mellon Glob ShortDated High Yiel...",
+    "isin": "IE00BD5CTX77",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "4,32 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BSF ESG Fixed Income Strategies A2",
+    "isin": "LU0438336264",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "4,98 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BUY & HOLD Lux Debt_2",
+    "isin": "LU2842969151",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "2,81 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "BlueBay Funds - BlueBay High Yield...",
+    "isin": "LU0438373382",
+    "riesgo": "2/7",
+    "ren-ytd": "0,63 %",
+    "ren-2025": "4,75 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BlueBay Funds - BlueBay Investment...",
+    "isin": "LU0627765794",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "2,07 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "BlueBay Funds - BlueBay Investment...",
+    "isin": "LU0549547510",
+    "riesgo": "2/7",
+    "ren-ytd": "0,59 %",
+    "ren-2025": "1,67 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "CM High Yield Short Dur_C",
+    "isin": "FR0011829134",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "5,11 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "CS CORTO PLAZO FI CL B",
+    "isin": "ES0155598032",
+    "riesgo": "2/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,26 %",
+    "comision": "0,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "CS DURACION 0-2 CL B",
+    "isin": "ES0126547035",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "2,03 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "CS RENTA FIJA 0-5 FI CL B",
+    "isin": "ES0124880032",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "2,66 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "CT (LUX) I EUROPEAN \"AE\" (EUR) D A",
+    "isin": "LU2170387828",
+    "riesgo": "2/7",
+    "ren-ytd": "0,46 %",
+    "ren-2025": "2,07 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "CT European Strategic Bond AE",
+    "isin": "LU0096353940",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "3,06 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Convertibles",
+    "nombre": "Candriam Bonds Convertible Defensive...",
+    "isin": "LU0459959929",
+    "riesgo": "2/7",
+    "ren-ytd": "0,54 %",
+    "ren-2025": "4,77 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Candriam Bonds Credit Opp C",
+    "isin": "LU0151324422",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "2,77 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Candriam Bonds Euro Corporate C CAP",
+    "isin": "LU0237839757",
+    "riesgo": "2/7",
+    "ren-ytd": "0,50 %",
+    "ren-2025": "2,54 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Candriam Bonds Euro Short Term C",
+    "isin": "LU0157929810",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,46 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Candriam Bonds Global High Yield C",
+    "isin": "LU0170291933",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "5,89 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Candriam Bonds International C CAP",
+    "isin": "LU0012119433",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "2,05 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Pg. 11",
+    "subtipoFondo": "Activos Reales",
+    "nombre": "Bonos ligados a la inflación",
+    "isin": "Candriam Global Inflation Short Dur C",
+    "riesgo": "2/7",
+    "ren-ytd": "0,01 %",
+    "ren-2025": "3,25 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Candriam Index Arbitrage C",
+    "isin": "FR0010016477",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,11 %",
+    "ren-2025": "1,86 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Candriam Risk Arbitrage C",
+    "isin": "FR0000438707",
+    "riesgo": "2/7",
+    "ren-ytd": "0,59 %",
+    "ren-2025": "3,58 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Candriam Sustain Bond Euro Short Ter...",
+    "isin": "LU1434521826",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "2,28 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Candriam Sustain Defensive Asset All...",
+    "isin": "LU1644442102",
+    "riesgo": "2/7",
+    "ren-ytd": "0,49 %",
+    "ren-2025": "2,28 %",
+    "comision": "1,15 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Candriam Sustain Global High Yield C",
+    "isin": "LU1644441120",
+    "riesgo": "2/7",
+    "ren-ytd": "0,22 %",
+    "ren-2025": "4,38 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Candriam Sustainable Bond Euro Corp C",
+    "isin": "LU1313770452",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "2,51 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Carmignac Credit 2027 _ A",
+    "isin": "FR00140081Y1",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "3,52 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Carmignac Credit 2029 _ A",
+    "isin": "FR001400KAV4",
+    "riesgo": "2/7",
+    "ren-ytd": "0,37 %",
+    "ren-2025": "5,03 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Carmignac Credit 2031 A",
+    "isin": "FR001400U4S3",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "5,07 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Carmignac Portfolio - Credit A EUR A...",
+    "isin": "LU1623762843",
+    "riesgo": "2/7",
+    "ren-ytd": "0,41 %",
+    "ren-2025": "6,66 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Carmignac Portfolio - Flexible Bond ...",
+    "isin": "LU0336084032",
+    "riesgo": "2/7",
+    "ren-ytd": "0,42 %",
+    "ren-2025": "4,32 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Carmignac Portfolio - Global Bond A ...",
+    "isin": "LU0336083497",
+    "riesgo": "2/7",
+    "ren-ytd": "0,79 %",
+    "ren-2025": "0,45 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Carmignac Portfolio - Securite AW US...",
+    "isin": "LU1299306834",
+    "riesgo": "2/7",
+    "ren-ytd": "0,47 %",
+    "ren-2025": "-8,09 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Carmignac Securite AW EUR Acc",
+    "isin": "FR0010149120",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "2,30 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Cartesio Funds Income R",
+    "isin": "LU1966822956",
+    "riesgo": "2/7",
+    "ren-ytd": "0,86 %",
+    "ren-2025": "8,71 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Credit Portfolio Class R EUR Shares",
+    "isin": "LU0028445590",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "4,55 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Credit Portfolio Class R USD Shares",
+    "isin": "LU0761040426",
+    "riesgo": "2/7",
+    "ren-ytd": "0,76 %",
+    "ren-2025": "-6,29 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DIP - Paradigma Flexible Bonds A",
+    "isin": "LU0546216986",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "2,54 %",
+    "comision": "0,005 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "DIP Paradigma Conservative Multi Ass...",
+    "isin": "LU0804746799",
+    "riesgo": "2/7",
+    "ren-ytd": "0,63 %",
+    "ren-2025": "4,34 %",
+    "comision": "0,006 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DNB Nordic Corporate Bonds A",
+    "isin": "LU2319926858",
+    "riesgo": "2/7",
+    "ren-ytd": "0,28 %",
+    "ren-2025": "3,59 %",
+    "comision": "0,499 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "DNB Nordic High Yield RA EURHDG",
+    "isin": "LU1303785361",
+    "riesgo": "2/7",
+    "ren-ytd": "0,58 %",
+    "ren-2025": "3,87 %",
+    "comision": "0,799 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DNCA Alpha Bonds A",
+    "isin": "LU1694789451",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "4,89 %",
+    "comision": "1,19 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DNCA Invest - Credit Conviction - A",
+    "isin": "LU0284393930",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "4,61 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DNCA Invest - Serenite Plus - A",
+    "isin": "LU1490785414",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "2,78 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "DPAM Bonds L Corporate EUR B",
+    "isin": "LU0029260675",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "2,10 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DPAM L - Bonds Universalis Unconstra...",
+    "isin": "LU0138643068",
+    "riesgo": "2/7",
+    "ren-ytd": "0,75 %",
+    "ren-2025": "0,77 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "DPAM L Bonds EUR High Yield Short Te...",
+    "isin": "LU0517222054",
+    "riesgo": "2/7",
+    "ren-ytd": "0,25 %",
+    "ren-2025": "3,36 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "DPAM L Bonds EUR Quality Sustain B",
+    "isin": "LU0130967168",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "2,14 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DPAM L Bonds Government Sustain B EU...",
+    "isin": "LU0336683502",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "0,55 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "DUNAS Valor Equilibrado R",
+    "isin": "ES0175414012",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "4,37 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "DUNAS Valor Prudente R",
+    "isin": "ES0175437005",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "2,94 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "DWS Asian Bonds LCH EURHDG",
+    "isin": "LU0813324364",
+    "riesgo": "2/7",
+    "ren-ytd": "0,04 %",
+    "ren-2025": "4,73 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "DWS Concept DJE Alpha Renten Global ...",
+    "isin": "LU0087412390",
+    "riesgo": "2/7",
+    "ren-ytd": "2,08 %",
+    "ren-2025": "2,21 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DWS Covered Bond Fund LC",
+    "isin": "DE000DWS1UL0",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "1,59 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "DWS ESG Euro Bonds (Short) LC",
+    "isin": "LU0145655824",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "2,63 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "DWS Euro Corporate Bonds LC",
+    "isin": "LU0300357554",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "2,72 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "DWS Euro High Yield Corporates LC",
+    "isin": "LU0616839501",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "3,34 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DWS Global Bonds LCH EURHDG",
+    "isin": "LU0616844923",
+    "riesgo": "2/7",
+    "ren-ytd": "0,49 %",
+    "ren-2025": "3,96 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "DWS Global Hybrid Bond LD Dist",
+    "isin": "DE0008490988",
+    "riesgo": "2/7",
+    "ren-ytd": "0,42 %",
+    "ren-2025": "6,15 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "DWS Invest Corporate Hybrid Bonds LC",
+    "isin": "LU1245923484",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "4,72 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "DWS Invest ESG Asian Bonds USD LC",
+    "isin": "LU1859276286",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,06 %",
+    "ren-2025": "-5,34 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "DWS Net Zero Trans Euro Corp Bonds L...",
+    "isin": "LU2357625875",
+    "riesgo": "2/7",
+    "ren-ytd": "0,61 %",
+    "ren-2025": "-7,79 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "DWS Short Duration Credit LC",
+    "isin": "LU0236145453",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "3,35 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "DWS Short Duration Income LC",
+    "isin": "LU2220514363",
+    "riesgo": "2/7",
+    "ren-ytd": "0,05 %",
+    "ren-2025": "3,52 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "EDM High Yield Short Duration Class ...",
+    "isin": "LU0146855530",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "3,29 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "EDR Millesima 2030 A",
+    "isin": "FR001400S680",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "3,64 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "ETHNA DEFENSIV \"RT\" (EUR) ACC",
+    "isin": "LU1134013462",
+    "riesgo": "2/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,54 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Echiquier Arty SRI A",
+    "isin": "FR0010611293",
+    "riesgo": "2/7",
+    "ren-ytd": "0,88 %",
+    "ren-2025": "4,41 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Echiquier Credit SRI Europe A",
+    "isin": "FR0010491803",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "2,46 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Echiquier Hybrid Bonds A",
+    "isin": "FR0013277571",
+    "riesgo": "2/7",
+    "ren-ytd": "0,53 %",
+    "ren-2025": "4,12 %",
+    "comision": "1,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Echiquier Short Term Credit A",
+    "isin": "FR0010839282",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,69 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "EdR Fund Bond Allocation A - EUR",
+    "isin": "LU1161527038",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,88 %",
+    "comision": "0,802 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "EdR SICAV - Euro Sustainable Credit ...",
+    "isin": "FR0010172767",
+    "riesgo": "2/7",
+    "ren-ytd": "0,48 %",
+    "ren-2025": "2,77 %",
+    "comision": "0,95 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Eleva Absolute Return Europe Fund-Cl...",
+    "isin": "LU1331971769",
+    "riesgo": "2/7",
+    "ren-ytd": "1,91 %",
+    "ren-2025": "5,05 %",
+    "comision": "2,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Euro Fixed Income Fund C EUR",
+    "isin": "LU0095343264",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "1,06 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Evli Corporate Bond Fund B",
+    "isin": "FI0008801097",
+    "riesgo": "2/7",
+    "ren-ytd": "0,52 %",
+    "ren-2025": "3,34 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Evli European High Yield Fund B",
+    "isin": "FI0008803929",
+    "riesgo": "2/7",
+    "ren-ytd": "0,67 %",
+    "ren-2025": "5,50 %",
+    "comision": "0,95 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Evli Nordic Corporate Bond B",
+    "isin": "FI0008811997",
+    "riesgo": "2/7",
+    "ren-ytd": "0,33 %",
+    "ren-2025": "4,28 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Evli Short Corporate Bond B",
+    "isin": "FI0008800511",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "3,80 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "FLOSSBACH VON STORCH Bond Opportunit...",
+    "isin": "LU1481583711",
+    "riesgo": "2/7",
+    "ren-ytd": "0,02 %",
+    "ren-2025": "2,79 %",
+    "comision": "0,865 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "FRANKLIN HIGH YIELD \"A\" INC",
+    "isin": "LU0065014192",
+    "riesgo": "2/7",
+    "ren-ytd": "0,83 %",
+    "ren-2025": "-4,67 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "FRONTIER MARKETS \"R\" (EUR) ACC",
+    "isin": "LU0501220429",
+    "riesgo": "2/7",
+    "ren-ytd": "1,24 %",
+    "ren-2025": "15,35 %",
+    "comision": "1,495 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Fidelity Euro Short Term Bond A",
+    "isin": "LU0267388220",
+    "riesgo": "2/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "0,65 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Fidelity European High Yield A",
+    "isin": "LU0251130802",
+    "riesgo": "2/7",
+    "ren-ytd": "0,68 %",
+    "ren-2025": "4,50 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "Fidelity Glob Inflation-linked A EURH",
+    "isin": "LU0353649279",
+    "riesgo": "2/7",
+    "ren-ytd": "0,32 %",
+    "ren-2025": "3,30 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Fidelity Glob Short Dur Income A EURH",
+    "isin": "LU1731833304",
+    "riesgo": "2/7",
+    "ren-ytd": "0,27 %",
+    "ren-2025": "4,75 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Fidelity Global Bond A EURHDG",
+    "isin": "LU0337577430",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,15 %",
+    "ren-2025": "1,97 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Fidelity Global Income_A EURH Dist",
+    "isin": "LU0893310481",
+    "riesgo": "2/7",
+    "ren-ytd": "0,27 %",
+    "ren-2025": "5,82 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Fondo Ahorro",
+    "isin": "ES0178172039",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "2,37 %",
+    "comision": "0,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Franklin Euro Short Duration Bond A",
+    "isin": "LU1022658667",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "2,35 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Franklin Templeton - FTGF Western As...",
+    "isin": "IE00B4Y6F514",
+    "riesgo": "2/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,75 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Franklin Templeton- FTGF Western Ass...",
+    "isin": "IE00B23Z7J34",
+    "riesgo": "2/7",
+    "ren-ytd": "0,25 %",
+    "ren-2025": "4,26 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Franklin Templeton- Franklin Euro Hi...",
+    "isin": "LU0131126574",
+    "riesgo": "2/7",
+    "ren-ytd": "0,44 %",
+    "ren-2025": "4,69 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "GAM Star Income O EURHDG",
+    "isin": "IE00BQZHS253",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "3,45 %",
+    "comision": "1,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "GAM Swiss RE CAT BOND \"ORD\" USD",
+    "isin": "IE00B4VZPG27",
+    "riesgo": "2/7",
+    "ren-ytd": "0,86 %",
+    "ren-2025": "-3,70 %",
+    "comision": "1,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "GENERALI EURO BOND 1-3 YEARS \"D\" (EU...",
+    "isin": "LU0396183542",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,72 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "GENERALI EURO SHORT TERM BOND \"D\" (E...",
+    "isin": "LU0145485214",
+    "riesgo": "2/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,32 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Goldman Sachs Asian Debt Hard Cur P ...",
+    "isin": "LU0546914168",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "-4,99 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Goldman Sachs Emerg Mrkts Corp Bond ...",
+    "isin": "LU0622305505",
+    "riesgo": "2/7",
+    "ren-ytd": "0,48 %",
+    "ren-2025": "-4,42 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Goldman Sachs Euro Credit P",
+    "isin": "LU0546918235",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "2,86 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Goldman Sachs Euro Short Dur B Plus ...",
+    "isin": "LU0997587836",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "2,94 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Goldman Sachs Euro Short Dur Bond P",
+    "isin": "LU0555025955",
+    "riesgo": "2/7",
+    "ren-ytd": "0,17 %",
+    "ren-2025": "1,91 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Goldman Sachs Euro Sust Cred ex-Fina...",
+    "isin": "LU0577843187",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "2,07 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Goldman Sachs Euro Susta Cred P",
+    "isin": "LU1106538165",
+    "riesgo": "2/7",
+    "ren-ytd": "0,37 %",
+    "ren-2025": "2,68 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Goldman Sachs Euromix Bond P",
+    "isin": "LU0546916619",
+    "riesgo": "2/7",
+    "ren-ytd": "0,15 %",
+    "ren-2025": "0,44 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Goldman Sachs Glob Fix Inc Plus Port...",
+    "isin": "LU0268109229",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "-6,47 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Goldman Sachs Glob Fixed Inc Plus Po...",
+    "isin": "LU0234590353",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,21 %",
+    "ren-2025": "3,98 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Goldman Sachs Global Dynam Bond Plus...",
+    "isin": "LU0600006117",
+    "riesgo": "2/7",
+    "ren-ytd": "0,21 %",
+    "ren-2025": "-3,30 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Goldman Sachs Global Fixed Inc Portf...",
+    "isin": "LU0234681152",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,14 %",
+    "ren-2025": "3,21 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Goldman Sachs Global High Yield Portf",
+    "isin": "LU0405800185",
+    "riesgo": "2/7",
+    "ren-ytd": "0,44 %",
+    "ren-2025": "6,27 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Goldman Sachs Global High Yield Portf",
+    "isin": "LU0234573771",
+    "riesgo": "2/7",
+    "ren-ytd": "0,62 %",
+    "ren-2025": "-4,38 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Goldman Sachs Green Bond Short Dur P",
+    "isin": "LU1922483299",
+    "riesgo": "2/7",
+    "ren-ytd": "0,30 %",
+    "ren-2025": "3,48 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Goldman Sachs Protection - P Cap EUR",
+    "isin": "LU0546913194",
+    "riesgo": "2/7",
+    "ren-ytd": "0,84 %",
+    "ren-2025": "5,54 %",
+    "comision": "0,72 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Groupama Alpha Fixed Income _NC",
+    "isin": "LU0571102010",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "2,45 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Groupama Dynamic Bond _ NC",
+    "isin": "LU1226626759",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "2,01 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Groupama Euro Credit Short Duration ...",
+    "isin": "FR0010288332",
+    "riesgo": "2/7",
+    "ren-ytd": "0,32 %",
+    "ren-2025": "3,42 %",
+    "comision": "0,49 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Groupama Euro Financial Debt _N",
+    "isin": "FR0013259181",
+    "riesgo": "2/7",
+    "ren-ytd": "0,82 %",
+    "ren-2025": "8,12 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "Groupama Global Inflat Short Dur _ NC",
+    "isin": "LU1717592262",
+    "riesgo": "2/7",
+    "ren-ytd": "0,06 %",
+    "ren-2025": "3,97 %",
+    "comision": "0,68 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "HSBC GIF Global High Income AC USD",
+    "isin": "LU0524291613",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "-5,10 %",
+    "comision": "1,247 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "HSBC GIF Global High Yield AC USD",
+    "isin": "LU0780251400",
+    "riesgo": "2/7",
+    "ren-ytd": "0,61 %",
+    "ren-2025": "-4,68 %",
+    "comision": "1,098 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "HSBC GIF Global Short Dur Bond AC U...",
+    "isin": "LU1163226092",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "-7,10 %",
+    "comision": "0,499 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "HSBC GIF - Euro Credit Bond AC",
+    "isin": "LU0165124784",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "2,48 %",
+    "comision": "0,848 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "HSBC GIF Asia Bond ACH EURHDG",
+    "isin": "LU1436995879",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,10 %",
+    "ren-2025": "4,07 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "HSBC GIF Euro Bond Total Return AC",
+    "isin": "LU0988492970",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "3,28 %",
+    "comision": "0,898 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "HSBC GIF US Short Dur High Yield AC ...",
+    "isin": "LU0922809933",
+    "riesgo": "2/7",
+    "ren-ytd": "0,77 %",
+    "ren-2025": "-5,71 %",
+    "comision": "0,898 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "HSBC Global Corp Bond Clim Transitio...",
+    "isin": "LU1674672883",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "-6,52 %",
+    "comision": "0,798 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Helium Selection B",
+    "isin": "LU1112771503",
+    "riesgo": "2/7",
+    "ren-ytd": "0,68 %",
+    "ren-2025": "7,74 %",
+    "comision": "1,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "IMGP Global High Yield Fund C USD",
+    "isin": "LU0688633410",
+    "riesgo": "2/7",
+    "ren-ytd": "1,27 %",
+    "ren-2025": "-7,12 %",
+    "comision": "1,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "IMPG Global High Yield C HP EURHDG",
+    "isin": "LU0688633683",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "4,83 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Environm Clim Opp Bond_A EURH",
+    "isin": "LU0794791367",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,12 %",
+    "ren-2025": "4,81 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Environm Climate Opp Bond_A ...",
+    "isin": "LU0113592215",
+    "riesgo": "2/7",
+    "ren-ytd": "0,08 %",
+    "ren-2025": "-5,50 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Euro Bond_A",
+    "isin": "LU0066341099",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "1,26 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Invesco Euro Corporate Bond A",
+    "isin": "LU0243957825",
+    "riesgo": "2/7",
+    "ren-ytd": "0,46 %",
+    "ren-2025": "2,08 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Invesco Euro Short Term Bond A",
+    "isin": "LU0607519195",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "2,35 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Invesco Glob InvGrade Corp Bd_A USD ...",
+    "isin": "LU0432616141",
+    "riesgo": "2/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "-5,67 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Global Total Return Bond_A",
+    "isin": "LU0534239909",
+    "riesgo": "2/7",
+    "ren-ytd": "0,32 %",
+    "ren-2025": "5,19 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Global Total Return_A Dist",
+    "isin": "LU0794790633",
+    "riesgo": "2/7",
+    "ren-ytd": "0,32 %",
+    "ren-2025": "5,19 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Invesco Pan European High Income A",
+    "isin": "LU0243957239",
+    "riesgo": "2/7",
+    "ren-ytd": "0,85 %",
+    "ren-2025": "6,24 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Invesco Pan European High Income A D...",
+    "isin": "LU0243957312",
+    "riesgo": "2/7",
+    "ren-ytd": "0,86 %",
+    "ren-2025": "6,23 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Invesco Pan European High Income A D...",
+    "isin": "LU1097692153",
+    "riesgo": "2/7",
+    "ren-ytd": "0,76 %",
+    "ren-2025": "6,29 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Sust Multi - Sector Credit_A",
+    "isin": "LU0102737144",
+    "riesgo": "2/7",
+    "ren-ytd": "0,25 %",
+    "ren-2025": "5,36 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Invesco Sust Multi Sector Credt_A Di...",
+    "isin": "LU1097690371",
+    "riesgo": "2/7",
+    "ren-ytd": "0,31 %",
+    "ren-2025": "5,37 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Invesco US High Yield Bond A",
+    "isin": "LU0794787761",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "-5,44 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM Aggregate Bond A EURHDG",
+    "isin": "LU0430493212",
+    "riesgo": "2/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "2,55 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM Euro Aggregate Bond A",
+    "isin": "LU0430492594",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "1,58 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "JPM Euro Corporate Bond A",
+    "isin": "LU0408847340",
+    "riesgo": "2/7",
+    "ren-ytd": "0,49 %",
+    "ren-2025": "3,00 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "JPM Euro Gov Short Duration Bond A",
+    "isin": "LU0408877412",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "2,17 %",
+    "comision": "0,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "JPM Europe High Yield Bond A",
+    "isin": "LU0210531470",
+    "riesgo": "2/7",
+    "ren-ytd": "0,57 %",
+    "ren-2025": "4,74 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "JPM Europe High Yield Short Duration...",
+    "isin": "LU1533169378",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "4,45 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM Global Government Bond A (acc) -...",
+    "isin": "LU0406674076",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,33 %",
+    "ren-2025": "1,82 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM Global Government Short Duration...",
+    "isin": "LU0408876448",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,09 %",
+    "ren-2025": "2,46 %",
+    "comision": "0,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "JPM Global High Yield Bond A EURHDG",
+    "isin": "LU0108415935",
+    "riesgo": "2/7",
+    "ren-ytd": "0,37 %",
+    "ren-2025": "6,18 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "JPM Global Income Conservative A",
+    "isin": "LU1458463079",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "7,22 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "JPM Global Income Conservative A (di...",
+    "isin": "LU1458463152",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "7,22 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "JPM Global Income Conservative A (di...",
+    "isin": "LU1458463236",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "7,23 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM Global Strategic Bond A EUR (hed...",
+    "isin": "LU1378863085",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "3,87 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM Income Opportunity A (perf) EUR ...",
+    "isin": "LU0289470113",
+    "riesgo": "2/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "1,42 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM US Aggregate Bond A EURHDG",
+    "isin": "LU0679000579",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,39 %",
+    "ren-2025": "4,27 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM US Aggregate Bond A USD",
+    "isin": "LU0210532957",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,18 %",
+    "ren-2025": "-6,03 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JPM US Bond A USD",
+    "isin": "LU0070215933",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,10 %",
+    "ren-2025": "-6,04 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "JPM US Short Duration Bond A USD",
+    "isin": "LU0562247428",
+    "riesgo": "2/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "-7,32 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "JSS Sust Bond EUR BROAD P",
+    "isin": "LU2076223622",
+    "riesgo": "2/7",
+    "ren-ytd": "0,51 %",
+    "ren-2025": "0,66 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "JSS Twelve Sustain Insurance Bond P",
+    "isin": "LU1111708357",
+    "riesgo": "2/7",
+    "ren-ytd": "0,49 %",
+    "ren-2025": "4,86 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Janus Henderson Absolute Return A2 H...",
+    "isin": "LU0490786174",
+    "riesgo": "2/7",
+    "ren-ytd": "0,30 %",
+    "ren-2025": "4,81 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Janus Henderson Euro Corp Bond A2",
+    "isin": "LU0451950314",
+    "riesgo": "2/7",
+    "ren-ytd": "0,56 %",
+    "ren-2025": "2,41 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "Janus Henderson US Short Dur A2 HEUR",
+    "isin": "IE0009533641",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "3,32 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Jupiter Asset Management Series PLC ...",
+    "isin": "IE0031386414",
+    "riesgo": "2/7",
+    "ren-ytd": "0,47 %",
+    "ren-2025": "-5,41 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Jupiter Asset Management Series PLC ...",
+    "isin": "IE00BLP5S460",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,10 %",
+    "ren-2025": "13,67 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "LAZARD CREDIT FI SRI RVC EUR",
+    "isin": "FR0010752543",
+    "riesgo": "2/7",
+    "ren-ytd": "0,64 %",
+    "ren-2025": "6,05 %",
+    "comision": "0,97 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "LAZARD PATRIMOINE SRI RC EUR",
+    "isin": "FR0012355139",
+    "riesgo": "2/7",
+    "ren-ytd": "0,81 %",
+    "ren-2025": "1,06 %",
+    "comision": "1,38 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "LAZARD RATHMORE Alternative BP EURHDG",
+    "isin": "IE00BFZ4RX34",
+    "riesgo": "2/7",
+    "ren-ytd": "0,59 %",
+    "ren-2025": "4,59 %",
+    "comision": "2,50 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "LO All Roads Conservative P",
+    "isin": "LU1514035655",
+    "riesgo": "2/7",
+    "ren-ytd": "0,85 %",
+    "ren-2025": "2,74 %",
+    "comision": "0,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "LO Global Clim Bd, Syst. Multi Ccy H...",
+    "isin": "LU1532731541",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,03 %",
+    "ren-2025": "2,18 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "LO Global Fixed Income Opp P",
+    "isin": "LU0970177431",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,01 %",
+    "ren-2025": "3,32 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "LO TargetNetZero Credit Bd P",
+    "isin": "LU0465332160",
+    "riesgo": "2/7",
+    "ren-ytd": "0,30 %",
+    "ren-2025": "1,92 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "LO Ultra Low Duration P",
+    "isin": "LU1230566553",
+    "riesgo": "2/7",
+    "ren-ytd": "0,17 %",
+    "ren-2025": "2,71 %",
+    "comision": "0,15 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "La Francaise Carbon Impact Floating ...",
+    "isin": "FR0013439148",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "3,51 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "La Francaise Financial Bonds 2027 RC",
+    "isin": "FR001400I1A3",
+    "riesgo": "2/7",
+    "ren-ytd": "0,16 %",
+    "ren-2025": "3,66 %",
+    "comision": "0,87 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Latin American Corporate Debt, A, Ac...",
+    "isin": "LU0492942718",
+    "riesgo": "2/7",
+    "ren-ytd": "0,66 %",
+    "ren-2025": "-4,25 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Lazard European Alternative Fund BP ...",
+    "isin": "IE00BYQCRX98",
+    "riesgo": "2/7",
+    "ren-ytd": "2,40 %",
+    "ren-2025": "3,11 %",
+    "comision": "2,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Loomis Sayles Short Term Em Mrkts Bd...",
+    "isin": "LU0980585672",
+    "riesgo": "2/7",
+    "ren-ytd": "0,15 %",
+    "ren-2025": "4,20 %",
+    "comision": "1,05 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Lord Abbett Global Funds I plc - Lor...",
+    "isin": "IE00BD8D5J55",
+    "riesgo": "2/7",
+    "ren-ytd": "0,86 %",
+    "ren-2025": "4,68 %",
+    "comision": "1,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "Lord Abbett Global Funds I plc - Lor...",
+    "isin": "IE00BYP0Y993",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "3,31 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "M&G Euro Inflat Linked Corp Bond A",
+    "isin": "LU1582984149",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "2,94 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "M&G Euro Corporate Bond A",
+    "isin": "LU1670629549",
+    "riesgo": "2/7",
+    "ren-ytd": "0,33 %",
+    "ren-2025": "2,64 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "M&G European Credit P",
+    "isin": "LU2482630162",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "2,26 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "M&G Global Float Rate High Yield A-H...",
+    "isin": "LU1670722161",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "3,09 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "M&G Short Dated Corp Bond A",
+    "isin": "LU1670718219",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "3,12 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "M&G Total Return Credit Invest P",
+    "isin": "LU2482630675",
+    "riesgo": "2/7",
+    "ren-ytd": "0,25 %",
+    "ren-2025": "2,19 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "MARCH INTERNATIONAL - TORRENOVA LUX ...",
+    "isin": "LU0566417423",
+    "riesgo": "2/7",
+    "ren-ytd": "0,46 %",
+    "ren-2025": "3,59 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "MFS Meridian Funds - Global High Yie...",
+    "isin": "LU0035377810",
+    "riesgo": "2/7",
+    "ren-ytd": "0,84 %",
+    "ren-2025": "-4,82 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "MFS Meridian Funds - Global Opportun...",
+    "isin": "LU1340703070",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "2,60 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "MIRALTA SICAV - SEQUOIA - Class A EUR",
+    "isin": "LU2638558333",
+    "riesgo": "2/7",
+    "ren-ytd": "0,99 %",
+    "ren-2025": "3,16 %",
+    "comision": "1,05 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "MUTUAFONDO BONOS FINANCIEROS D",
+    "isin": "ES0124143019",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "3,86 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "MUTUAFONDO CORTO PLAZO D FI",
+    "isin": "ES0165142003",
+    "riesgo": "2/7",
+    "ren-ytd": "0,16 %",
+    "ren-2025": "2,54 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "MUTUAFONDO D FI",
+    "isin": "ES0165237001",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "3,22 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "MUTUAFONDO FLEXIBLE BOND A",
+    "isin": "LU3105996899",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "-",
+    "comision": "0,93 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "MUTUAFONDO FORTALEZA D FI",
+    "isin": "ES0165145014",
+    "riesgo": "2/7",
+    "ren-ytd": "0,60 %",
+    "ren-2025": "6,41 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "MUTUAFONDO LARGO PLAZO A",
+    "isin": "ES0165240039",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "3,01 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Mirabaud Global High Yield Bonds AH ...",
+    "isin": "LU0862027439",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "4,59 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Mirabaud Global Strategic Bond AH EU...",
+    "isin": "LU0963986467",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "2,34 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Mirova Euro Green and Sust Corp Bd R",
+    "isin": "LU0552643842",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "2,20 %",
+    "comision": "0,776 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Morgan Stanley Global Asset Backed S...",
+    "isin": "LU0858068660",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,16 %",
+    "ren-2025": "5,19 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Morgan Stanley Short Maturity Euro B...",
+    "isin": "LU0073235904",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "2,30 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "Morgan Stanley USD Short Dur Bond A ...",
+    "isin": "LU1387591990",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "-7,80 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Multi Asset Strategic Allocation B",
+    "isin": "LU1022124520",
+    "riesgo": "2/7",
+    "ren-ytd": "2,63 %",
+    "ren-2025": "8,28 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Muzinich EmergingMarketsShortDuratio...",
+    "isin": "IE00BFNXVS58",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "3,89 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Muzinich Enhancedyield Short-Term Fu...",
+    "isin": "IE00B4MQD153",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "3,64 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Muzinich Enhancedyield Short-Term Fu...",
+    "isin": "IE00B65YMK29",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "3,64 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Muzinich Global Tactical Credit Fund",
+    "isin": "IE00BHLSJ936",
+    "riesgo": "2/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "3,24 %",
+    "comision": "1,35 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Muzinich LongShortCreditYield Fund",
+    "isin": "IE00BF8H6M17",
+    "riesgo": "2/7",
+    "ren-ytd": "0,25 %",
+    "ren-2025": "1,40 %",
+    "comision": "1,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Muzinich Market Duration EnhancedYie...",
+    "isin": "IE00B4V6QY02",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "4,10 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "NORDEA 1 European Cross Credit BP",
+    "isin": "LU0733673288",
+    "riesgo": "2/7",
+    "ren-ytd": "0,49 %",
+    "ren-2025": "4,66 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "NORDEA 1 European High Yield BP",
+    "isin": "LU1927798717",
+    "riesgo": "2/7",
+    "ren-ytd": "0,75 %",
+    "ren-2025": "2,69 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Neuberger Berman Short Duration Emer...",
+    "isin": "IE00BDZRWZ54",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "6,34 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Nordea Active Rates Opp BP",
+    "isin": "LU1915690595",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,29 %",
+    "ren-2025": "5,71 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Nordea Active Rates Opp BP",
+    "isin": "LU0076315455",
+    "riesgo": "2/7",
+    "ren-ytd": "0,28 %",
+    "ren-2025": "2,55 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Nordea Danish Covered Bond BP",
+    "isin": "LU0173779223",
+    "riesgo": "2/7",
+    "ren-ytd": "0,17 %",
+    "ren-2025": "2,01 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Nordea Euro Corp Sustain Stars Bd_BP",
+    "isin": "LU1927797156",
+    "riesgo": "2/7",
+    "ren-ytd": "0,41 %",
+    "ren-2025": "2,48 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Nordea Euro Financial Debt BP",
+    "isin": "LU0772944145",
+    "riesgo": "2/7",
+    "ren-ytd": "0,60 %",
+    "ren-2025": "4,60 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Nordea Euro High Yield Bond BP",
+    "isin": "LU0141799501",
+    "riesgo": "2/7",
+    "ren-ytd": "0,63 %",
+    "ren-2025": "5,27 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Nordea European Corp Bond BP",
+    "isin": "LU0173783928",
+    "riesgo": "2/7",
+    "ren-ytd": "0,41 %",
+    "ren-2025": "2,64 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Nordea Flexible Fixed Income BP",
+    "isin": "LU0915365364",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "1,16 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Nordea Low Dur Euro Covered Bond BP",
+    "isin": "LU1694212348",
+    "riesgo": "2/7",
+    "ren-ytd": "0,15 %",
+    "ren-2025": "3,93 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "ODDO BHF Credit Opportunities CR",
+    "isin": "LU1752460292",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "2,52 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "ODDO BHF Euro Credit Short Duration ...",
+    "isin": "LU1486845537",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "3,64 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "ODDO BHF Euro High Yield Bond CR-EUR",
+    "isin": "LU0115290974",
+    "riesgo": "2/7",
+    "ren-ytd": "0,43 %",
+    "ren-2025": "4,10 %",
+    "comision": "1,40 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "ODDO BHF Polaris Moderate CR (EUR)",
+    "isin": "DE000A2JJ1W5",
+    "riesgo": "2/7",
+    "ren-ytd": "0,77 %",
+    "ren-2025": "2,10 %",
+    "comision": "1,15 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "ODDO BHF Sustainable Euro Corporate ...",
+    "isin": "LU0145975222",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "2,36 %",
+    "comision": "0,90 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Oaktree Global High Yield Bond Fund ...",
+    "isin": "LU0854923900",
+    "riesgo": "2/7",
+    "ren-ytd": "0,63 %",
+    "ren-2025": "4,60 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Ostrum Credit Short Dur I",
+    "isin": "LU0935221761",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "3,29 %",
+    "comision": "0,250 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Ostrum Credit Short Duration R",
+    "isin": "LU0935222066",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "2,79 %",
+    "comision": "0,600 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "PIMCO Euro Credit Fund E",
+    "isin": "IE00B3KR3M49",
+    "riesgo": "2/7",
+    "ren-ytd": "0,55 %",
+    "ren-2025": "2,56 %",
+    "comision": "1,36 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "PIMCO Euro Short-Term E",
+    "isin": "IE00B11XYZ73",
+    "riesgo": "2/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "2,05 %",
+    "comision": "1,04 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "PIMCO European Short-Term Opp E",
+    "isin": "IE00B90VC092",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "4,00 %",
+    "comision": "0,97 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "PIMCO Global Inv Grade Cred Inv EUR ...",
+    "isin": "IE00B063CF11",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "4,86 %",
+    "comision": "0,49 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "PIMCO Income Fund Investor EUR (Hedg...",
+    "isin": "IE00BWY53M78",
+    "riesgo": "2/7",
+    "ren-ytd": "0,27 %",
+    "ren-2025": "7,89 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "PIMCO Low Duration Income E EURHDG",
+    "isin": "IE00BDT57Y96",
+    "riesgo": "2/7",
+    "ren-ytd": "0,18 %",
+    "ren-2025": "6,42 %",
+    "comision": "1,45 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "PIMCO Low Duration income E EURH Dis",
+    "isin": "IE00BDT57Z04",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "6,42 %",
+    "comision": "1,45 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Pictet - EUR Corporate Bonds - P",
+    "isin": "LU0128470845",
+    "riesgo": "2/7",
+    "ren-ytd": "0,43 %",
+    "ren-2025": "2,63 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Pictet - EUR Income Opportunities - P",
+    "isin": "LU0167158327",
+    "riesgo": "2/7",
+    "ren-ytd": "0,26 %",
+    "ren-2025": "2,13 %",
+    "comision": "0,56 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Pictet - EUR Short Term Corporate Bo...",
+    "isin": "LU0954602750",
+    "riesgo": "2/7",
+    "ren-ytd": "0,33 %",
+    "ren-2025": "3,34 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Pictet - Short Term Emerging Corpora...",
+    "isin": "LU1055196213",
+    "riesgo": "2/7",
+    "ren-ytd": "0,65 %",
+    "ren-2025": "-6,02 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "Pictet - USD Short Mid-Term Bonds - P",
+    "isin": "LU0175073625",
+    "riesgo": "2/7",
+    "ren-ytd": "0,09 %",
+    "ren-2025": "-7,30 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "Pictet TR - Atlas - P EUR",
+    "isin": "LU1433232854",
+    "riesgo": "2/7",
+    "ren-ytd": "1,32 %",
+    "ren-2025": "6,68 %",
+    "comision": "1,60 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "QUALITY GLOBAL, FI",
+    "isin": "ES0114122031",
+    "riesgo": "2/7",
+    "ren-ytd": "0,82 %",
+    "ren-2025": "3,28 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "QUALITY INVERSION CONSERVADORA, FI",
+    "isin": "ES0172273007",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "3,02 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Quaestio Global Enhanced Cash R",
+    "isin": "LU0981470809",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "2,78 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "RENTA 4 PEGASUS CLASE R",
+    "isin": "ES0173321003",
+    "riesgo": "2/7",
+    "ren-ytd": "0,32 %",
+    "ren-2025": "2,90 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "RENTA 4 Renta Fija Euro B",
+    "isin": "ES0173319015",
+    "riesgo": "2/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,71 %",
+    "comision": "0,45 %"
+  },
+  {
+    "tipoFondo": "Inversión alternativa",
+    "nombre": "RENTA 4 VALOR RELATIVO CLASE R",
+    "isin": "ES0128522002",
+    "riesgo": "2/7",
+    "ren-ytd": "0,30 %",
+    "ren-2025": "2,82 %",
+    "comision": "0,85 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "ROBECO QI GLOBAL DYNAMIC DURATION \"D...",
+    "isin": "LU2819788964",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,02 %",
+    "ren-2025": "-1,20 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "ROBECO SUSTAINABLE GL \"DH\" (EURHDG)",
+    "isin": "LU2885076518",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,13 %",
+    "ren-2025": "3,34 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Robeco QI Long/Short Dynamic Dura D",
+    "isin": "LU0230242504",
+    "riesgo": "2/7",
+    "ren-ytd": "0,28 %",
+    "ren-2025": "-0,47 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "SANTALUCIA RENTA FIJA CORTO PLAZO EU...",
+    "isin": "ES0170156030",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,72 %",
+    "comision": "0,32 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "SANTALUCIA RENTA FIJA, FI CL B",
+    "isin": "ES0170138038",
+    "riesgo": "2/7",
+    "ren-ytd": "0,34 %",
+    "ren-2025": "2,36 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "SIGMA Hous F",
+    "isin": "LU1984948874",
+    "riesgo": "2/7",
+    "ren-ytd": "0,56 %",
+    "ren-2025": "4,59 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "SIGMA INVESTMENT HOUSE AHORRO, FI, C...",
+    "isin": "ES0141580037",
+    "riesgo": "2/7",
+    "ren-ytd": "0,28 %",
+    "ren-2025": "3,07 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "SPB RF Ahorro_A",
+    "isin": "ES0112793007",
+    "riesgo": "2/7",
+    "ren-ytd": "0,03 %",
+    "ren-2025": "2,52 %",
+    "comision": "0,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Santander Euro Corporate Bond B",
+    "isin": "LU0094946778",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "2,06 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Santander Euro Corporate Bond_AD Dist",
+    "isin": "LU1003778534",
+    "riesgo": "2/7",
+    "ren-ytd": "0,37 %",
+    "ren-2025": "-0,86 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Santander Euro Corporate Bond_BD Dist",
+    "isin": "LU1003778880",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "-0,61 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Santander GO Dynamic Bond A",
+    "isin": "LU2004895350",
+    "riesgo": "2/7",
+    "ren-ytd": "0,50 %",
+    "ren-2025": "-5,72 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Santander GO Dynamic Bond B",
+    "isin": "LU2004895434",
+    "riesgo": "2/7",
+    "ren-ytd": "0,52 %",
+    "ren-2025": "-5,38 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Santander GO Dynamic Bond BEH",
+    "isin": "LU2260720631",
+    "riesgo": "2/7",
+    "ren-ytd": "0,31 %",
+    "ren-2025": "4,95 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Santander Go Global High Yield A USD",
+    "isin": "LU2360100155",
+    "riesgo": "2/7",
+    "ren-ytd": "1,00 %",
+    "ren-2025": "-5,96 %",
+    "comision": "1,15 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Santander Latin American Corporate B...",
+    "isin": "LU0047567978",
+    "riesgo": "2/7",
+    "ren-ytd": "0,59 %",
+    "ren-2025": "-4,96 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Santander Multi Asset Conserv Growth...",
+    "isin": "LU0428586258",
+    "riesgo": "2/7",
+    "ren-ytd": "0,42 %",
+    "ren-2025": "-5,39 %",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "Santander Multi Asset Conservative G...",
+    "isin": "LU0428586332",
+    "riesgo": "2/7",
+    "ren-ytd": "0,44 %",
+    "ren-2025": "-4,94 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Santander Renta Fija Flotante",
+    "isin": "ES0107943005",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "2,27 %",
+    "comision": "0,40 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Santander Renta Fija Privada",
+    "isin": "ES0175164039",
+    "riesgo": "2/7",
+    "ren-ytd": "0,27 %",
+    "ren-2025": "1,69 %",
+    "comision": "1,40 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Moderado",
+    "nombre": "Santander Responsabilidad Solidario",
+    "isin": "ES0145821007",
+    "riesgo": "2/7",
+    "ren-ytd": "0,47 %",
+    "ren-2025": "3,96 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Moderado",
+    "nombre": "Santander Select Income AD Dist",
+    "isin": "LU1590077316",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "-",
+    "comision": "0,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Santander Sostenible Bonos_A",
+    "isin": "ES0113608006",
+    "riesgo": "2/7",
+    "ren-ytd": "0,27 %",
+    "ren-2025": "1,93 %",
+    "comision": "0,60 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Santander Sostenible RF Ahorro_A",
+    "isin": "ES0138986031",
+    "riesgo": "2/7",
+    "ren-ytd": "0,21 %",
+    "ren-2025": "2,28 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Schelcher Flexible Short Duration ES...",
+    "isin": "FR0010707513",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "4,00 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Schroder ISF Asian Bond Total Return...",
+    "isin": "LU0106250508",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,06 %",
+    "ren-2025": "-7,73 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Schroder ISF Asian Bond Total Return...",
+    "isin": "LU0327381843",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,28 %",
+    "ren-2025": "2,39 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Schroder ISF BlueOrchard Emerg Mrkt ...",
+    "isin": "LU2498533483",
+    "riesgo": "2/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "4,08 %",
+    "comision": "1,45 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Schroder ISF EURO Corporate Bond A A...",
+    "isin": "LU0113257694",
+    "riesgo": "2/7",
+    "ren-ytd": "0,49 %",
+    "ren-2025": "3,43 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Schroder ISF EURO Credit Conviction ...",
+    "isin": "LU0995119665",
+    "riesgo": "2/7",
+    "ren-ytd": "0,54 %",
+    "ren-2025": "3,85 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Schroder ISF EURO Credit Conviction ...",
+    "isin": "LU0995120242",
+    "riesgo": "2/7",
+    "ren-ytd": "0,54 %",
+    "ren-2025": "3,85 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Schroder ISF EURO High Yield A ACC",
+    "isin": "LU0849399786",
+    "riesgo": "2/7",
+    "ren-ytd": "0,74 %",
+    "ren-2025": "4,88 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Schroder ISF EURO Short Term Bond A ...",
+    "isin": "LU0106234643",
+    "riesgo": "2/7",
+    "ren-ytd": "0,24 %",
+    "ren-2025": "2,58 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Schroder ISF Euro Credit Conviction ...",
+    "isin": "LU1293074719",
+    "riesgo": "2/7",
+    "ren-ytd": "0,40 %",
+    "ren-2025": "3,46 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Schroder ISF Global Bond A ACC EUR H...",
+    "isin": "LU0694808618",
+    "riesgo": "2/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "2,57 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Schroder ISF Global Credit High Inco...",
+    "isin": "LU0575582027",
+    "riesgo": "2/7",
+    "ren-ytd": "0,41 %",
+    "ren-2025": "-3,49 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "Schroder ISF Global Credit High Inco...",
+    "isin": "LU0592039324",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "7,04 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Schroder ISF Global Credit Income A ...",
+    "isin": "LU1737068558",
+    "riesgo": "2/7",
+    "ren-ytd": "0,33 %",
+    "ren-2025": "-4,56 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Schroder ISF Global High Yield A ACC",
+    "isin": "LU0189893018",
+    "riesgo": "2/7",
+    "ren-ytd": "0,90 %",
+    "ren-2025": "-5,30 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Schroder ISF Global High Yield A Dis...",
+    "isin": "LU0205194797",
+    "riesgo": "2/7",
+    "ren-ytd": "0,91 %",
+    "ren-2025": "-5,30 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Moderado",
+    "nombre": "Schroder ISF Global Target Return A ...",
+    "isin": "LU1900986727",
+    "riesgo": "2/7",
+    "ren-ytd": "1,76 %",
+    "ren-2025": "12,00 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Schroder ISF Strategic Bond A ACC",
+    "isin": "LU0201322137",
+    "riesgo": "2/7",
+    "ren-ytd": "0,32 %",
+    "ren-2025": "-4,22 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Schroder ISF Strategic Credit A EURH",
+    "isin": "LU1046235732",
+    "riesgo": "2/7",
+    "ren-ytd": "0,33 %",
+    "ren-2025": "4,69 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Schroder ISF Sustain EURO Credit A",
+    "isin": "LU2080993616",
+    "riesgo": "2/7",
+    "ren-ytd": "0,42 %",
+    "ren-2025": "2,98 %",
+    "comision": "0,75 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Sextant Bond Picking A",
+    "isin": "FR0013202132",
+    "riesgo": "2/7",
+    "ren-ytd": "0,38 %",
+    "ren-2025": "4,23 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Swisscanto Bond Com Secur High Yield...",
+    "isin": "LU1057799097",
+    "riesgo": "2/7",
+    "ren-ytd": "0,57 %",
+    "ren-2025": "4,13 %",
+    "comision": "1,05 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "T. Rowe Price Euro Corp Bond A",
+    "isin": "LU0133089424",
+    "riesgo": "2/7",
+    "ren-ytd": "0,47 %",
+    "ren-2025": "2,95 %",
+    "comision": "0,435 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Templeton Sustainable Global Bond A",
+    "isin": "LU0170474422",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "6,42 %",
+    "comision": "1,05 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Tikehau Fund - Tikehau Short Duratio...",
+    "isin": "LU1585265066",
+    "riesgo": "2/7",
+    "ren-ytd": "0,13 %",
+    "ren-2025": "2,92 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Trea Renta Fija Ahorro S",
+    "isin": "ES0125240038",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,45 %",
+    "comision": "0,55 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Trea Renta Fija FI",
+    "isin": "ES0168662031",
+    "riesgo": "2/7",
+    "ren-ytd": "0,28 %",
+    "ren-2025": "2,63 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Twelve Cat Bond Fund B EURHDG",
+    "isin": "IE00BD2B9603",
+    "riesgo": "2/7",
+    "ren-ytd": "0,15 %",
+    "ren-2025": "6,52 %",
+    "comision": "1,525 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "UBAM USD Floating Rates Notes A EURH...",
+    "isin": "LU0352158918",
+    "riesgo": "2/7",
+    "ren-ytd": "0,19 %",
+    "ren-2025": "2,89 %",
+    "comision": "0,11 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Bond CHF Flexible_P CHF",
+    "isin": "LU0010001369",
+    "riesgo": "2/7",
+    "ren-ytd": "0,51 %",
+    "ren-2025": "1,19 %",
+    "comision": "0,63 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "UBS Bond China Fixed Income RMB_P EU...",
+    "isin": "LU2257619812",
+    "riesgo": "2/7",
+    "ren-ytd": "0,11 %",
+    "ren-2025": "0,25 %",
+    "comision": "0,96 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "UBS Bond EUR Corp_P",
+    "isin": "LU0162626096",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "2,70 %",
+    "comision": "0,86 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Mercados emergentes",
+    "nombre": "UBS Bond Emerg Econom Corp (USD) P ...",
+    "isin": "LU0896022620",
+    "riesgo": "2/7",
+    "ren-ytd": "1,00 %",
+    "ren-2025": "7,00 %",
+    "comision": "1,28 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "UBS Bond Euro High Yield_P",
+    "isin": "LU0086177085",
+    "riesgo": "2/7",
+    "ren-ytd": "0,73 %",
+    "ren-2025": "5,49 %",
+    "comision": "1,01 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Bond Global Flexible (CAD hedged...",
+    "isin": "LU1467572357",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "-3,07 %",
+    "comision": "0,95 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Bond Global Flexible P GBPH",
+    "isin": "LU1991433365",
+    "riesgo": "2/7",
+    "ren-ytd": "0,98 %",
+    "ren-2025": "0,73 %",
+    "comision": "0,95 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Bond Global Flexible_P CHF",
+    "isin": "LU0071006638",
+    "riesgo": "2/7",
+    "ren-ytd": "0,73 %",
+    "ren-2025": "2,89 %",
+    "comision": "0,91 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Bond Global Short Term Flex_P GB...",
+    "isin": "LU2327293929",
+    "riesgo": "2/7",
+    "ren-ytd": "1,04 %",
+    "ren-2025": "0,41 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "UBS Bond Short Dur HY USD_P EURH",
+    "isin": "LU0577855942",
+    "riesgo": "2/7",
+    "ren-ytd": "0,28 %",
+    "ren-2025": "4,07 %",
+    "comision": "1,05 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "UBS Bond Short Term Corp_P",
+    "isin": "LU0151774626",
+    "riesgo": "2/7",
+    "ren-ytd": "0,30 %",
+    "ren-2025": "2,52 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Otros",
+    "nombre": "UBS Bond Short Term USD Corp_P USD",
+    "isin": "LU0151774972",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "-7,17 %",
+    "comision": "0,65 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "UBS Euro High Yield_P Dist",
+    "isin": "LU1076698254",
+    "riesgo": "2/7",
+    "ren-ytd": "0,72 %",
+    "ren-2025": "5,49 %",
+    "comision": "1,01 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "UBS Floating Rate Income P EURHDG",
+    "isin": "LU1679113404",
+    "riesgo": "2/7",
+    "ren-ytd": "0,71 %",
+    "ren-2025": "3,90 %",
+    "comision": "1,08 %"
+  },
+  {
+    "tipoFondo": "Activos Reales",
+    "subtipoFondo": "Bonos ligados a la inflación",
+    "nombre": "UBS Global Inflation - linked_P EURH",
+    "isin": "LU0455556406",
+    "riesgo": "2/7",
+    "ren-ytd": "0,35 %",
+    "ren-2025": "4,66 %",
+    "comision": "0,76 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Global Short Term Flex USD_P AUDH",
+    "isin": "LU1991167542",
+    "riesgo": "2/7",
+    "ren-ytd": "3,15 %",
+    "ren-2025": "0,35 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Global Short Term Flex USD_P EURH",
+    "isin": "LU0706127809",
+    "riesgo": "2/7",
+    "ren-ytd": "0,65 %",
+    "ren-2025": "3,94 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Global Short Term Flexible_P CADH",
+    "isin": "LU2254328649",
+    "riesgo": "2/7",
+    "ren-ytd": "0,00 %",
+    "ren-2025": "-3,45 %",
+    "comision": "0,70 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Global Short Term Flexible_P USD",
+    "isin": "LU0659916679",
+    "riesgo": "2/7",
+    "ren-ytd": "0,84 %",
+    "ren-2025": "-6,28 %",
+    "comision": "0,66 %"
+  },
+  {
+    "tipoFondo": "Mixtos",
+    "subtipoFondo": "Defensivo",
+    "nombre": "UBS Income EUR_P",
+    "isin": "LU0994951464",
+    "riesgo": "2/7",
+    "ren-ytd": "0,36 %",
+    "ren-2025": "5,86 %",
+    "comision": "1,04 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "UBS Short Dur HY USD _P USD",
+    "isin": "LU0577855355",
+    "riesgo": "2/7",
+    "ren-ytd": "0,47 %",
+    "ren-2025": "-6,09 %",
+    "comision": "1,01 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Strategy Fixed Income_P",
+    "isin": "LU0039703029",
+    "riesgo": "2/7",
+    "ren-ytd": "0,33 %",
+    "ren-2025": "3,43 %",
+    "comision": "0,86 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "UBS Strategy Fixed Income_P CHF",
+    "isin": "LU0039343222",
+    "riesgo": "2/7",
+    "ren-ytd": "0,29 %",
+    "ren-2025": "2,07 %",
+    "comision": "0,86 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Vontobel Fund - Euro Corporate Bond A",
+    "isin": "LU0153585566",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "2,59 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "Vontobel Fund - Euro Corporate Bond B",
+    "isin": "LU0153585723",
+    "riesgo": "2/7",
+    "ren-ytd": "0,45 %",
+    "ren-2025": "2,60 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Vontobel Fund - Euro Short Term Bond...",
+    "isin": "LU0120689640",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "2,20 %",
+    "comision": "0,30 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Vontobel Fund - Global Active Bond B",
+    "isin": "LU1112750929",
+    "riesgo": "2/7",
+    "ren-ytd": "0,31 %",
+    "ren-2025": "5,22 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa High Yield",
+    "nombre": "Vontobel Fund - Global High Yield Bo...",
+    "isin": "LU0571066462",
+    "riesgo": "2/7",
+    "ren-ytd": "0,74 %",
+    "ren-2025": "3,72 %",
+    "comision": "1,10 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Global",
+    "nombre": "Vontobel Fund - TwentyFour Absolute ...",
+    "isin": "LU1551754432",
+    "riesgo": "2/7",
+    "ren-ytd": "0,20 %",
+    "ren-2025": "3,08 %",
+    "comision": "0,80 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "Vontobel Fund - TwentyFour Strategic...",
+    "isin": "LU1551754515",
+    "riesgo": "2/7",
+    "ren-ytd": "0,42 %",
+    "ren-2025": "4,25 %",
+    "comision": "1,20 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "WAM DURACION 0-3 FI B",
+    "isin": "ES0176408013",
+    "riesgo": "2/7",
+    "ren-ytd": "0,23 %",
+    "ren-2025": "2,47 %",
+    "comision": "0,95 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "abrdn Euro Corporate Bond A",
+    "isin": "LU0177497491",
+    "riesgo": "2/7",
+    "ren-ytd": "0,39 %",
+    "ren-2025": "2,55 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "abrdn Global Income Bond A EURH",
+    "isin": "LU1523963418",
+    "riesgo": "2/7",
+    "ren-ytd": "0,50 %",
+    "ren-2025": "5,41 %",
+    "comision": "1,00 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "abrdn Macro Fixed Income A EURH",
+    "isin": "LU0548158160",
+    "riesgo": "2/7",
+    "ren-ytd": "-0,09 %",
+    "ren-2025": "2,60 %",
+    "comision": "1,25 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Sin Restricciones",
+    "nombre": "abrdn Short Dated Enhanced A EURH",
+    "isin": "LU2628679511",
+    "riesgo": "2/7",
+    "ren-ytd": "0,14 %",
+    "ren-2025": "3,64 %",
+    "comision": "0,50 %"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Corporativa Inv Grade",
+    "nombre": "iShares Euro Invest Grade Corp Bond ...",
+    "isin": "IE00B67T5G21",
+    "riesgo": "2/7",
+    "ren-ytd": "0,42 %",
+    "ren-2025": "2,98 %",
+    "comision": "0,12 %"
+  }
+]
