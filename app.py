@@ -5,7 +5,7 @@ from src.menu.sidebar_menu import SidebarMenu
 st.set_page_config(
     page_title="My App",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
 

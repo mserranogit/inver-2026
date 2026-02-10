@@ -1,0 +1,8 @@
+﻿Nombre,ISIN,Tipo,Subtipo,Riesgo,Rent 2025 (%),Rent YTD (%),Comisión (%),Rent Neta Aprox (%),Cumple Riesgo,Cumple Rentabilidad
+OSTRUM Credit Ultra Short R/C,FR001400CFA4,Renta Fija,Gobiernos Global,1,2.99,0.11,0.2,2.79,True,False
+EVLI Euro Liquidity B,FI0008804463,Renta Fija,Gobiernos Europa CP,1,2.9,0.12,0.3,2.6,True,False
+DWS Euro Ultra Short Fixed Income NC,LU0080237943,Renta Fija,Gobiernos Europa CP,1,2.77,0.13,0.05,2.72,True,False
+DWS Floating Rate Notes LC,LU0034353002,Renta Fija,Gobiernos Europa CP,1,2.75,0.13,0.15,2.6,True,False
+DWS ESG Floating Rate Notes LC,LU1965927921,Renta Fija,Gobiernos Europa CP,1,2.7,0.14,0.175,2.5250000000000004,True,False
+Groupama Ultra Short Term _ NC,FR0013346079,Renta Fija,Gobiernos Global,1,2.54,0.11,0.36,2.18,True,False
+Allianz Enhanced Short Term Euro AT,LU0293294277,Renta Fija,Gobiernos Europa CP,1,2.51,0.12,0.25,2.26,True,False

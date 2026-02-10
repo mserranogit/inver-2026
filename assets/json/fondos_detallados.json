@@ -1,0 +1,63 @@
+[
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Enhanced Short Term Euro AT",
+    "isin": "LU0293294277",
+    "riesgo": "1/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,51 %",
+    "comision": "0,25 %",
+    "composicion": "No disponible en Yahoo",
+    "error_calculos": "Datos históricos insuficientes para 5 años"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Euro Oblig Court Terme ISR RC",
+    "isin": "FR0011387299",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,34 %",
+    "comision": "0,45 %",
+    "top_holdings": {
+      "Name": {},
+      "Holding Percent": {}
+    },
+    "sector_weightings": {
+      "realestate": 0.0,
+      "consumer_cyclical": 0.0,
+      "basic_materials": 0.0,
+      "consumer_defensive": 0.0,
+      "technology": 0.0,
+      "communication_services": 0.0,
+      "financial_services": 1.0,
+      "utilities": 0.0,
+      "industrials": 0.0,
+      "energy": 0.0,
+      "healthcare": 0.0
+    },
+    "rentabilidad_total_periodo": "9.38%",
+    "rentabilidad_anualizada": "1.81%",
+    "volatilidad_anualizada": "6304.20%",
+    "años_datos": 4.99
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Cash Euro_A2 ESG",
+    "isin": "LU0568620560",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,77 %",
+    "comision": "0,50 %",
+    "top_holdings": {
+      "Name": {},
+      "Holding Percent": {}
+    },
+    "sector_weightings": {},
+    "rentabilidad_total_periodo": "8.47%",
+    "rentabilidad_anualizada": "2.10%",
+    "volatilidad_anualizada": "0.16%",
+    "años_datos": 3.92
+  }
+]

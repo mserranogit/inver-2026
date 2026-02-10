@@ -1,0 +1,14 @@
+[
+  {
+    "isin": "LU0293294277",
+    "error": "module 'mstarpy' has no attribute 'Funds'"
+  },
+  {
+    "isin": "FR0011387299",
+    "error": "module 'mstarpy' has no attribute 'Funds'"
+  },
+  {
+    "isin": "LU0568620560",
+    "error": "module 'mstarpy' has no attribute 'Funds'"
+  }
+]

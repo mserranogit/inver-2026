@@ -1,0 +1,223 @@
+[
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Enhanced Short Term Euro AT",
+    "isin": "LU0293294277",
+    "riesgo": "1/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,51 %",
+    "comision": "0,25 %",
+    "nombre_mstar": "Allianz Global Investors Fund - Allianz Enhanced Short Term Euro AT EUR",
+    "top_10_holdings_simplificado": [
+      {
+        "securityName": "Bank of Nova Scotia 2.599%",
+        "weighting": 3.44987,
+        "country": "Canada",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Landesbank Baden-Wuerttemberg 2.698%",
+        "weighting": 2.94159,
+        "country": "Germany",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "RELX Finance BV 1.5%",
+        "weighting": 2.7441,
+        "country": "United Kingdom",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Morgan Stanley 0.406%",
+        "weighting": 2.70583,
+        "country": "United States",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Deutsche Bank AG 1.875%",
+        "weighting": 2.59518,
+        "country": "Germany",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Credit Agricole S.A. 2.625%",
+        "weighting": 2.45544,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Danske Bank A/S 2.669%",
+        "weighting": 2.42139,
+        "country": "Denmark",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Citigroup Inc. 0.5%",
+        "weighting": 2.37221,
+        "country": "United States",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Hamburg Commercial Bank AG 2.796%",
+        "weighting": 2.0823,
+        "country": "Germany",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "UniCredit S.p.A. 0.925%",
+        "weighting": 2.04667,
+        "country": "Italy",
+        "holdingType": "Bond"
+      }
+    ],
+    "error_calculo_historico": "'Funds' object has no attribute 'historical'"
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Euro Oblig Court Terme ISR RC",
+    "isin": "FR0011387299",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,34 %",
+    "comision": "0,45 %",
+    "nombre_mstar": "Allianz Euro Oblig Court Terme ISR RC",
+    "top_10_holdings_simplificado": [
+      {
+        "securityName": "Italy (Republic Of) 3.2%",
+        "weighting": 2.11518,
+        "country": "Italy",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "BPCE SA 0.5%",
+        "weighting": 1.93317,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Danske Bank A/S 4%",
+        "weighting": 1.83404,
+        "country": "Denmark",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Morgan Stanley 0.406%",
+        "weighting": 1.75298,
+        "country": "United States",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Italy (Republic Of) 0%",
+        "weighting": 1.60174,
+        "country": "Italy",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "France (Republic Of) 0%",
+        "weighting": 1.60171,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "ING Groep N.V. 4.875%",
+        "weighting": 1.4662,
+        "country": "Netherlands",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Banco Santander SA 2.764%",
+        "weighting": 1.43498,
+        "country": "Spain",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Credit Mutuel Arkea 3.375%",
+        "weighting": 1.4284,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "DnB Bank ASA 3.625%",
+        "weighting": 1.33267,
+        "country": "Norway",
+        "holdingType": "Bond"
+      }
+    ],
+    "error_calculo_historico": "'Funds' object has no attribute 'historical'"
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Cash Euro_A2 ESG",
+    "isin": "LU0568620560",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,77 %",
+    "comision": "0,50 %",
+    "nombre_mstar": "Amundi Funds - Cash EUR A2 EUR (C)",
+    "top_10_holdings_simplificado": [
+      {
+        "securityName": "Italy (Republic Of) 1.666%",
+        "weighting": 1.68281,
+        "country": "Italy",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "France (Republic Of) 0.12152%",
+        "weighting": 1.64034,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Italy (Republic Of) 2%",
+        "weighting": 1.28978,
+        "country": "Italy",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "European Financial Stability Facility (EFSF) 1.7%",
+        "weighting": 0.97384,
+        "country": "Supranational",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "European Investment Bank 4%",
+        "weighting": 0.74882,
+        "country": "Supranational",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Italy (Republic Of) 4.25%",
+        "weighting": 0.74028,
+        "country": "Italy",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Caisse d Amortissement De La Dette Sociale 2.875%",
+        "weighting": 0.71119,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Comm Akti Zcp 10-09-26",
+        "weighting": 0.5756,
+        "country": "Germany",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "Societe Generale S.A. 2.221%",
+        "weighting": 0.47914,
+        "country": "France",
+        "holdingType": "Bond"
+      },
+      {
+        "securityName": "AT&T Inc 2.482%",
+        "weighting": 0.41577,
+        "country": "United States",
+        "holdingType": "Bond"
+      }
+    ],
+    "error_calculo_historico": "'Funds' object has no attribute 'historical'"
+  }
+]

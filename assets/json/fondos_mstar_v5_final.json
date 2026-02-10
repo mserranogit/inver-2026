@@ -1,0 +1,42 @@
+[
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Enhanced Short Term Euro AT",
+    "isin": "LU0293294277",
+    "riesgo": "1/7",
+    "ren-ytd": "0,12 %",
+    "ren-2025": "2,51 %",
+    "comision": "0,25 %",
+    "error_mstar_general": "Error 502\n            for the api https://global.morningstar.com/api/v1/fr/stores/data-points/fields. Message : Bad Gateway."
+  },
+  {
+    "tipoFondo": "Renta Fija",
+    "subtipoFondo": "Gobiernos Europa CP",
+    "nombre": "Allianz Euro Oblig Court Terme ISR RC",
+    "isin": "FR0011387299",
+    "riesgo": "1/7",
+    "ren-ytd": "0,10 %",
+    "ren-2025": "2,34 %",
+    "comision": "0,45 %",
+    "nombre_mstar": "Allianz Euro Oblig Court Terme ISR RC",
+    "rentabilidad_info": "Error: 'Funds' object has no attribute 'trading_data'",
+    "riesgo_info": "Error: 'Funds' object has no attribute 'risk_data'",
+    "cartera_info": "Error: 'Funds' object has no attribute 'portfolio_data'",
+    "top_10_holdings_simplificado": []
+  },
+  {
+    "tipoFondo": "Mercado Monetario",
+    "nombre": "Amundi Cash Euro_A2 ESG",
+    "isin": "LU0568620560",
+    "riesgo": "1/7",
+    "ren-ytd": "0,07 %",
+    "ren-2025": "1,77 %",
+    "comision": "0,50 %",
+    "nombre_mstar": "Amundi Funds - Cash EUR A2 EUR (C)",
+    "rentabilidad_info": "Error: 'Funds' object has no attribute 'trading_data'",
+    "riesgo_info": "Error: 'Funds' object has no attribute 'risk_data'",
+    "cartera_info": "Error: 'Funds' object has no attribute 'portfolio_data'",
+    "top_10_holdings_simplificado": []
+  }
+]

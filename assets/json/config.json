@@ -1,0 +1,7 @@
+{
+  "paths": {
+    "DB_file": "O:\\_contabilidad\\conta-py-2026\\DB\\conta.db",
+    "control_mes_file": "assets/csv/control_mes.csv"
+  },
+  "anio": "2025"
+}

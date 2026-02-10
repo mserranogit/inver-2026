@@ -1,0 +1,290 @@
+import json
+from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import mstarpy as ms
+from pymongo import MongoClient
+
+# ======================================================
+# CONFIG
+# ======================================================
+JSON_INPUT = "../../assets/json/fondos_prueba.json"
+MAX_WORKERS = 4
+
+MONGO_CONFIG = {
+    "host": "localhost",
+    "port": 27017,
+    "username": "admin",
+    "password": "mike",
+    "database": "db-inver",
+    "collection": "fondos",
+    "auth_source": "admin"
+}
+
+# ======================================================
+# MONGO
+# ======================================================
+client = MongoClient(
+    host=MONGO_CONFIG["host"],
+    port=MONGO_CONFIG["port"],
+    username=MONGO_CONFIG["username"],
+    password=MONGO_CONFIG["password"],
+    authSource=MONGO_CONFIG["auth_source"]
+)
+
+db = client[MONGO_CONFIG["database"]]
+fondos_col = db[MONGO_CONFIG["collection"]]
+
+client.admin.command("ping")
+print("✅ Conectado a MongoDB")
+
+# ======================================================
+# UTILIDADES
+# ======================================================
+def leer_fondos_json(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def normalize_mstar_output(obj):
+    if obj is None:
+        return {}
+    if isinstance(obj, dict):
+        return obj
+    try:
+        return obj.to_dict()
+    except Exception:
+        return {}
+
+
+def tipo_renta_fija(categoria):
+    if not categoria:
+        return "Desconocido"
+    c = categoria.lower()
+    if "money market" in c or "short term" in c:
+        return "Letras"
+    if "government" in c or "aggregate" in c:
+        return "Bonos"
+    return "Otros"
+
+
+# ======================================================
+# EXTRACCIÓN Y CÁLCULOS
+# ======================================================
+def extraer_rentabilidades_historicas(perf):
+    try:
+        table = perf["table"]
+        years = table["columnDefs"]
+        fund_row = next(
+            x for x in table["growth10KReturnData"]
+            if x["label"] == "fund"
+        )
+        values = fund_row["datum"]
+        return {
+            year: float(value)
+            for year, value in zip(years, values)
+            if value not in (None, "")
+        }
+    except Exception:
+        return {}
+
+
+def extraer_riesgo_historico(risk):
+    out = {
+        "volatility": {},
+        "sharpe": {}
+    }
+
+    try:
+        frv = risk["fundRiskVolatility"]
+        for src, label in [
+            ("for3Year", "3y"),
+            ("for5Year", "5y")
+        ]:
+            data = frv.get(src)
+            if data:
+                out["volatility"][label] = data.get("standardDeviation")
+                out["sharpe"][label] = data.get("sharpeRatio")
+    except Exception:
+        pass
+
+    return out
+
+
+def calcular_return_anualizado(rent_hist, years):
+    try:
+        vals = [
+            rent_hist[y] / 100
+            for y in rent_hist
+            if y.isdigit()
+        ][-years:]
+
+        if len(vals) < years:
+            return None
+
+        total = 1
+        for r in vals:
+            total *= (1 + r)
+
+        return (total ** (1 / years) - 1) * 100
+    except Exception:
+        return None
+
+
+def calcular_consistencia(rent_hist):
+    try:
+        vals = [
+            rent_hist[y]
+            for y in rent_hist
+            if y.isdigit()
+        ]
+        if not vals:
+            return None
+        positivos = len([v for v in vals if v > 0])
+        return positivos / len(vals)
+    except Exception:
+        return None
+
+
+def calcular_max_drawdown(rent_hist):
+    try:
+        series = []
+        value = 1
+        for y in sorted(rent_hist):
+            if y.isdigit():
+                value *= (1 + rent_hist[y] / 100)
+                series.append(value)
+
+        peak = series[0]
+        max_dd = 0
+        for v in series:
+            if v > peak:
+                peak = v
+            dd = (v - peak) / peak
+            if dd < max_dd:
+                max_dd = dd
+
+        return max_dd * 100
+    except Exception:
+        return None
+
+
+# ======================================================
+# PROCESAR FONDO
+# ======================================================
+def procesar_fondo(fondo_json):
+    isin = fondo_json["isin"]
+    print(f"\n🔍 Procesando {isin}")
+
+    try:
+        fund = ms.Funds(isin)
+
+        perf_raw = normalize_mstar_output(fund.performanceTable())
+        risk_raw = normalize_mstar_output(fund.riskVolatility())
+
+        rent_hist = extraer_rentabilidades_historicas(perf_raw)
+        riesgo_hist = extraer_riesgo_historico(risk_raw)
+
+        metrics = {
+            "return_ann": {
+                "3y": calcular_return_anualizado(rent_hist, 3),
+                "5y": calcular_return_anualizado(rent_hist, 5)
+            },
+            "volatility": riesgo_hist["volatility"],
+            "sharpe": riesgo_hist["sharpe"],
+            "max_drawdown": calcular_max_drawdown(rent_hist),
+            "consistency": calcular_consistencia(rent_hist)
+        }
+
+        holdings = extraer_holdings(fund)
+
+        categoria = getattr(fund, "category", None)
+
+        doc = {
+            "isin": isin,
+            "nombre": fund.name,
+            "categoria": categoria,
+            "tipo_rf": tipo_renta_fija(categoria),
+
+            "rentabilidad_raw": perf_raw,
+            "riesgo_raw": risk_raw,
+
+            "metrics": metrics,
+            "holdings": holdings,
+
+            "updated_at": datetime.utcnow()
+        }
+
+        print(f"📝 Documento listo para {isin} | holdings: {len(holdings)}")
+        return doc
+
+    except Exception as e:
+        print(f"❌ Error procesando {isin}: {e}")
+        return None
+
+
+# ======================================================
+# PIPELINE
+# ======================================================
+def cargar_fondos_desde_json():
+    fondos = leer_fondos_json(JSON_INPUT)
+    print(f"\n📂 Fondos en JSON: {len(fondos)}")
+
+    docs = []
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = [executor.submit(procesar_fondo, f) for f in fondos]
+        for future in as_completed(futures):
+            result = future.result()
+            if result:
+                docs.append(result)
+
+    print(f"\n📦 Documentos preparados: {len(docs)}")
+
+    for doc in docs:
+        print(f"💾 Escribiendo {doc['isin']} en MongoDB")
+        fondos_col.update_one(
+            {"isin": doc["isin"]},
+            {"$set": doc},
+            upsert=True
+        )
+
+    print("\n✅ Pipeline completado correctamente")
+
+def extraer_holdings(fund, limit=50):
+    """
+    Extrae holdings reales desde fund.holdings()
+    Devuelve lista de dicts lista para MongoDB
+    """
+    try:
+        result = fund.holdings()
+
+        # El método devuelve (metadata_dict, dataframe)
+        if not isinstance(result, tuple) or len(result) != 2:
+            return []
+
+        meta, df = result
+
+        if df is None or df.empty:
+            return []
+
+        # Limitar número de filas
+        df = df.head(limit)
+
+        # Limpieza mínima (Mongo friendly)
+        df = df.where(df.notnull(), None)
+
+        records = df.to_dict("records")
+
+        return records
+
+    except Exception as e:
+        print(f"⚠️ Error extrayendo holdings: {e}")
+        return []
+
+
+# ======================================================
+# MAIN
+# ======================================================
+if __name__ == "__main__":
+    cargar_fondos_desde_json()

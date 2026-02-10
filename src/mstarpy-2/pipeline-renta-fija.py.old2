@@ -1,0 +1,210 @@
+import json
+from datetime import datetime, timezone
+
+from pymongo import MongoClient
+import mstarpy as ms
+
+
+# =========================
+# CONFIGURACIÓN MONGODB
+# =========================
+MONGO_CONFIG = {
+    "host": "localhost",
+    "port": 27017,
+    "username": "admin",
+    "password": "mike",
+    "database": "db-inver",
+    "collection": "fondos",
+    "auth_source": "admin"
+}
+
+
+# =========================
+# CONEXIÓN MONGODB
+# =========================
+def get_mongo_collection():
+    client = MongoClient(
+        host=MONGO_CONFIG["host"],
+        port=MONGO_CONFIG["port"],
+        username=MONGO_CONFIG["username"],
+        password=MONGO_CONFIG["password"],
+        authSource=MONGO_CONFIG["auth_source"]
+    )
+    db = client[MONGO_CONFIG["database"]]
+    return db[MONGO_CONFIG["collection"]]
+
+
+# =========================
+# CLASIFICACIÓN RF
+# =========================
+def tipo_renta_fija(category_name: str) -> str:
+    if not category_name:
+        return "Desconocido"
+
+    name = category_name.lower()
+
+    if "money market" in name:
+        return "Letras"
+
+    if "ultra short" in name or "short-term" in name:
+        return "Bonos CP"
+
+    if "bond" in name or "government" in name or "aggregate" in name:
+        return "Bonos LP"
+
+    return "Desconocido"
+
+
+def duration_bucket(category_name: str) -> str | None:
+    if not category_name:
+        return None
+
+    name = category_name.lower()
+
+    if "money market" in name:
+        return "very_short"
+
+    if "ultra short" in name or "short-term" in name:
+        return "short"
+
+    if "intermediate" in name:
+        return "intermediate"
+
+    return "long"
+
+
+# =========================
+# EXTRACCIÓN MÉTRICAS
+# =========================
+def extract_metrics(risk_raw: dict) -> dict:
+    try:
+        frv = risk_raw["raw"]["fundRiskVolatility"]
+
+        return {
+            "volatility": {
+                "1y": frv.get("for1Year", {}).get("standardDeviation"),
+                "3y": frv.get("for3Year", {}).get("standardDeviation"),
+                "5y": frv.get("for5Year", {}).get("standardDeviation"),
+            },
+            "sharpe": {
+                "1y": frv.get("for1Year", {}).get("sharpeRatio"),
+                "3y": frv.get("for3Year", {}).get("sharpeRatio"),
+                "5y": frv.get("for5Year", {}).get("sharpeRatio"),
+            },
+            "beta_3y": frv.get("bestFitBetaFor3Year"),
+            "alpha_3y": frv.get("bestFitAlphaFor3Year"),
+            "r2_3y": frv.get("bestFitRSquaredFor3Year"),
+            "duration": {
+                "effective": None,
+                "modified": None
+            }
+        }
+
+    except Exception:
+        return {}
+
+
+def extract_max_drawdown(perf_raw: dict) -> float | None:
+    try:
+        table = perf_raw["table"]["growth10KReturnData"]
+        fund_row = next(r for r in table if r["label"] == "fund")
+        values = [float(v) for v in fund_row["datum"] if v not in (None, "")]
+        return min(values) if values else None
+    except Exception:
+        return None
+
+
+def extract_consistency(perf_raw: dict) -> float | None:
+    """
+    % de años positivos
+    """
+    try:
+        table = perf_raw["table"]["growth10KReturnData"]
+        fund_row = next(r for r in table if r["label"] == "fund")
+        values = [float(v) for v in fund_row["datum"] if v not in (None, "")]
+        positives = [v for v in values if v > 0]
+        return round(len(positives) / len(values), 2) if values else None
+    except Exception:
+        return None
+
+
+# =========================
+# PIPELINE FONDO
+# =========================
+def procesar_fondo(fondo_json: dict) -> dict | None:
+    isin = fondo_json["isin"]
+    print(f"🔍 Procesando {isin}")
+
+    try:
+        fund = ms.Funds(isin)
+
+        perf_raw = fund.performanceTable()
+        risk_raw = fund.riskVolatility()
+
+        categoria = perf_raw.get("categoryName")
+        benchmark = perf_raw.get("indexName")
+
+        doc = {
+            "isin": isin,
+            "nombre": fund.name,
+
+            "categoria_morningstar": categoria,
+            "tipo_rf": tipo_renta_fija(categoria),
+            "duration_bucket": duration_bucket(categoria),
+
+            "rentabilidad": {
+                "historica": perf_raw.get("table"),
+            },
+
+            "riesgo": {
+                "raw": risk_raw.get("raw")
+            },
+
+            "metrics": {
+                **extract_metrics(risk_raw),
+                "max_drawdown": extract_max_drawdown(perf_raw),
+                "consistency": extract_consistency(perf_raw)
+            },
+
+            "benchmark": {
+                "name": benchmark
+            },
+
+            "updated_at": datetime.now(timezone.utc)
+        }
+
+        print(
+            f"📝 OK {isin} | "
+            f"{doc['tipo_rf']} | "
+            f"{doc['duration_bucket']}"
+        )
+
+        return doc
+
+    except Exception as e:
+        print(f"❌ Error procesando {isin}: {e}")
+        return None
+
+
+# =========================
+# MAIN
+# =========================
+def main():
+    collection = get_mongo_collection()
+
+    with open("../../assets/json/fondos_prueba.json", "r", encoding="utf-8") as f:
+        fondos = json.load(f)
+
+    for fondo in fondos:
+        doc = procesar_fondo(fondo)
+
+        if doc:
+            collection.update_one(
+                {"isin": doc["isin"]},
+                {"$set": doc},
+                upsert=True
+            )
+
+
+if __name__ == "__main__":
+    main()

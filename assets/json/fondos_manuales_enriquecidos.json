@@ -1,0 +1,74 @@
+[
+  {
+    "isin": "LU0293294277",
+    "nombre_manual": "Allianz Enhanced Short Term Euro AT EUR (Manual)",
+    "categoria_manual": "Renta Fija Corto Plazo",
+    "ter_manual": "0.30%",
+    "rentabilidades": {
+      "1y": "",
+      "3y_anualizada": "",
+      "5y_anualizada": ""
+    },
+    "riesgo": {
+      "volatilidad_3y": "",
+      "sharpe_3y": ""
+    },
+    "top_10_holdings_manual": [
+      {
+        "securityName": "",
+        "weighting": "",
+        "country": "",
+        "holdingType": ""
+      }
+    ],
+    "comentarios_manuales": "Rellenar datos manualmente de Morningstar.es"
+  },
+  {
+    "isin": "FR0011387299",
+    "nombre_manual": "Allianz Euro Oblig Court Terme ISR RC (Manual)",
+    "categoria_manual": "Renta Fija Corto Plazo ISR",
+    "ter_manual": "0.45%",
+    "rentabilidades": {
+      "1y": "",
+      "3y_anualizada": "",
+      "5y_anualizada": ""
+    },
+    "riesgo": {
+      "volatilidad_3y": "",
+      "sharpe_3y": ""
+    },
+    "top_10_holdings_manual": [
+      {
+        "securityName": "",
+        "weighting": "",
+        "country": "",
+        "holdingType": ""
+      }
+    ],
+    "comentarios_manuales": "Rellenar datos manualmente de Morningstar.es"
+  },
+  {
+    "isin": "LU0568620560",
+    "nombre_manual": "Amundi Cash Euro_A2 ESG (Manual)",
+    "categoria_manual": "Mercado Monetario",
+    "ter_manual": "0.15%",
+    "rentabilidades": {
+      "1y": "",
+      "3y_anualizada": "",
+      "5y_anualizada": ""
+    },
+    "riesgo": {
+      "volatilidad_3y": "",
+      "sharpe_3y": ""
+    },
+    "top_10_holdings_manual": [
+      {
+        "securityName": "",
+        "weighting": "",
+        "country": "",
+        "holdingType": ""
+      }
+    ],
+    "comentarios_manuales": "Rellenar datos manualmente de Morningstar.es"
+  }
+]
