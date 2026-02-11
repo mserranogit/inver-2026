@@ -15,9 +15,11 @@ print(funds.isin)
 #print(funds.maturitySchedule())
 #print(funds.maxDrawDown())
 #print(funds.performanceTable())
-print(funds.riskVolatility())
+#print(funds.riskVolatility())
 #funds.riskReturnScatterplot()
 #funds.regionalSector()
 
 #print(funds.allocationWeighting())
-#print(funds.allocationMap())
+print(funds.allocationMap())
+
+print(funds.fixedIncomeStyle())
