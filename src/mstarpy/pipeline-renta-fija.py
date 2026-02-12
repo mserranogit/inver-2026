@@ -41,6 +41,16 @@ def get_mongo_collection():
     db = client[MONGO_CONFIG["database"]]
     return db[MONGO_CONFIG["collection"]]
 
+def get_audit_collection():
+    client = MongoClient(
+        host=MONGO_CONFIG["host"],
+        port=MONGO_CONFIG["port"],
+        username=MONGO_CONFIG["username"],
+        password=MONGO_CONFIG["password"],
+        authSource=MONGO_CONFIG["auth_source"]
+    )
+    db = client[MONGO_CONFIG["database"]]
+    return db["fondos_audit"]
 
 # =========================
 # HELPERS
@@ -167,121 +177,143 @@ def classify_sensibilidad_por_duration(avg_effective_duration):
 # =========================
 # PROCESAR FONDO
 # =========================
-def process_fondo(fondo, collection):
+def process_fondo(fondo, collection, audit_collection):
 
-    isin = fondo["isin"]
+    start_time = time.time()
+
+    isin = fondo.get("isin")
+    nombre = fondo.get("nombre")
+
     print(f"🔍 Procesando {isin}")
 
-    funds = Funds(isin)
+    try:
+        # -----------------------------
+        # INSTANCIAR FONDS
+        # -----------------------------
+        funds = Funds(isin)
 
-    # --- Allocation ---
-    allocation_map = funds.allocationMap()
-    category_name = allocation_map.get("categoryName", "")
-    tipo_rf = classify_tipo_rf(category_name)
-    # --- Performance ---
-    perf_raw = funds.performanceTable()
+        # --- Allocation ---
+        allocation_map = funds.allocationMap()
+        category_name = allocation_map.get("categoryName", "")
+        tipo_rf = classify_tipo_rf(category_name)
 
-    returns = {}
-    table = perf_raw.get("table", {})
-    columns = table.get("columnDefs", [])
-    rows = table.get("growth10KReturnData", [])
+        # --- Performance ---
+        perf_raw = funds.performanceTable()
 
-    fund_row = next((r for r in rows if r.get("label") == "fund"), None)
+        returns = {}
+        table = perf_raw.get("table", {})
+        columns = table.get("columnDefs", [])
+        rows = table.get("growth10KReturnData", [])
 
-    if fund_row:
-        for col, val in zip(columns, fund_row.get("datum", [])):
-            returns[col] = safe_float(val)
+        fund_row = next((r for r in rows if r.get("label") == "fund"), None)
 
-    # --- Risk ---
-    risk_raw = funds.riskVolatility()
-    risk_blocks = {}
+        if fund_row:
+            for col, val in zip(columns, fund_row.get("datum", [])):
+                returns[col] = safe_float(val)
 
-    fund_risk = risk_raw.get("fundRiskVolatility", {})
+        # --- Risk ---
+        risk_raw = funds.riskVolatility()
+        risk_blocks = {}
 
-    for period in ["for1Year", "for3Year", "for5Year", "for10Year"]:
-        data = fund_risk.get(period)
-        if data:
-            risk_blocks[period] = {
-                "volatility": safe_float(data.get("standardDeviation")),
-                "sharpe": safe_float(data.get("sharpeRatio"))
-            }
+        fund_risk = risk_raw.get("fundRiskVolatility", {})
 
-    # --- Duration REAL ---
-    duration_data, category_duration_data = extract_duration_from_style(funds)
+        for period in ["for1Year", "for3Year", "for5Year", "for10Year"]:
+            data = fund_risk.get(period)
+            if data:
+                risk_blocks[period] = {
+                    "volatility": safe_float(data.get("standardDeviation")),
+                    "sharpe": safe_float(data.get("sharpeRatio"))
+                }
 
-    sensibilidad_tipos = classify_sensibilidad_por_duration(
-        duration_data.get("avg_effective_duration")
-    )
+        # --- Duration ---
+        duration_data, category_duration_data = extract_duration_from_style(funds)
 
-    # =========================
-    # CLASIFICACIÓN TRAMO RENTA FIJA (ROBUSTA)
-    # =========================
+        sensibilidad_tipos = classify_sensibilidad_por_duration(
+            duration_data.get("avg_effective_duration")
+        )
 
-    duration_value = None
-
-    if duration_data and isinstance(duration_data, dict):
+        # --- Tramo RF ---
         duration_value = duration_data.get("avg_effective_duration")
 
-    # --- 1️⃣ Clasificación por duration real (preferente)
-    if duration_value is not None:
-
-        if duration_value < 0.5:
-            tramo_rf = "very_short"
-        elif duration_value < 2:
-            tramo_rf = "short"
-        elif duration_value < 7:
-            tramo_rf = "intermediate"
+        if duration_value is not None:
+            if duration_value < 0.5:
+                tramo_rf = "very_short"
+            elif duration_value < 2:
+                tramo_rf = "short"
+            elif duration_value < 7:
+                tramo_rf = "intermediate"
+            else:
+                tramo_rf = "long"
         else:
-            tramo_rf = "long"
+            category = allocation_map.get("categoryName", "").lower()
+            if "money market" in category:
+                tramo_rf = "very_short"
+            elif "ultra short" in category or "short-term" in category:
+                tramo_rf = "short"
+            elif "intermediate" in category:
+                tramo_rf = "intermediate"
+            else:
+                tramo_rf = "long"
 
-    # --- 2️⃣ Fallback por categoría si no hay duration
-    else:
-        category = allocation_map.get("categoryName", "").lower()
+        # -----------------------------
+        # DOCUMENTO PRINCIPAL
+        # -----------------------------
+        doc = {
+            "isin": isin,
+            "nombre": nombre,
+            "categoria": allocation_map.get("categoryName"),
+            "tipo_rf": tipo_rf,
+            "tramo_rf": tramo_rf,
+            "sensibilidad_tipos": sensibilidad_tipos,
+            "rentabilidad": {"historica": returns},
+            "riesgo": risk_blocks,
+            "duration": duration_data,
+            "category_duration": category_duration_data,
+            "allocation_map": allocation_map,
+            "rentabilidad_raw": perf_raw,
+            "riesgo_raw": risk_raw,
+            "updated_at": datetime.now(UTC)
+        }
 
-        if "money market" in category:
-            tramo_rf = "very_short"
-        elif "ultra short" in category or "short-term" in category:
-            tramo_rf = "short"
-        elif "intermediate" in category:
-            tramo_rf = "intermediate"
-        else:
-            tramo_rf = "long"
+        collection.update_one(
+            {"isin": isin},
+            {"$set": doc},
+            upsert=True
+        )
 
-    # =========================
-    # DOCUMENTO FINAL
-    # =========================
-    doc = {
-        "isin": isin,
-        "nombre": fondo.get("nombre"),
-        "categoria": allocation_map.get("categoryName"),
+        duration_exec = round(time.time() - start_time, 2)
 
-        "tipo_rf": tipo_rf,
-        "tramo_rf": tramo_rf,
-        "sensibilidad_tipos": sensibilidad_tipos,
+        # -----------------------------
+        # AUDITORÍA OK
+        # -----------------------------
+        audit_collection.insert_one({
+            "isin": isin,
+            "nombre": nombre,
+            "status": "OK",
+            "error": None,
+            "execution_time_seconds": duration_exec,
+            "timestamp": datetime.now(UTC)
+        })
 
-        "rentabilidad": {
-            "historica": returns
-        },
+        print(f"📝 OK {isin} | {tipo_rf} | {tramo_rf}")
 
-        "riesgo": risk_blocks,
+    except Exception as e:
 
-        "duration": duration_data,
-        "category_duration": category_duration_data,
+        duration_exec = round(time.time() - start_time, 2)
 
-        "allocation_map": allocation_map,
-        "rentabilidad_raw": perf_raw,
-        "riesgo_raw": risk_raw,
+        # -----------------------------
+        # AUDITORÍA ERROR
+        # -----------------------------
+        audit_collection.insert_one({
+            "isin": isin,
+            "nombre": nombre,
+            "status": "ERROR",
+            "error": str(e),
+            "execution_time_seconds": duration_exec,
+            "timestamp": datetime.now(UTC)
+        })
 
-        "updated_at": datetime.now(UTC)
-    }
-
-    collection.update_one(
-        {"isin": isin},
-        {"$set": doc},
-        upsert=True
-    )
-
-    print(f"📝 OK {isin} | {tipo_rf} | {tramo_rf}")
+        print(f"❌ ERROR {isin}: {e}")
 
 
 # =========================
@@ -290,18 +322,16 @@ def process_fondo(fondo, collection):
 def main():
 
     collection = get_mongo_collection()
+    audit_collection = get_audit_collection()
 
-    with open("../../assets/json/fondos_prueba.json", "r", encoding="utf-8") as f:
+    with open("../../assets/json/fondos_open_R1.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     fondos = [f for f in data if isinstance(f, dict) and "isin" in f]
 
     for fondo in fondos:
-        try:
-            process_fondo(fondo, collection)
-            time.sleep(2)
-        except Exception as e:
-            print(f"❌ Error procesando {fondo}: {e}")
+        process_fondo(fondo, collection, audit_collection)
+        time.sleep(2)
 
 
 if __name__ == "__main__":
