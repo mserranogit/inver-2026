@@ -324,7 +324,7 @@ def main():
     collection = get_mongo_collection()
     audit_collection = get_audit_collection()
 
-    with open("../../assets/json/fondos_open_R1.json", "r", encoding="utf-8") as f:
+    with open("../../assets/json/fondos_open_R2.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     fondos = [f for f in data if isinstance(f, dict) and "isin" in f]
