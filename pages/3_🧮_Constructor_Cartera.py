@@ -10,9 +10,12 @@ from styles import apply_styles
 # CONFIGURACIÓN
 # ==========================================================
 st.set_page_config(layout="wide")
-
 apply_styles()
 st.title("🧮 Constructor de Cartera")
+
+if "success_msg" in st.session_state:
+    st.success(st.session_state.success_msg)
+    del st.session_state.success_msg
 
 # ==========================================================
 # ESTILOS
@@ -20,20 +23,12 @@ st.title("🧮 Constructor de Cartera")
 st.markdown("""
 <style>
 
-/* Filtros sidebar */
-section[data-testid="stSidebar"] label {
-    color: white !important;
-    font-weight: 500;
-}
-
-/* Texto info paginación */
 .pagination-info {
     font-size: 14px;
     color: #6c757d;
     margin-top: 6px;
 }
 
-/* Número página activo */
 .page-active {
     padding:6px 10px;
     background-color:#4a6fa5;
@@ -107,8 +102,6 @@ sensibilidad_filter = st.sidebar.selectbox(
     ["Todos"] + sorted(df["sensibilidad"].dropna().unique())
 )
 
-
-# Aplicar filtros
 filtered_df = df.copy()
 
 if tipo_filter != "Todos":
@@ -120,24 +113,24 @@ if tramo_filter != "Todos":
 if sensibilidad_filter != "Todos":
     filtered_df = filtered_df[filtered_df["sensibilidad"] == sensibilidad_filter]
 
-
-# ==========================================================
-# INFO FILTROS
-# ==========================================================
 st.markdown(f"### 📌 Fondos disponibles tras filtros: **{len(filtered_df)}**")
 st.markdown("---")
 
 # ==========================================================
-# PAGINACIÓN (ABAJO)
+# ESTADO PAGINACIÓN
 # ==========================================================
 total_rows = len(filtered_df)
 
 if "page_number" not in st.session_state:
     st.session_state.page_number = 1
 
-# ========= FILAS POR PÁGINA =========
-rows_per_page = st.session_state.get("rows_per_page", 10)
+if "seleccion_global" not in st.session_state:
+    st.session_state.seleccion_global = {}
 
+if "rows_per_page" not in st.session_state:
+    st.session_state.rows_per_page = 10
+
+rows_per_page = st.session_state.rows_per_page
 total_pages = max(1, math.ceil(total_rows / rows_per_page))
 
 if st.session_state.page_number > total_pages:
@@ -149,60 +142,73 @@ start = (current - 1) * rows_per_page
 end = start + rows_per_page
 
 page_df = filtered_df.iloc[start:end].copy()
-page_df.insert(0, "Seleccionar", False)
+page_df.insert(0, "Seleccionar", page_df["isin"].isin(st.session_state.seleccion_global.keys()))
 
 # ==========================================================
 # TABLA
 # ==========================================================
+row_height = 35
+header_height = 38
+table_height = header_height + (rows_per_page * row_height)
+
 edited_df = st.data_editor(
     page_df,
     use_container_width=True,
     hide_index=True,
-    disabled=["isin", "nombre", "tipo_rf", "tramo_rf", "duration", "sensibilidad"]
+    height=table_height,
+    disabled=["isin", "nombre", "tipo_rf", "tramo_rf", "duration", "sensibilidad"],
+    key=f"data_editor_{current}_{rows_per_page}"
 )
 
 # ==========================================================
-# PAGINACIÓN PROFESIONAL ABAJO
+# CONTROLES DEBAJO DE TABLA (MISMA FILA)
 # ==========================================================
-st.markdown("")
+left_col, spacer_col, right_col = st.columns([2, 6, 4])
 
-col_left, col_right = st.columns([3, 9])
+# ---------- Combo pequeño izquierda ----------
+with left_col:
+    st.markdown(
+        """
+        <style>
+        div[data-testid="stSelectbox"] > div {
+            width: 140px !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 
-# ---------- Combo filas por página ----------
-with col_left:
-    new_rows = st.selectbox(
+    new_value = st.selectbox(
         "Filas por página",
         [10, 15, 20, 30, 50],
-        index=[10, 15, 20, 30, 50].index(rows_per_page),
-        key="rows_selector"
+        index=[10, 15, 20, 30, 50].index(st.session_state.rows_per_page),
+        key="rows_selector_bottom",
+        label_visibility="collapsed"
     )
-    st.session_state.rows_per_page = new_rows
 
-# ---------- Navegación páginas ----------
-with col_right:
-
-    pag_cols = st.columns(12)
-
-    if pag_cols[0].button("⏮", disabled=(current == 1)):
+    if new_value != st.session_state.rows_per_page:
+        st.session_state.rows_per_page = new_value
         st.session_state.page_number = 1
+        st.rerun()
 
-    if pag_cols[1].button("◀", disabled=(current == 1)):
+# ---------- Paginación derecha ----------
+with right_col:
+
+    pag_cols = st.columns(8)
+
+    if pag_cols[0].button("⏮", disabled=(current == 1), key=f"first_{current}"):
+        st.session_state.page_number = 1
+        st.rerun()
+
+    if pag_cols[1].button("◀", disabled=(current == 1), key=f"prev_{current}"):
         st.session_state.page_number -= 1
+        st.rerun()
 
-    max_visible = 5
+    max_visible = 3
+    start_page = max(1, current - 1)
+    end_page = min(total_pages, start_page + max_visible - 1)
 
-    if total_pages <= max_visible:
-        page_range = range(1, total_pages + 1)
-    else:
-        start_page = max(1, current - 2)
-        end_page = min(total_pages, current + 2)
-
-        if start_page == 1:
-            end_page = max_visible
-        if end_page == total_pages:
-            start_page = total_pages - max_visible + 1
-
-        page_range = range(start_page, end_page + 1)
+    page_range = range(start_page, end_page + 1)
 
     col_index = 2
 
@@ -213,46 +219,52 @@ with col_right:
                 unsafe_allow_html=True
             )
         else:
-            if pag_cols[col_index].button(str(p)):
+            if pag_cols[col_index].button(str(p), key=f"page_{p}_{current}"):
                 st.session_state.page_number = p
+                st.rerun()
         col_index += 1
 
-    if pag_cols[col_index].button("▶", disabled=(current == total_pages)):
+    if pag_cols[col_index].button("▶", disabled=(current == total_pages), key=f"next_{current}"):
         st.session_state.page_number += 1
+        st.rerun()
     col_index += 1
 
-    if pag_cols[col_index].button("⏭", disabled=(current == total_pages)):
+    if pag_cols[col_index].button("⏭", disabled=(current == total_pages), key=f"last_{current}"):
         st.session_state.page_number = total_pages
+        st.rerun()
 
-# ---------- Info rango ----------
+# ==========================================================
+# INFO RANGO
+# ==========================================================
 start_row = (current - 1) * rows_per_page + 1
 end_row = min(current * rows_per_page, total_rows)
 
 st.markdown(
-    f"<div class='pagination-info'>"
+    f"<div class='pagination-info' style='text-align:right;'>"
     f"Mostrando {start_row}-{end_row} de {total_rows} fondos"
     f"</div>",
     unsafe_allow_html=True
 )
 
 # ==========================================================
-# GESTIÓN SELECCIÓN
+# ACTUALIZAR ESTADO GLOBAL SEGÚN TABLA
 # ==========================================================
-if "seleccion_global" not in st.session_state:
-    st.session_state.seleccion_global = {}
+
 
 for _, row in edited_df.iterrows():
     isin = row["isin"]
+
     if row["Seleccionar"]:
         st.session_state.seleccion_global[isin] = row["nombre"]
-    elif isin in st.session_state.seleccion_global:
-        del st.session_state.seleccion_global[isin]
+    else:
+        if isin in st.session_state.seleccion_global:
+            del st.session_state.seleccion_global[isin]
 
 selected_isins = list(st.session_state.seleccion_global.keys())
 selected_count = len(selected_isins)
 
 # ==========================================================
-# RESUMEN SELECCIÓN
+# RESUMEN
 # ==========================================================
 st.markdown("### 📊 Resumen Selección")
 st.write(f"Total seleccionados: **{selected_count}**")
@@ -265,23 +277,65 @@ if selected_count > 0:
         st.write(f"- {tramo}: {count}")
 
 # ==========================================================
-# CREAR CARTERA
+# CREAR / RESET CARTERA
 # ==========================================================
-if selected_count > 0:
-    if st.button("💼 Crear Cartera"):
+st.markdown("---")
 
-        cartera_id = "CART-" + datetime.now().strftime("%Y%m%d-%H%M%S")
+col1, col_spacer, col2 = st.columns([2,6,2])
 
-        cartera_doc = {
-            "cartera_id": cartera_id,
-            "fecha_creacion": datetime.now(UTC),
-            "fondos": [
-                {"isin": isin, "nombre": st.session_state.seleccion_global[isin]}
-                for isin in selected_isins
-            ]
-        }
+# ---------- Crear cartera ----------
+with col1:
+    if selected_count > 0:
+        if st.button("💼 Crear Cartera"):
 
-        carteras_collection.insert_one(cartera_doc)
+            cartera_id = "CART-" + datetime.now().strftime("%Y%m%d-%H%M%S")
 
-        st.success(f"Cartera {cartera_id} creada correctamente ✅")
-        st.session_state.seleccion_global = {}
+            # Asegurar tipos nativos de Python para Mongo
+            fondos_lista = []
+            for isin in selected_isins:
+                fondos_lista.append({
+                    "isin": str(isin),
+                    "nombre": str(st.session_state.seleccion_global[isin])
+                })
+
+            cartera_doc = {
+                "cartera_id": cartera_id,
+                "fecha_creacion": datetime.now(UTC),
+                "origen": "M",
+                "fondos": fondos_lista
+            }
+            
+            try:
+                result = carteras_collection.insert_one(cartera_doc)
+
+                if result.inserted_id:
+                    # Guardar mensaje para mostrar tras recarga
+                    # Obtener info de conexión para depuración
+                    try:
+                        conn_info = carteras_collection.database.client.address
+                        db_name = carteras_collection.database.name
+                    except:
+                        conn_info = "Desconocido"
+                        db_name = "Desconocido"
+                        
+                    st.session_state.success_msg = (
+                        f"Cartera {cartera_id} creada correctamente con {len(fondos_lista)} fondos ✅\n\n"
+                        f"📂 ID Mongo: {str(result.inserted_id)}\n"
+                        f"💽 BD: {db_name} @ {conn_info}"
+                    )
+                    
+                    # LIMPIAR SELECCIÓN
+                    st.session_state.seleccion_global = {}
+                    st.session_state.page_number = 1
+                    st.rerun()
+            except Exception as e:
+                st.error(f"Error al crear la cartera: {e}")
+
+# ---------- Reset ----------
+with col2:
+    if selected_count > 0:
+        if st.button("🔄 Reset selección"):
+
+            st.session_state.seleccion_global = {}
+            st.session_state.page_number = 1
+            st.rerun()
