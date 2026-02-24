@@ -147,6 +147,17 @@ st.markdown("""
     font-size: 10px;
     font-weight: 600;
 }
+.badge-degraded {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: rgba(248,113,113,0.12);
+    color: #f87171;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 10px;
+    font-weight: 600;
+}
 
 .source-text {
     font-size: 11px;
@@ -293,6 +304,14 @@ if "curvas_actuales" in st.session_state:
 elif ultimo and "paises" in ultimo:
     datos_mostrar = ultimo["paises"]
 
+# DEBUG: mostrar cuántos años de previsión tienen los datos cargados
+if datos_mostrar:
+    primer_pais = datos_mostrar[0]
+    primer_plazo = primer_pais.get("plazos", [{}])[0] if primer_pais.get("plazos") else {}
+    years_debug = list(primer_plazo.get("previsiones", {}).keys())
+    origen_debug = "session_state" if "curvas_actuales" in st.session_state else "MongoDB"
+    st.caption(f"🔍 Debug — Origen datos: `{origen_debug}` · Años previsión: `{sorted(years_debug)}`")
+
 if not datos_mostrar:
     st.markdown("---")
     st.info(
@@ -308,7 +327,7 @@ PLAZO_ORDEN = ["3M", "6M", "1Y", "2Y", "5Y", "10Y", "30Y"]
 PLAZO_LABELS = {"3M": "3M", "6M": "6M", "1Y": "1Y", "2Y": "2Y", "5Y": "5Y", "10Y": "10Y", "30Y": "30Y"}
 # Colores para las líneas
 COLOR_ACTUAL = "#60a5fa"       # azul brillante
-COLORES_PREV = ["#a78bfa", "#c084fc", "#e879f9"]  # violetas degradados
+COLORES_PREV = ["#a78bfa", "#c084fc", "#e879f9", "#fb7185", "#f97316"]  # 5 años de previsión
 COLOR_FILL   = "rgba(96,165,250,0.12)"
 
 
@@ -428,24 +447,36 @@ for i, pais in enumerate(datos_mostrar):
     plazos = pais.get("plazos", [])
     anno_actual = datetime.now().year
 
-    # Badge
+    # Badge scraping
     if pais.get("scrapeado", False):
         badge = '<span class="badge-live"><span class="badge-dot"></span>LIVE</span>'
     else:
         badge = '<span class="badge-cached">⚠ REF</span>'
 
+    # Badge calidad previsiones
+    calidad_prev = pais.get("calidad_previsiones", "")
+    if calidad_prev == "ok":
+        badge_prev = '<span class="badge-live"><span class="badge-dot"></span>PREV DINÁMICA</span>'
+    elif calidad_prev == "degradado":
+        badge_prev = '<span class="badge-cached">⚠ PREV ESTÁTICA</span>'
+    else:
+        badge_prev = ""
+
     fuente = pais.get("fuente_previsiones", "N/A")
+    detalle = pais.get("detalle_calidad", "")
     scrp = pais.get("num_plazos_scrapeados", 0)
     total = len(plazos)
 
     # ---- Header HTML de la tarjeta ----
+    detalle_html = f'<p class="curve-sub" style="color:#475569;margin-top:4px;">{detalle}</p>' if detalle and calidad_prev != "ok" else ""
     header_html = (
         f'<div class="curve-card" style="padding-bottom:8px;">'
         f'<div class="curve-header">'
         f'<span class="curve-emoji">{pais["emoji"]}</span>'
         f'<div>'
-        f'<p class="curve-name">{pais["nombre"]} {badge}</p>'
+        f'<p class="curve-name">{pais["nombre"]} {badge} {badge_prev}</p>'
         f'<p class="curve-sub">{pais["moneda"]} · {scrp}/{total} plazos live</p>'
+        f'{detalle_html}'
         f'</div></div></div>'
     )
     target_col.markdown(header_html, unsafe_allow_html=True)
@@ -480,7 +511,7 @@ for i, pais in enumerate(datos_mostrar):
 
         rows_html += f'<tr><td>{p["plazo"]}</td>{actual_cell}{prev_cells}</tr>'
 
-    years = sorted(plazos[0]["previsiones"].keys()) if plazos else []
+    years = sorted(plazos[0]["previsiones"].keys()) if plazos and plazos[0].get("previsiones") else []
     year_headers = "".join(f"<th>{y}</th>" for y in years)
 
     table_html = (
@@ -490,9 +521,18 @@ for i, pais in enumerate(datos_mostrar):
         f'</table>'
     )
 
+    metodo = pais.get("metodo_prevision", "")
+    metodo_label = {
+        "forward_rates_implicitos_suavizados": "forward rates implícitos de mercado",
+        "estatico_fallback": "datos estáticos de referencia",
+        "estatico_consenso": "consenso de analistas estático",
+    }.get(metodo, metodo)
+
     footer_html = (
         f'{table_html}'
-        f'<div class="source-text">📎 Previsiones: {fuente}</div>'
+        f'<div class="source-text">📎 {fuente}'
+        + (f' <span style="color:#334155"> · Método: {metodo_label}</span>' if metodo_label else '')
+        + f'</div>'
     )
     target_col.markdown(footer_html, unsafe_allow_html=True)
 
@@ -523,7 +563,10 @@ if comp_rows:
         cells = ""
         for c in df_comp.columns:
             v = r[c]
-            cells += f"<td>{v:.2f}%</td>" if isinstance(v, float) else f"<td>{v}</td>"
+            if isinstance(v, float):
+                cells += f"<td>{v:.2f}%</td>"
+            else:
+                cells += f"<td>{v}</td>"
         b += f"<tr>{cells}</tr>"
     st.markdown(
         f'<table class="big-table"><thead><tr>{h}</tr></thead><tbody>{b}</tbody></table>',

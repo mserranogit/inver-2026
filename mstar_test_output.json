@@ -1,0 +1,36 @@
+{
+    "isCan": false,
+    "portfolioDate": "2026-02-20T06:00:00.000",
+    "assetType": "FIXEDINCOME",
+    "fixedIncStyleBox": 5,
+    "fund": {
+        "secId": "0P0000M6B6",
+        "secName": "iShares \u20ac Govt Bond 3-5yr ETF EUR Dist",
+        "portfolioDate": "2026-02-20T06:00:00.000",
+        "avgEffectiveDuration": 3.61159,
+        "modifiedDuration": 3.57667,
+        "avgEffectiveMaturity": 3.86,
+        "avgCreditQualityName": "A+",
+        "surveyedAverageSurveyedCreditRating": "A+",
+        "calculatedAverageCreditRating": "AA-",
+        "avgCreditQualityDate": "2026-01-31T06:00:00.000",
+        "avgCoupon": 2.7113,
+        "avgPrice": 101.17396,
+        "yieldToMaturity": 2.43
+    },
+    "categoryAverage": {
+        "secId": "EUCA000589",
+        "secName": "EUR Government Bond",
+        "portfolioDate": "2026-01-31T06:00:00.000",
+        "avgEffectiveDuration": 6.36324,
+        "modifiedDuration": 6.56268,
+        "avgEffectiveMaturity": 8.06565,
+        "avgCreditQualityName": "A+",
+        "surveyedAverageSurveyedCreditRating": "A+",
+        "calculatedAverageCreditRating": "AA-",
+        "avgCreditQualityDate": "2025-12-31T06:00:00.000",
+        "avgCoupon": 2.70698,
+        "avgPrice": 96.94095,
+        "yieldToMaturity": 2.91869
+    }
+}

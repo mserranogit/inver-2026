@@ -1,0 +1,277 @@
+﻿Mercado Monetario
+AMUNDI GOV.0-6 M EUR IN UCIT
+ MILANO, IT | FR0010754200
+Riesgo
+1/7
+Cotización
+125,8400 EUR
+23 Feb. 2026 | 17:22
+Variación
+0,01 EUR
+23 Feb. 2026 | 17:22
+Variación %
+0,01 %
+23 Feb. 2026 | 17:22
+
+***
+Mercado Monetario
+AMUNDI GOV.0-6 M EUR IN UCIT
+ FRANKFURT, DE | FR0010754200
+Riesgo
+1/7
+Cotización
+125,7800 EUR
+23 Feb. 2026 | 17:31
+Variación
+-0,04 EUR
+23 Feb. 2026 | 17:31
+Variación %
+-0,03 %
+23 Feb. 2026 | 17:31
+
+***
+Mercado Monetario
+Amundi Euro Overnight Return Acc
+ PARIS, FR | FR0010510800
+Riesgo
+1/7
+Cotización
+113,1560 EUR
+23 Feb. 2026 | 17:14
+Variación
+-0,02 EUR
+23 Feb. 2026 | 17:14
+Variación %
+-0,02 %
+23 Feb. 2026 | 17:14
+
+***
+Mercado Monetario
+Invesco EuroMTS Cash 3 Months ETF
+ PARIS, FR | IE00B3BPCH51
+Riesgo
+1/7
+Cotización
+108,2400 EUR
+23 Feb. 2026 | 09:04
+Variación
+0,04 EUR
+23 Feb. 2026 | 09:04
+Variación %
+0,04 %
+23 Feb. 2026 | 09:04
+
+***
+Renta Fija
+Gobiernos Europa CP
+JPM EUR ULTRASHORT S
+ MILANO, IT | IE00BD9MMF62
+Riesgo
+1/7
+Cotización
+109,3000 EUR
+23 Feb. 2026 | 17:23
+Variación
+0,015 EUR
+23 Feb. 2026 | 17:23
+Variación %
+0,01 %
+23 Feb. 2026 | 17:23
+
+***
+Renta Fija
+Gobiernos Europa CP
+JPM EUR ULTRASHORT S
+ FRANKFURT, DE | IE00BD9MMF62
+Riesgo
+1/7
+Cotización
+109,3000 EUR
+23 Feb. 2026 | 17:03
+Variación
+0,025 EUR
+23 Feb. 2026 | 17:03
+Variación %
+0,02 %
+23 Feb. 2026 | 17:03
+
+***
+Mercado Monetario
+Lyxor Smart Overnight Return
+ PARIS, FR | LU1190417599
+Riesgo
+1/7
+Cotización
+108,4800 EUR
+23 Feb. 2026 | 17:27
+Variación
+0,02 EUR
+23 Feb. 2026 | 17:27
+Variación %
+0,02 %
+23 Feb. 2026 | 17:27
+
+***
+Renta Fija
+Gobiernos Global
+SPDR Bloomberg Barclays 1-3 Month T-...
+ FRANKFURT, DE | IE00BJXRT698
+Riesgo
+1/7
+Cotización
+118,7000 USD
+23 Feb. 2026 | 17:28
+Variación
+0,025 USD
+23 Feb. 2026 | 17:28
+Variación %
+0,02 %
+23 Feb. 2026 | 17:28
+
+***
+Mercado Monetario
+XTR.II EUR OVERN.SWAP UCITS
+ FRANKFURT, DE | LU0290358497
+Riesgo
+1/7
+Cotización
+148,4760 EUR
+23 Feb. 2026 | 17:28
+Variación
+0,013 EUR
+23 Feb. 2026 | 17:28
+Variación %
+0,01 %
+23 Feb. 2026 | 17:28
+
+***
+Mercado Monetario
+XTR.II EUR OVERN.SWAP UCITS
+ MILANO, IT | LU0290358497
+Riesgo
+1/7
+Cotización
+0,0000 EUR
+Variación
+-
+Variación %
+0,00 %
+
+***
+
+Mercado Monetario
+Xtrackers II EUR Overnight Rate Swap...
+ FRANKFURT, DE | LU0335044896
+Riesgo
+1/7
+Cotización
+126,5870 EUR
+23 Feb. 2026 | 17:16
+Variación
+0,022 EUR
+23 Feb. 2026 | 17:16
+Variación %
+0,02 %
+23 Feb. 2026 | 17:16
+
+***
+Mercado Monetario
+Xtrackers II GBP Overnight Rate Swap...
+ FRANKFURT, DE | LU0321464652
+Riesgo
+1/7
+Cotización
+205,9540 EUR
+23 Feb. 2026 | 17:31
+Variación
+-0,14 EUR
+23 Feb. 2026 | 17:31
+Variación %
+-0,07 %
+23 Feb. 2026 | 17:31
+
+***
+Renta Fija
+Gobiernos Europa CP
+Xtrackers II Italy Gov Bond 0-1 Swap
+ FRANKFURT, DE | LU0613540268
+Riesgo
+1/7
+Cotización
+33,8890 EUR
+23 Feb. 2026 | 17:31
+Variación
+0,001 EUR
+23 Feb. 2026 | 17:31
+Variación %
+0,00 %
+23 Feb. 2026 | 17:31
+
+***
+Mercado Monetario
+Xtrackers II USD Overnight Rate Swap
+ FRANKFURT, DE | LU0321465469
+Riesgo
+1/7
+Cotización
+179,1740 EUR
+23 Feb. 2026 | 16:22
+Variación
+-0,293 EUR
+23 Feb. 2026 | 16:22
+Variación %
+-0,16 %
+23 Feb. 2026 | 16:22
+
+***
+Renta Fija
+Gobiernos Europa CP
+iShares Govt Bond 0-1 yr_Dist
+ FRANKFURT, DE | IE00B3FH7618
+Riesgo
+1/7
+Cotización
+98,7020 EUR
+23 Feb. 2026 | 16:50
+Variación
+0,032 EUR
+23 Feb. 2026 | 16:50
+Variación %
+0,03 %
+23 Feb. 2026 | 16:50
+
+***
+Renta Fija
+Gobiernos Global
+iShares Treasury Bond 0-1yr_Dist
+ FRANKFURT, DE | IE00BGR7L912
+Riesgo
+1/7
+Cotización
+4,2528 EUR
+23 Feb. 2026 | 17:31
+Variación
+-0,0083 EUR
+23 Feb. 2026 | 17:31
+Variación %
+-0,19 %
+23 Feb. 2026 | 17:31
+
+***
+Renta Fija
+Corporativa Inv Grade
+iShares Ultrashort Bond_Dist
+ FRANKFURT, DE | IE00BCRY6557
+Riesgo
+1/7
+Cotización
+101,2300 EUR
+23 Feb. 2026 | 17:30
+Variación
+0,015 EUR
+23 Feb. 2026 | 17:30
+Variación %
+0,01 %
+23 Feb. 2026 | 17:30
+
+***

@@ -9,6 +9,62 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, UTC
 import re
+import os
+
+from src import previsiones_dinamicas
+
+# Módulo de previsiones dinámicas (FRED + ECB + MoF JP + ChinaBond)
+try:
+    from src.previsiones_dinamicas import obtener_todas_las_previsiones, FALLBACK_ESTATICO
+    _PREVISIONES_DINAMICAS_DISPONIBLES = True
+except ImportError:
+    _PREVISIONES_DINAMICAS_DISPONIBLES = False
+    # Fallback estático embebido — usado si previsiones_dinamicas.py no está disponible
+    FALLBACK_ESTATICO = {
+        "US": {
+            "3M":  {"actual_fb": 4.30, "1y": 3.50, "2y": 3.00, "3y": 2.75, "4y": 2.65, "5y": 2.60},
+            "6M":  {"actual_fb": 4.25, "1y": 3.45, "2y": 2.95, "3y": 2.70, "4y": 2.60, "5y": 2.55},
+            "1Y":  {"actual_fb": 4.20, "1y": 3.40, "2y": 2.90, "3y": 2.65, "4y": 2.55, "5y": 2.50},
+            "2Y":  {"actual_fb": 4.10, "1y": 3.50, "2y": 3.10, "3y": 2.90, "4y": 2.80, "5y": 2.75},
+            "5Y":  {"actual_fb": 4.15, "1y": 3.60, "2y": 3.25, "3y": 3.00, "4y": 2.90, "5y": 2.85},
+            "10Y": {"actual_fb": 4.50, "1y": 3.90, "2y": 3.50, "3y": 3.25, "4y": 3.15, "5y": 3.10},
+            "30Y": {"actual_fb": 4.70, "1y": 4.20, "2y": 3.80, "3y": 3.50, "4y": 3.40, "5y": 3.35},
+        },
+        "EUR": {
+            "3M":  {"actual_fb": 2.50, "1y": 2.00, "2y": 1.80, "3y": 1.80, "4y": 1.78, "5y": 1.75},
+            "6M":  {"actual_fb": 2.45, "1y": 2.00, "2y": 1.80, "3y": 1.80, "4y": 1.78, "5y": 1.75},
+            "1Y":  {"actual_fb": 2.30, "1y": 1.90, "2y": 1.75, "3y": 1.80, "4y": 1.78, "5y": 1.75},
+            "2Y":  {"actual_fb": 2.15, "1y": 1.85, "2y": 1.75, "3y": 1.80, "4y": 1.78, "5y": 1.75},
+            "5Y":  {"actual_fb": 2.30, "1y": 2.00, "2y": 1.90, "3y": 1.95, "4y": 1.93, "5y": 1.90},
+            "10Y": {"actual_fb": 2.55, "1y": 2.20, "2y": 2.10, "3y": 2.15, "4y": 2.13, "5y": 2.10},
+            "30Y": {"actual_fb": 2.80, "1y": 2.50, "2y": 2.40, "3y": 2.40, "4y": 2.38, "5y": 2.35},
+        },
+        "JP": {
+            "3M":  {"actual_fb": 0.40, "1y": 0.60, "2y": 0.80, "3y": 1.00, "4y": 1.10, "5y": 1.20},
+            "6M":  {"actual_fb": 0.50, "1y": 0.70, "2y": 0.90, "3y": 1.05, "4y": 1.15, "5y": 1.25},
+            "1Y":  {"actual_fb": 0.70, "1y": 0.85, "2y": 1.00, "3y": 1.10, "4y": 1.20, "5y": 1.30},
+            "2Y":  {"actual_fb": 1.28, "1y": 1.08, "2y": 1.20, "3y": 1.40, "4y": 1.50, "5y": 1.60},
+            "5Y":  {"actual_fb": 1.68, "1y": 1.50, "2y": 1.60, "3y": 1.80, "4y": 1.90, "5y": 2.00},
+            "10Y": {"actual_fb": 2.21, "1y": 1.98, "2y": 2.30, "3y": 2.50, "4y": 2.60, "5y": 2.70},
+            "30Y": {"actual_fb": 3.44, "1y": 3.00, "2y": 3.20, "3y": 3.40, "4y": 3.50, "5y": 3.60},
+        },
+        "CN": {
+            "3M":  {"actual_fb": 1.10, "1y": 1.00, "2y": 0.90, "3y": 0.85, "4y": 0.83, "5y": 0.80},
+            "6M":  {"actual_fb": 1.20, "1y": 1.10, "2y": 1.00, "3y": 0.95, "4y": 0.92, "5y": 0.90},
+            "1Y":  {"actual_fb": 1.25, "1y": 1.15, "2y": 1.05, "3y": 1.00, "4y": 0.97, "5y": 0.95},
+            "2Y":  {"actual_fb": 1.36, "1y": 1.28, "2y": 1.15, "3y": 1.10, "4y": 1.07, "5y": 1.05},
+            "5Y":  {"actual_fb": 1.55, "1y": 1.47, "2y": 1.35, "3y": 1.30, "4y": 1.27, "5y": 1.25},
+            "10Y": {"actual_fb": 1.79, "1y": 1.70, "2y": 1.55, "3y": 1.50, "4y": 1.47, "5y": 1.45},
+            "30Y": {"actual_fb": 2.25, "1y": 2.15, "2y": 2.00, "3y": 1.95, "4y": 1.92, "5y": 1.90},
+        },
+    }
+
+    def obtener_todas_las_previsiones(fred_api_key: str = "") -> dict:
+        """Stub usado cuando previsiones_dinamicas.py no está disponible."""
+        return {}
+
+# Clave FRED (desde variable de entorno o hardcodeada aquí)
+FRED_API_KEY = os.getenv("FRED_API_KEY", "")
 
 
 # ============================================================
@@ -59,54 +115,11 @@ PLAZOS_OBJETIVO = {
 
 
 # ============================================================
-# PREVISIONES DE CONSENSO (fuentes públicas)
-# Actualizadas: Feb 2026
-# Fuentes: Morningstar, CBO/CEIC, ING, Oxford Economics,
-#           Trading Economics, World Government Bonds
+# PREVISIONES DE CONSENSO
+# Las previsiones ahora son DINÁMICAS para US (FRED) y EUR (ECB).
+# JP y CN usan fallback estático (sin API pública gratuita fiable).
+# Ver módulo previsiones_dinamicas.py para el detalle.
 # ============================================================
-
-PREVISIONES_CONSENSO = {
-    "US": {
-        "3M":  {"actual_fb": 4.30, "1y": 3.50, "2y": 3.00, "3y": 2.75},
-        "6M":  {"actual_fb": 4.25, "1y": 3.45, "2y": 2.95, "3y": 2.70},
-        "1Y":  {"actual_fb": 4.20, "1y": 3.40, "2y": 2.90, "3y": 2.65},
-        "2Y":  {"actual_fb": 4.10, "1y": 3.50, "2y": 3.10, "3y": 2.90},
-        "5Y":  {"actual_fb": 4.15, "1y": 3.60, "2y": 3.25, "3y": 3.00},
-        "10Y": {"actual_fb": 4.50, "1y": 3.90, "2y": 3.50, "3y": 3.25},
-        "30Y": {"actual_fb": 4.70, "1y": 4.20, "2y": 3.80, "3y": 3.50},
-        "fuente": "Morningstar, CBO/CEIC, Schwab (Feb 2026)",
-    },
-    "EUR": {
-        "3M":  {"actual_fb": 2.50, "1y": 2.00, "2y": 1.80, "3y": 1.80},
-        "6M":  {"actual_fb": 2.45, "1y": 2.00, "2y": 1.80, "3y": 1.80},
-        "1Y":  {"actual_fb": 2.30, "1y": 1.90, "2y": 1.75, "3y": 1.80},
-        "2Y":  {"actual_fb": 2.15, "1y": 1.85, "2y": 1.75, "3y": 1.80},
-        "5Y":  {"actual_fb": 2.30, "1y": 2.00, "2y": 1.90, "3y": 1.95},
-        "10Y": {"actual_fb": 2.55, "1y": 2.20, "2y": 2.10, "3y": 2.15},
-        "30Y": {"actual_fb": 2.80, "1y": 2.50, "2y": 2.40, "3y": 2.40},
-        "fuente": "ECB Staff, Morningstar, Capital.com (Feb 2026)",
-    },
-    "JP": {
-        "3M":  {"actual_fb": 0.40, "1y": 0.60, "2y": 0.80, "3y": 1.00},
-        "6M":  {"actual_fb": 0.50, "1y": 0.70, "2y": 0.90, "3y": 1.05},
-        "1Y":  {"actual_fb": 0.70, "1y": 0.85, "2y": 1.00, "3y": 1.10},
-        "2Y":  {"actual_fb": 1.28, "1y": 1.08, "2y": 1.20, "3y": 1.40},
-        "5Y":  {"actual_fb": 1.68, "1y": 1.50, "2y": 1.60, "3y": 1.80},
-        "10Y": {"actual_fb": 2.21, "1y": 1.98, "2y": 2.30, "3y": 2.50},
-        "30Y": {"actual_fb": 3.44, "1y": 3.00, "2y": 3.20, "3y": 3.40},
-        "fuente": "ING, Oxford Economics, MUFG Research (Feb 2026)",
-    },
-    "CN": {
-        "3M":  {"actual_fb": 1.10, "1y": 1.00, "2y": 0.90, "3y": 0.85},
-        "6M":  {"actual_fb": 1.20, "1y": 1.10, "2y": 1.00, "3y": 0.95},
-        "1Y":  {"actual_fb": 1.25, "1y": 1.15, "2y": 1.05, "3y": 1.00},
-        "2Y":  {"actual_fb": 1.36, "1y": 1.28, "2y": 1.15, "3y": 1.10},
-        "5Y":  {"actual_fb": 1.55, "1y": 1.47, "2y": 1.35, "3y": 1.30},
-        "10Y": {"actual_fb": 1.79, "1y": 1.70, "2y": 1.55, "3y": 1.50},
-        "30Y": {"actual_fb": 2.25, "1y": 2.15, "2y": 2.00, "3y": 1.95},
-        "fuente": "Trading Economics, MacroMicro (Feb 2026)",
-    },
-}
 
 
 HEADERS = {
@@ -200,45 +213,69 @@ def _scrape_yield_curve(url: str) -> dict[str, float]:
     return rendimientos
 
 
-def obtener_curva_pais(codigo: str) -> dict:
+def obtener_curva_pais(codigo: str, _previsiones_cache: dict = None) -> dict:
     """
     Obtiene curva de tipos completa para un país:
-    rendimientos actuales (scraping) + previsiones (consenso).
+    rendimientos actuales (scraping de worldgovernmentbonds) +
+    previsiones dinámicas (FRED para US, ECB para EUR, estático para JP/CN).
+
+    El parámetro _previsiones_cache permite reutilizar previsiones ya
+    obtenidas (evita llamadas repetidas a las APIs en obtener_todas_las_curvas).
     """
     config = PAISES[codigo]
-    previsiones = PREVISIONES_CONSENSO[codigo]
 
-    # Intentar scraping
+    # Obtener previsiones dinámicas (o usar caché si se pasó)
+    if _previsiones_cache and codigo in _previsiones_cache:
+        prev_dinamicas = _previsiones_cache[codigo]
+    elif _PREVISIONES_DINAMICAS_DISPONIBLES:
+        from previsiones_dinamicas import obtener_previsiones
+        prev_dinamicas = obtener_previsiones(codigo, fred_api_key=FRED_API_KEY)
+    else:
+        # Sin módulo de previsiones dinámicas: usar fallback estático
+        fb = FALLBACK_ESTATICO[codigo]
+        anno = datetime.now(UTC).year
+        prev_dinamicas = {
+            "pais": codigo,
+            "yields_actuales": {k: v["actual_fb"] for k, v in fb.items()},
+            "previsiones": {
+                k: {str(anno + i): v[f"{i}y"] for i in range(1, 6)}
+                for k, v in fb.items()
+            },
+            "calidad": "degradado",
+            "fuente": "Fallback estático — módulo previsiones_dinamicas.py no encontrado",
+            "detalle_calidad": "Instala previsiones_dinamicas.py en el mismo directorio.",
+        }
+
+    # Intentar scraping de yields actuales
     rendimientos_web = _scrape_yield_curve(config["url"])
     scrapeado = len(rendimientos_web) > 0
 
     ahora = datetime.now(UTC)
     anno_actual = ahora.year
 
-    # Construir lista de plazos con datos
+    # Combinar: yields de scraping (si disponibles) + previsiones dinámicas
     plazos = []
     for plazo_codigo in ["3M", "6M", "1Y", "2Y", "5Y", "10Y", "30Y"]:
-        prev_data = previsiones.get(plazo_codigo)
-        if prev_data is None:
-            continue
 
-        # Rendimiento actual: primero scraping, luego fallback
+        # Rendimiento actual: scraping > API dinámica > fallback estático
         if plazo_codigo in rendimientos_web:
             actual = rendimientos_web[plazo_codigo]
             origen_actual = "scraping"
+        elif plazo_codigo in prev_dinamicas.get("yields_actuales", {}):
+            actual = prev_dinamicas["yields_actuales"][plazo_codigo]
+            origen_actual = f"api_{prev_dinamicas.get('calidad', 'desconocido')}"
         else:
-            actual = prev_data["actual_fb"]
-            origen_actual = "fallback"
+            continue   # plazo sin dato, omitir
+
+        # Previsiones dinámicas para este plazo
+        prev_plazo = prev_dinamicas.get("previsiones", {}).get(plazo_codigo, {})
 
         plazos.append({
             "plazo": plazo_codigo,
             "rendimiento_actual": actual,
             "origen": origen_actual,
-            "previsiones": {
-                str(anno_actual + 1): prev_data["1y"],
-                str(anno_actual + 2): prev_data["2y"],
-                str(anno_actual + 3): prev_data["3y"],
-            },
+            "previsiones": prev_plazo,
+            "horizonte_prevision": f"{anno_actual + 1}–{anno_actual + 5}",
         })
 
     return {
@@ -249,16 +286,31 @@ def obtener_curva_pais(codigo: str) -> dict:
         "plazos": plazos,
         "scrapeado": scrapeado,
         "num_plazos_scrapeados": sum(1 for p in plazos if p["origen"] == "scraping"),
-        "fuente_previsiones": previsiones["fuente"],
+        "calidad_previsiones": prev_dinamicas.get("calidad", "desconocido"),
+        "fuente_previsiones": prev_dinamicas.get("fuente", ""),
+        "detalle_calidad": prev_dinamicas.get("detalle_calidad", ""),
+        "metodo_prevision": prev_dinamicas.get("metodo_prevision", ""),
         "fecha_consulta": ahora,
     }
 
 
 def obtener_todas_las_curvas() -> list[dict]:
-    """Obtiene curvas de todos los países configurados."""
+    """
+    Obtiene curvas de todos los países configurados.
+    Las llamadas a FRED y ECB se hacen una sola vez y se comparten
+    entre países para evitar llamadas redundantes.
+    """
+    # Obtener todas las previsiones dinámicas de una vez
+    cache_previsiones = {}
+    if _PREVISIONES_DINAMICAS_DISPONIBLES:
+        try:
+            cache_previsiones = obtener_todas_las_previsiones(fred_api_key=FRED_API_KEY)
+        except Exception as e:
+            print(f"[WARN] Error obteniendo previsiones dinámicas: {e}")
+
     resultados = []
     for codigo in PAISES:
-        datos = obtener_curva_pais(codigo)
+        datos = obtener_curva_pais(codigo, _previsiones_cache=cache_previsiones)
         resultados.append(datos)
     return resultados
 
@@ -271,15 +323,29 @@ def guardar_curvas_en_mongodb(db, datos: list[dict]) -> dict:
     """
     Guarda los datos de curvas de tipos en la colección
     'curvas_tipos' de MongoDB.
+    Incluye resumen de calidad de previsiones por país.
     """
     collection = db["curvas_tipos"]
     ahora = datetime.now(UTC)
+
+    resumen_calidad = {
+        d["codigo"]: {
+            "calidad": d.get("calidad_previsiones", "desconocido"),
+            "fuente": d.get("fuente_previsiones", ""),
+            "metodo": d.get("metodo_prevision", ""),
+        }
+        for d in datos
+    }
 
     documento = {
         "fecha_consulta": ahora,
         "consulta_id": f"CT-{ahora.strftime('%Y%m%d-%H%M%S')}",
         "paises": datos,
         "num_paises": len(datos),
+        "resumen_calidad": resumen_calidad,
+        "tiene_datos_degradados": any(
+            d.get("calidad_previsiones") == "degradado" for d in datos
+        ),
     }
 
     result = collection.insert_one(documento)
@@ -289,6 +355,7 @@ def guardar_curvas_en_mongodb(db, datos: list[dict]) -> dict:
         "consulta_id": documento["consulta_id"],
         "num_paises": len(datos),
         "fecha": ahora,
+        "resumen_calidad": resumen_calidad,
     }
 
 
@@ -300,10 +367,13 @@ def obtener_ultimo_registro_curvas(db) -> dict | None:
 
 
 if __name__ == "__main__":
-    # Test rápido
     print("Obteniendo curvas de tipos...")
     datos = obtener_todas_las_curvas()
     for d in datos:
-        print(f"\n{d['emoji']} {d['nombre']} (scrapeado: {d['scrapeado']})")
+        calidad = d.get("calidad_previsiones", "?")
+        print(f"\n{d['emoji']} {d['nombre']} | scraping: {d['scrapeado']} | previsiones: {calidad.upper()}")
+        print(f"   Fuente previsiones: {d.get('fuente_previsiones', '')}")
+        if calidad != "ok":
+            print(f"   ⚠️  {d.get('detalle_calidad', '')}")
         for p in d["plazos"]:
-            print(f"  {p['plazo']:>4s}: {p['rendimiento_actual']:.2f}% ({p['origen']}) | Prev: {p['previsiones']}")
+            print(f"  {p['plazo']:>4s}: {p['rendimiento_actual']:.2f}% ({p['origen']}) | Prev {p['horizonte_prevision']}: {p['previsiones']}")

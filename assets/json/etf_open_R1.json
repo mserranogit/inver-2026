@@ -1,0 +1,121 @@
+[
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "AMUNDI GOV.0-6 M EUR IN UCIT",
+        "isin": "FR0010754200",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "AMUNDI GOV.0-6 M EUR IN UCIT",
+        "isin": "FR0010754200",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "Amundi Euro Overnight Return Acc",
+        "isin": "FR0010510800",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "Invesco EuroMTS Cash 3 Months ETF",
+        "isin": "IE00B3BPCH51",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "JPM EUR ULTRASHORT S",
+        "isin": "IE00BD9MMF62",
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "JPM EUR ULTRASHORT S",
+        "isin": "IE00BD9MMF62",
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "Lyxor Smart Overnight Return",
+        "isin": "LU1190417599",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR Bloomberg Barclays 1-3 Month T-...",
+        "isin": "IE00BJXRT698",
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "XTR.II EUR OVERN.SWAP UCITS",
+        "isin": "LU0290358497",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "XTR.II EUR OVERN.SWAP UCITS",
+        "isin": "LU0290358497",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "Xtrackers II EUR Overnight Rate Swap...",
+        "isin": "LU0335044896",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "Xtrackers II GBP Overnight Rate Swap...",
+        "isin": "LU0321464652",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "Xtrackers II Italy Gov Bond 0-1 Swap",
+        "isin": "LU0613540268",
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Mercado Monetario",
+        "nombreEtf": "Xtrackers II USD Overnight Rate Swap",
+        "isin": "LU0321465469",
+        "subtipoEtf": null,
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "iShares Govt Bond 0-1 yr_Dist",
+        "isin": "IE00B3FH7618",
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "iShares Treasury Bond 0-1yr_Dist",
+        "isin": "IE00BGR7L912",
+        "riesgo": "1/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "iShares Ultrashort Bond_Dist",
+        "isin": "IE00BCRY6557",
+        "riesgo": "1/7"
+    }
+]

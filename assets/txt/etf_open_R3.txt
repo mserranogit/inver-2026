@@ -1,0 +1,1844 @@
+﻿Renta Fija
+Gobiernos Europa
+AMUNDI EUR.GV.BD 7-10Y UCITS
+ PARIS, FR | LU1287023185
+Riesgo
+3/7
+Cotización
+172,9300 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,34 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,20 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+AMUNDI EUR.GV.BD 7-10Y UCITS
+ MILANO, IT | LU1287023185
+Riesgo
+3/7
+Cotización
+172,8600 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,28 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,16 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+AMUNDI US CURVE STPNNG UCITS
+ FRANKFURT, DE | LU2018762653
+Riesgo
+3/7
+Cotización
+83,9720 EUR
+23 Feb. 2026 | 17:36
+Variación
+-0,38 EUR
+23 Feb. 2026 | 17:36
+Variación %
+-0,45 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Otros
+AMUNDI US TRSRY BND7-10 UCIT
+ MILANO, IT | LU1407887915
+Riesgo
+3/7
+Cotización
+237,4900 EUR
+23 Feb. 2026 | 16:13
+Variación
+0,06 EUR
+23 Feb. 2026 | 16:13
+Variación %
+0,03 %
+23 Feb. 2026 | 16:13
+
+***
+Renta Fija
+Corporativa Inv Grade
+Amundi Euro Corporate SRI
+ MILANO, IT | LU1437018168
+Riesgo
+3/7
+Cotización
+54,6000 EUR
+23 Feb. 2026 | 09:50
+Variación
+0,07 EUR
+23 Feb. 2026 | 09:50
+Variación %
+0,13 %
+23 Feb. 2026 | 09:50
+
+***
+Renta Fija
+Corporativa High Yield
+Amundi Euro Corporate SRI
+ FRANKFURT, DE | LU1737653987
+Riesgo
+3/7
+Cotización
+47,0160 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,064 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,14 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa High Yield
+Amundi Euro Corporates
+ FRANKFURT, DE | LU1681039647
+Riesgo
+3/7
+Cotización
+229,6700 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,31 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,14 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Euro Govt Bd 5-7Y ETF Acc
+ PARIS, FR | LU1287023003
+Riesgo
+3/7
+Cotización
+162,9600 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,2 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,12 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa High Yield
+Amundi Floating Rate USD Corp
+ FRANKFURT, DE | LU1681040900
+Riesgo
+3/7
+Cotización
+115,0700 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,235 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,20 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa High Yield
+Amundi Floating Rate USD Corp_EURH
+ FRANKFURT, DE | LU1681041031
+Riesgo
+3/7
+Cotización
+55,9260 EUR
+23 Feb. 2026 | 17:27
+Variación
+0,002 EUR
+23 Feb. 2026 | 17:27
+Variación %
+0,00 %
+23 Feb. 2026 | 17:27
+
+***
+
+Renta Fija
+Gobiernos Europa
+Amundi Gov Bd Highest Rtd EuroMTS IG
+ FRANKFURT, DE | LU1681046691
+Riesgo
+3/7
+Cotización
+206,8100 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,22 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,11 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi GovBd Lwst Rtd EuroMTS IG
+ FRANKFURT, DE | LU1681046774
+Riesgo
+3/7
+Cotización
+236,7900 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,4499 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,19 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Govt Bond Euromts Broad Inv G...
+ FRANKFURT, DE | LU1681046261
+Riesgo
+3/7
+Cotización
+224,4800 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,47 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,21 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa Inv Grade
+Amundi Idx Barclays Euro Corp BBB 1-5
+ MILANO, IT | LU1525418643
+Riesgo
+3/7
+Cotización
+55,3700 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,07 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,13 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Idx JPMorgan EMU Govies IG
+ FRANKFURT, DE | LU1737653714
+Riesgo
+3/7
+Cotización
+42,3580 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,041 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,10 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Idx JPMorgan EMU Govies IG
+ MILANO, IT | LU1437018598
+Riesgo
+3/7
+Cotización
+50,3100 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,07 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,14 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas JPM ESG Embi Global Dive...
+ FRANKFURT, DE | LU1547515053
+Riesgo
+3/7
+Cotización
+10,9035 USD
+23 Feb. 2026 | 17:36
+Variación
+0,02 USD
+23 Feb. 2026 | 17:36
+Variación %
+0,18 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas JPM ESG Green Social & S...
+ FRANKFURT, DE | LU2365458814
+Riesgo
+3/7
+Cotización
+8,3608 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0094 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,11 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas JPM ESG Green Social & S...
+ FRANKFURT, DE | LU2365458731
+Riesgo
+3/7
+Cotización
+7,8062 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,009 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,12 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+BNP Paribas  Corp Bond SRI Fossil F...
+ FRANKFURT, DE | LU2008761053
+Riesgo
+3/7
+Cotización
+9,4414 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0048 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,05 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Gov Bd Highest Rtd EuroMTS IG
+ FRANKFURT, DE | LU1681046691
+Riesgo
+3/7
+Cotización
+206,8100 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,22 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,11 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi GovBd Lwst Rtd EuroMTS IG
+ FRANKFURT, DE | LU1681046774
+Riesgo
+3/7
+Cotización
+236,7900 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,4499 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,19 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Govt Bond Euromts Broad Inv G...
+ FRANKFURT, DE | LU1681046261
+Riesgo
+3/7
+Cotización
+224,4800 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,47 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,21 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa Inv Grade
+Amundi Idx Barclays Euro Corp BBB 1-5
+ MILANO, IT | LU1525418643
+Riesgo
+3/7
+Cotización
+55,3700 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,07 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,13 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Idx JPMorgan EMU Govies IG
+ FRANKFURT, DE | LU1737653714
+Riesgo
+3/7
+Cotización
+42,3580 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,041 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,10 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+Amundi Idx JPMorgan EMU Govies IG
+ MILANO, IT | LU1437018598
+Riesgo
+3/7
+Cotización
+50,3100 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,07 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,14 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas JPM ESG Embi Global Dive...
+ FRANKFURT, DE | LU1547515053
+Riesgo
+3/7
+Cotización
+10,9035 USD
+23 Feb. 2026 | 17:36
+Variación
+0,02 USD
+23 Feb. 2026 | 17:36
+Variación %
+0,18 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas JPM ESG Green Social & S...
+ FRANKFURT, DE | LU2365458814
+Riesgo
+3/7
+Cotización
+8,3608 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0094 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,11 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Sin Restricciones
+BNP Paribas JPM ESG Green Social & S...
+ FRANKFURT, DE | LU2365458731
+Riesgo
+3/7
+Cotización
+7,8062 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,009 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,12 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+BNP Paribas  Corp Bond SRI Fossil F...
+ FRANKFURT, DE | LU2008761053
+Riesgo
+3/7
+Cotización
+9,4414 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0048 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,05 %
+23 Feb. 2026 | 17:36
+
+***
+Activos Reales
+Bonos ligados a la inflación
+Lyxor USD 10Y Infl Expectations
+ PARIS, FR | LU1390062831
+Riesgo
+3/7
+Cotización
+115,5800 EUR
+23 Feb. 2026 | 09:11
+Variación
+-0,3899 EUR
+23 Feb. 2026 | 09:11
+Variación %
+-0,34 %
+23 Feb. 2026 | 09:11
+
+***
+Renta Fija
+Mercados emergentes
+Pimco US Low Dur Corp Bond_CHF
+ ZURICH, CH | IE00BWC52F58
+Riesgo
+3/7
+Cotización
+100,3600 CHF
+13 Feb. 2026 | 09:01
+Variación
+-1,0149 CHF
+13 Feb. 2026 | 09:01
+Variación %
+-1,01 %
+13 Feb. 2026 | 09:01
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB BRCLS GL AGE UCTIS
+ ZURICH, CH | IE00BF1QPK61
+Riesgo
+3/7
+Cotización
+27,6120 CHF
+20 Feb. 2026 | 17:37
+Variación
+-0,006 CHF
+20 Feb. 2026 | 17:37
+Variación %
+-0,02 %
+20 Feb. 2026 | 17:37
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB BRCLS GLOAG.BD UCITS
+ LONDON, GB | IE00BF1QPJ56
+Riesgo
+3/7
+Cotización
+28,7400 GBP
+23 Feb. 2026 | 16:54
+Variación
+-0,01 GBP
+23 Feb. 2026 | 16:54
+Variación %
+-0,03 %
+23 Feb. 2026 | 16:54
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB BRCLS GO AG.BD UCITS
+ FRANKFURT, DE | IE00B43QJJ40
+Riesgo
+3/7
+Cotización
+22,2500 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,016 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,07 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB BRLS GLO AGGRT UCITS
+ FRANKFURT, DE | IE00BKC94M46
+Riesgo
+3/7
+Cotización
+32,0460 USD
+23 Feb. 2026 | 17:36
+Variación
+0,059 USD
+23 Feb. 2026 | 17:36
+Variación %
+0,18 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB EURO AGG BOND UCITS
+ FRANKFURT, DE | IE00B41RYL63
+Riesgo
+3/7
+Cotización
+55,1180 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,052 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,09 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB EURO COR.BND UCITS
+ FRANKFURT, DE | IE00B3T9LM79
+Riesgo
+3/7
+Cotización
+53,6220 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,044 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,08 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB EURO GOV BOND UCITS
+ FRANKFURT, DE | IE00B3S5XW04
+Riesgo
+3/7
+Cotización
+56,7880 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,05 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,09 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB GLOBAL AGG BD UCITS
+ FRANKFURT, DE | IE00BF1QPH33
+Riesgo
+3/7
+Cotización
+30,7110 USD
+23 Feb. 2026 | 17:35
+Variación
+0,055 USD
+23 Feb. 2026 | 17:35
+Variación %
+0,18 %
+23 Feb. 2026 | 17:35
+
+***
+
+Renta Fija
+Gobiernos Global
+SPDR BB US AGGREG.BND UCITS
+ FRANKFURT, DE | IE00B459R192
+Riesgo
+3/7
+Cotización
+81,5460 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,146 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,18 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BB US TREASURY BD UCITS
+ FRANKFURT, DE | IE00B44CND37
+Riesgo
+3/7
+Cotización
+83,0780 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,132 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,16 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BBG 1-10 Year U.S. Corp Bond_Di...
+ FRANKFURT, DE | IE00BYV12Y75
+Riesgo
+3/7
+Cotización
+25,6180 EUR
+23 Feb. 2026 | 17:36
+Variación
+-0,016 EUR
+23 Feb. 2026 | 17:36
+Variación %
+-0,06 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BBG 3-7 Year U.S. Treas Bond_Di...
+ FRANKFURT, DE | IE00BYSZ5R67
+Riesgo
+3/7
+Cotización
+24,0170 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,016 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,07 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+SPDR BBG Global Agg Bond EURH_Dist
+ FRANKFURT, DE | IE00BF1QPL78
+Riesgo
+3/7
+Cotización
+26,1680 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,028 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,11 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+SPDR Bloomberg Barclays Euro Govt Bo...
+ AMSTERDAM, NL | IE00BMYHQM42
+Riesgo
+3/7
+Cotización
+26,3000 EUR
+23 Feb. 2026 | 17:04
+Variación
+0,03 EUR
+23 Feb. 2026 | 17:04
+Variación %
+0,11 %
+23 Feb. 2026 | 17:04
+
+***
+Renta Fija
+Gobiernos Global
+SPDR ICE BofA 0-5 Year EM USD Govt B...
+ FRANKFURT, DE | IE00BJL36X53
+Riesgo
+3/7
+Cotización
+30,8240 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,004 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,01 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+SPDR ICEBOFA0-5YEM USD UCITS
+ FRANKFURT, DE | IE00BP46NG52
+Riesgo
+3/7
+Cotización
+23,3390 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,038 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,16 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+UBS BBG US Liquid Corps 1-5 Year
+ AMSTERDAM, NL | LU1048315243
+Riesgo
+3/7
+Cotización
+15,4110 EUR
+20 Feb. 2026 | 17:40
+Variación
+0 EUR
+20 Feb. 2026 | 17:40
+Variación %
+0,00 %
+20 Feb. 2026 | 17:40
+
+***
+Activos Reales
+Bonos ligados a la inflación
+UBS BlmbrgBrcls Eur InflLnk1-10_Dist
+ FRANKFURT, DE | LU1645380368
+Riesgo
+3/7
+Cotización
+14,5340 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,0125 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,09 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+UBS BlmbrgBrcls MSCIEurAr LCrpSu_Dist
+ AMSTERDAM, NL | LU1484799769
+Riesgo
+3/7
+Cotización
+13,1270 EUR
+23 Feb. 2026 | 17:40
+Variación
+0,01 EUR
+23 Feb. 2026 | 17:40
+Variación %
+0,08 %
+23 Feb. 2026 | 17:40
+
+***
+Renta Fija
+Gobiernos Otros
+UBS Bloomberg BarclaysTIPS 1-10
+ MILANO, IT | LU1459801780
+Riesgo
+3/7
+Cotización
+12,0360 EUR
+23 Feb. 2026 | 17:23
+Variación
+0,032 EUR
+23 Feb. 2026 | 17:23
+Variación %
+0,27 %
+23 Feb. 2026 | 17:23
+
+***
+Renta Fija
+Gobiernos Otros
+UBS Bloomberg BarclaysTIPS 1-10_Dist
+ MILANO, IT | LU1459801434
+Riesgo
+3/7
+Cotización
+10,1340 EUR
+20 Feb. 2026 | 16:32
+Variación
+-0,03 EUR
+20 Feb. 2026 | 16:32
+Variación %
+-0,30 %
+20 Feb. 2026 | 16:32
+
+***
+Renta Fija
+Corporativa Inv Grade
+UBS BloombergBrclsEA LiqCorp1-5Yr_Di...
+ AMSTERDAM, NL | LU1048314196
+Riesgo
+3/7
+Cotización
+13,2250 EUR
+23 Feb. 2026 | 17:40
+Variación
+0 EUR
+23 Feb. 2026 | 17:40
+Variación %
+0,00 %
+23 Feb. 2026 | 17:40
+
+***
+Renta Fija
+Mercados emergentes
+UBS J.P.Mrgn USD EM DivBd 1-5
+ FRANKFURT, DE | LU1645386480
+Riesgo
+3/7
+Cotización
+12,8690 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,012 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,09 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Mercados emergentes
+UBS J.P.Mrgn USD EM DivBd 1-5_Dist
+ FRANKFURT, DE | LU1645385839
+Riesgo
+3/7
+Cotización
+9,3932 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,0108 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,11 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+UBS LFS SBI�FRGNAAA-BBB UCIT
+ FRANKFURT, DE | LU0879399441
+Riesgo
+3/7
+Cotización
+15,3805 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,0375 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,24 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Otros
+UBS(Lux)FS Blmbg USLqCrp1-5YrUSDAdis
+ AMSTERDAM, NL | LU1048314949
+Riesgo
+3/7
+Cotización
+11,7860 EUR
+23 Feb. 2026 | 17:40
+Variación
+0 EUR
+23 Feb. 2026 | 17:40
+Variación %
+0,00 %
+23 Feb. 2026 | 17:40
+
+***
+Renta Fija
+Gobiernos Europa
+UBSLBloomberg BrclsEUR Trsry1-10_Dist
+ MILANO, IT | LU0969639128
+Riesgo
+3/7
+Cotización
+11,8860 EUR
+23 Feb. 2026 | 15:10
+Variación
+0,01 EUR
+23 Feb. 2026 | 15:10
+Variación %
+0,08 %
+23 Feb. 2026 | 15:10
+
+***
+Renta Fija
+Gobiernos Europa
+VANGUARD EUR EUR.GVT BD UCIT
+ FRANKFURT, DE | IE00BH04GL39
+Riesgo
+3/7
+Cotización
+24,3600 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,019 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,08 %
+23 Feb. 2026 | 17:35
+
+***
+
+Renta Fija
+Gobiernos Otros
+Vanguard USD Treasury Bond Inc_USD D...
+ LONDON, GB | IE00BZ163M45
+Riesgo
+3/7
+Cotización
+16,1760 USD
+23 Feb. 2026 | 17:35
+Variación
+0,025 USD
+23 Feb. 2026 | 17:35
+Variación %
+0,15 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+XTRACK.II EUR CORP BND UCITS
+ FRANKFURT, DE | LU0484968812
+Riesgo
+3/7
+Cotización
+144,0500 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,09 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,06 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+XTRACKERS IBOXX EUR CORP.UCI
+ FRANKFURT, DE | IE00BYPHT736
+Riesgo
+3/7
+Cotización
+15,3585 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,0185 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,12 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+XTRACKERS IBOXX USD CORP.UCI
+ FRANKFURT, DE | IE00BF8J5974
+Riesgo
+3/7
+Cotización
+15,5470 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,024 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,15 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+XTRACKERS USD CRP BD UCITS
+ FRANKFURT, DE | IE00BFMKQ930
+Riesgo
+3/7
+Cotización
+19,7295 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,0095 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,05 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+Xtrackers II Corporate Bond
+ FRANKFURT, DE | LU0478205379
+Riesgo
+3/7
+Cotización
+164,3750 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,1 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,06 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa Inv Grade
+Xtrackers II ESG Glbal Agg Bnd_Dist
+ FRANKFURT, DE | LU0942970103
+Riesgo
+3/7
+Cotización
+34,0630 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,032 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,09 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+Xtrackers II ESG Global Agg Bnd EURH
+ FRANKFURT, DE | LU0942970798
+Riesgo
+3/7
+Cotización
+21,1710 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,042 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,20 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+Xtrackers II EUR Covered Bond Swap
+ FRANKFURT, DE | LU0820950128
+Riesgo
+3/7
+Cotización
+149,9450 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,155 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,10 %
+23 Feb. 2026 | 17:35
+
+***
+Activos Reales
+Bonos ligados a la inflación
+Xtrackers II Eurozn Infl-Linkd Bond
+ FRANKFURT, DE | LU0290358224
+Riesgo
+3/7
+Cotización
+244,3200 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,25 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,10 %
+23 Feb. 2026 | 17:36
+
+***
+
+Renta Fija
+Gobiernos Europa
+Xtrackers II Eurozone Gov Bond 3-5
+ FRANKFURT, DE | LU0290356954
+Riesgo
+3/7
+Cotización
+208,8000 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,17 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,08 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Xtrackers II Eurozone Gov Bond 5-7
+ FRANKFURT, DE | LU0290357176
+Riesgo
+3/7
+Cotización
+239,0900 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,3199 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,13 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Xtrackers II Eurozone Gov Bond 7-10
+ FRANKFURT, DE | LU0290357259
+Riesgo
+3/7
+Cotización
+257,6300 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,4 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,16 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+Xtrackers II Eurozone Government Bond
+ FRANKFURT, DE | LU0290355717
+Riesgo
+3/7
+Cotización
+226,1000 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,3499 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,16 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+Xtrackers II Eurozone Govt Bond_Dist
+ FRANKFURT, DE | LU0643975591
+Riesgo
+3/7
+Cotización
+172,8000 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,215 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,12 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+Xtrackers II Germany Govt Bond_Dist
+ FRANKFURT, DE | LU0468896575
+Riesgo
+3/7
+Cotización
+167,6450 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,245 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,15 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+Xtrackers II Glbal Governmnt Bond EU...
+ FRANKFURT, DE | LU0378818131
+Riesgo
+3/7
+Cotización
+212,7400 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,3899 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,18 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+Xtrackers II Glbal Governmnt Bond_Di...
+ FRANKFURT, DE | LU0690964092
+Riesgo
+3/7
+Cotización
+174,9750 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,33 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,19 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Mercados emergentes
+Xtrackers II Harvest China Gov Bond_...
+ FRANKFURT, DE | LU1094612022
+Riesgo
+3/7
+Cotización
+18,8565 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,0175 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,09 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Otros
+Xtrackers II US Treasuries EURH
+ FRANKFURT, DE | LU1399300455
+Riesgo
+3/7
+Cotización
+92,1160 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,272 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,30 %
+23 Feb. 2026 | 17:36
+
+***
+
+Renta Fija
+Gobiernos Otros
+Xtrackers II US Treasuries_Dist
+ FRANKFURT, DE | LU0429459356
+Riesgo
+3/7
+Cotización
+166,7800 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,175 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,11 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+Xtrackers II iBxx Euzn Gv BY Plus
+ FRANKFURT, DE | LU0524480265
+Riesgo
+3/7
+Cotización
+183,9850 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,18 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,10 %
+23 Feb. 2026 | 17:36
+
+***
+Activos Reales
+Materias primas
+Xtrackers Physical Gold ETC Commodity
+ FRANKFURT, DE | DE000A2T0VU5
+Riesgo
+3/7
+Cotización
+67,9300 EUR
+23 Feb. 2026 | 17:36
+Variación
+1,735 EUR
+23 Feb. 2026 | 17:36
+Variación %
+2,62 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+Xtrackers Target Matu Sept 2029 Ital...
+ FRANKFURT, DE | LU0484969463
+Riesgo
+3/7
+Cotización
+207,5100 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,14 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,07 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Aggregate Bond_Dist
+ FRANKFURT, DE | IE00B3DKXQ41
+Riesgo
+3/7
+Cotización
+108,9850 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,135 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,12 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+iShares Core Corp Bond
+ AMSTERDAM, NL | IE00B3F81R35
+Riesgo
+3/7
+Cotización
+120,5700 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,15 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,12 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+iShares Core Gl Aggregate Bd_Dist
+ FRANKFURT, DE | IE00B3F81409
+Riesgo
+3/7
+Cotización
+3,7906 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,001 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,03 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+iShares Core Gl Aggregate Bd_EURH
+ FRANKFURT, DE | IE00BDBRDM35
+Riesgo
+3/7
+Cotización
+4,9904 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,0135 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,27 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Core Govt Bond
+ FRANKFURT, DE | IE00B4WXJJ64
+Riesgo
+3/7
+Cotización
+111,0200 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,135 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,12 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Core Govt Bond UCITS
+ AMSTERDAM, NL | IE00B4WXJJ64
+Riesgo
+3/7
+Cotización
+110,9800 EUR
+23 Feb. 2026 | 17:40
+Variación
+0,16 EUR
+23 Feb. 2026 | 17:40
+Variación %
+0,14 %
+23 Feb. 2026 | 17:40
+
+***
+
+Renta Fija
+Corporativa High Yield
+iShares Corp Bd Intr Rate Hgd_Dist
+ FRANKFURT, DE | IE00B6X2VY59
+Riesgo
+3/7
+Cotización
+99,1120 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,114 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,11 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa High Yield
+iShares Corp Bd ex-Financials
+ FRANKFURT, DE | IE00B4L5ZG21
+Riesgo
+3/7
+Cotización
+109,8350 EUR
+23 Feb. 2026 | 17:19
+Variación
+0,11 EUR
+23 Feb. 2026 | 17:19
+Variación %
+0,10 %
+23 Feb. 2026 | 17:19
+
+***
+Renta Fija
+Corporativa High Yield
+iShares Corp Bond BBB-BB_Dist
+ FRANKFURT, DE | IE00BSKRK281
+Riesgo
+3/7
+Cotización
+4,8954 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0044 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,09 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa High Yield
+iShares Corp Bond ESG_Dist
+ FRANKFURT, DE | IE00BYZTVT56
+Riesgo
+3/7
+Cotización
+4,7982 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0066 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,14 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa High Yield
+iShares Corp Bond Financials_Dist
+ FRANKFURT, DE | IE00B87RLX93
+Riesgo
+3/7
+Cotización
+103,2250 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,18 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,17 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Corporativa Inv Grade
+iShares Corp Bond Large Cap_Dist
+ MILANO, IT | IE0032523478
+Riesgo
+3/7
+Cotización
+126,3000 EUR
+23 Feb. 2026 | 09:49
+Variación
+0,25 EUR
+23 Feb. 2026 | 09:49
+Variación %
+0,20 %
+23 Feb. 2026 | 09:49
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Germany Govt Bond_Dist
+ FRANKFURT, DE | IE00B5V94313
+Riesgo
+3/7
+Cotización
+119,9150 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,175 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,15 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Govt Bond 3-7yr
+ FRANKFURT, DE | IE00B3VTML14
+Riesgo
+3/7
+Cotización
+135,5850 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,185 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,14 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Govt Bond 5-7yr_Dist
+ FRANKFURT, DE | IE00B4WXJG34
+Riesgo
+3/7
+Cotización
+146,0250 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,245 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,17 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Europa
+iShares Govt Bond 7-10yr
+ FRANKFURT, DE | IE00B3VTN290
+Riesgo
+3/7
+Cotización
+156,0700 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,245 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,16 %
+23 Feb. 2026 | 17:35
+
+***
+
+Renta Fija
+Gobiernos Europa
+iShares Govt Bond 7-10yr_Dist
+ FRANKFURT, DE | IE00B1FZS806
+Riesgo
+3/7
+Cotización
+190,0450 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,3 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,16 %
+23 Feb. 2026 | 17:36
+
+***
+Activos Reales
+Bonos ligados a la inflación
+iShares InflationLinkedGovtBd
+ FRANKFURT, DE | IE00B0M62X26
+Riesgo
+3/7
+Cotización
+235,3200 EUR
+23 Feb. 2026 | 17:35
+Variación
+0,2099 EUR
+23 Feb. 2026 | 17:35
+Variación %
+0,09 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+iShares Intermediate Credit Bd_Dist
+ FRANKFURT, DE | IE00BDQZ5152
+Riesgo
+3/7
+Cotización
+4,1883 EUR
+23 Feb. 2026 | 17:35
+Variación
+-0,0035 EUR
+23 Feb. 2026 | 17:35
+Variación %
+-0,08 %
+23 Feb. 2026 | 17:35
+
+***
+Renta Fija
+Gobiernos Global
+iShares Treasury Bond 3-7yr_Dist
+ FRANKFURT, DE | IE00BFXYHY63
+Riesgo
+3/7
+Cotización
+4,1447 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0025 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,06 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+iShares Treasury Bond 3-7yr_Dist
+ FRANKFURT, DE | IE00BGPP6473
+Riesgo
+3/7
+Cotización
+4,2314 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0112 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,27 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+iShares Treasury Bond 3-7yr_USD
+ FRANKFURT, DE | IE00B3VWN393
+Riesgo
+3/7
+Cotización
+144,7700 USD
+23 Feb. 2026 | 17:36
+Variación
+0,38 USD
+23 Feb. 2026 | 17:36
+Variación %
+0,26 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Gobiernos Global
+iShares US Mortgage Backed Sec_Dist
+ FRANKFURT, DE | IE00BZ6V7883
+Riesgo
+3/7
+Cotización
+3,6320 EUR
+23 Feb. 2026 | 17:36
+Variación
+0,0036 EUR
+23 Feb. 2026 | 17:36
+Variación %
+0,10 %
+23 Feb. 2026 | 17:36
+
+***
+Renta Fija
+Corporativa Inv Grade
+iShares US Mortgage Backed Sec_USD
+ LONDON, GB | IE00BYXYYN70
+Riesgo
+3/7
+Cotización
+5,6630 USD
+23 Feb. 2026 | 17:40
+Variación
+0,022 USD
+23 Feb. 2026 | 17:40
+Variación %
+0,39 %
+23 Feb. 2026 | 17:40
+
+***
+

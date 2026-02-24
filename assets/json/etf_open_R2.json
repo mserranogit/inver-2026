@@ -1,0 +1,450 @@
+[
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "AMUNDI EUR GOV.BND1-3Y UCITS",
+        "isin": "LU1650487413",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "AMUNDI PRIME EUROZONE UCITS",
+        "isin": "LU2089238112",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "Amundi Euro Govt Bd 1-3Y ETF Acc",
+        "isin": "LU1650487413",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa High Yield",
+        "nombreEtf": "Amundi Floating Rate EURO Corp 1-3",
+        "isin": "LU1681041114",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "Amundi Gov Bd Lwst Rtd EuroMTS IG 1-3",
+        "isin": "LU1681046345",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "BNP Paribas JPM ESG EMU Government B...",
+        "isin": "LU2244387457",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "BNP Paribas  Corp Bond SRI Fossil F...",
+        "isin": "LU2008760592",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "ISHARES $ FLOATING UCITS",
+        "isin": "IE00BZ048462",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "ISHARES $TRSRY BD 1-3Y UCITS",
+        "isin": "IE00B3VWN179",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "ISHARES IBOND DEC 2027 UCITS",
+        "isin": "IE000ZOI8OK5",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "ISHARES IBOND DEC 2030 UCITS",
+        "isin": "IE000LX17BP9",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa High Yield",
+        "nombreEtf": "ISHARES � FLTNG RATE UCITS",
+        "isin": "IE00BF5GB717",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "JANUS HENDERSON USD AAA UCIT",
+        "isin": "LU2994520851",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "JMP BETABUILDERS TREA S",
+        "isin": "IE00BD9MMD49",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "JPM BETABUILDERS EUR",
+        "isin": "IE00BYVZV757",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "JPM BETABUILDERS GOV1-3",
+        "isin": "IE00BYVZV757",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "JPM BETABUILDERS US TRS BD",
+        "isin": "IE00BD9MMD49",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "JPM USD ULTRA SH IN S",
+        "isin": "IE00BDFC6Q91",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "JPM USD ULTRA-SH IN S",
+        "isin": "IE00BDFC6Q91",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "Lyxor Euro Floating Rate Note",
+        "isin": "LU1829218319",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "Lyxor Euro Government Bond 3-5yr",
+        "isin": "LU1650488494",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "Lyxor US Treas 1-3yr_Dist",
+        "isin": "LU1407887162",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "PIMCO COVERED BOND UCITS",
+        "isin": "IE00BF8HV717",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "Pimco Euro Short Maturity",
+        "isin": "IE00BVZ6SP04",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "Pimco Euro Short Maturity_Dist",
+        "isin": "IE00B5ZR2157",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "Pimco US Dollar Short Mat_Dist",
+        "isin": "IE00B67B7N93",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BB 1-3Y EUR GOVT UCITS",
+        "isin": "IE00B6YX5F63",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BB BRCLS1-5Y GILT UCITS",
+        "isin": "IE00B6YX5K17",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BBG 0-3 Year Euro Corp Bond_Dist",
+        "isin": "IE00BC7GZW19",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BBG 0-3 Year U.S. Corp Bond_Dist",
+        "isin": "IE00BC7GZX26",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BBG 0-5 Year Sterling Corp Bond...",
+        "isin": "IE00BCBJF711",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BBG 1-3 Year U.S. Treas Bond_Di...",
+        "isin": "IE00BC7GZJ81",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "SPDR BBG 3-5 Year Euro Govt Bond_Dist",
+        "isin": "IE00BS7K8821",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "UBS BlmbrgBrclsEUR HQLiqAsst1-5Bd_Di...",
+        "isin": "LU1805389258",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "UBS BloombergBrcls US1-3Yr TrsBd_Dist",
+        "isin": "LU0721552544",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "UBS BloombergBrcls US1-3Yr TrsBd_Dist",
+        "isin": "LU1324510525",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "UBS Foreign AAA-BBB 1-5_Dist",
+        "isin": "LU0879397742",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "UBS Sustain Dev Bank Bs",
+        "isin": "LU1852211215",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "UBS Sustain Dev Bank Bs_Dist",
+        "isin": "LU1852212965",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "Vanguard EUR CORPORATE UCITS",
+        "isin": "IE00BGYWT403",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "Xtrackers II ESG EUR Corp Bd Sh Dur",
+        "isin": "LU2178481649",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "Xtrackers II Eurozone Gov Bond 1-3",
+        "isin": "LU0290356871",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "Xtrackers II Eurozone Gov Bond 1-3_D...",
+        "isin": "LU0614173549",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "Xtrackers II Germany Gov Bd 1-3_Dist",
+        "isin": "LU0468897110",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "Xtrackers II US Treasuries 1-3",
+        "isin": "LU0429458895",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "Xtrackers II iBoxx Eurzn Gov Bd YP 1...",
+        "isin": "LU0925589839",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "Xtrackers II iBoxx Germany Cov Bd Sw...",
+        "isin": "LU0321463506",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa High Yield",
+        "nombreEtf": "iShares Corp Bd ex-Finls 1-5y",
+        "isin": "IE00B4L5ZY03",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "iShares Corp Bond 0-3y ESG",
+        "isin": "IE00BYZTVV78",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "iShares Corp Bond 0-3yr ESG",
+        "isin": "IE00BG5QQ390",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "iShares Corp Bond 0-3yr ESG_Dist",
+        "isin": "IE00BZ048579",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa High Yield",
+        "nombreEtf": "iShares Corp Bond 1-5 yr_Dist",
+        "isin": "IE00B4L60045",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "iShares Covered Bond_Dist",
+        "isin": "IE00B3B8Q275",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Variable",
+        "subtipoEtf": "Europa",
+        "nombreEtf": "iShares Development Bank Bonds_USD",
+        "isin": "IE00BKRWN659",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "iShares Floating Rate Bd_Dist",
+        "isin": "IE00BZ048462",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Global",
+        "nombreEtf": "iShares Floating Rate Bd_EURH Dist",
+        "isin": "IE00BF11F458",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa CP",
+        "nombreEtf": "iShares Govt Bond 1-3yr_Dist",
+        "isin": "IE00B14X4Q57",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Europa",
+        "nombreEtf": "iShares Govt Bond 3-5yr_Dist",
+        "isin": "IE00B1FZS681",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Activos Reales",
+        "subtipoEtf": "Bonos ligados a la inflación",
+        "nombreEtf": "iShares TIPS 0-5",
+        "isin": "IE00BDQYWQ65",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "iShares Treasury Bd 1-3yr_USD Dist",
+        "isin": "IE00B14X4S71",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "iShares Treasury Bond 1-3yr",
+        "isin": "IE00BDFK1573",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Gobiernos Otros",
+        "nombreEtf": "iShares Treasury Bond 20+yr EURH",
+        "isin": "IE00BD8PGZ49",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Sin Restricciones",
+        "nombreEtf": "iShares US Aggregate Bond",
+        "isin": "IE00BDFJYM28",
+        "riesgo": "2/7"
+    },
+    {
+        "tipoEtf": "Renta Fija",
+        "subtipoEtf": "Corporativa Inv Grade",
+        "nombreEtf": "iShares Ultrashort Bond_Dist",
+        "isin": "IE00BCRY6227",
+        "riesgo": "2/7"
+    }
+]

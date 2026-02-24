@@ -13,6 +13,29 @@ apply_styles()
 st.title("📈 Fondos de Renta Fija - Consulta")
 
 # ==========================================================
+# ESTILOS
+# ==========================================================
+st.markdown("""
+<style>
+
+.pagination-info {
+    font-size: 14px;
+    color: #6c757d;
+    margin-top: 6px;
+}
+
+.page-active {
+    padding:6px 10px;
+    background-color:#4a6fa5;
+    color:white;
+    border-radius:4px;
+    text-align:center;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+# ==========================================================
 # CONEXIÓN MONGO
 # ==========================================================
 @st.cache_resource
@@ -95,8 +118,11 @@ if "selected_fund_isin" not in st.session_state:
 
 if "page_number_listado" not in st.session_state:
     st.session_state.page_number_listado = 1
-    
-rows_per_page = 10
+
+if "rows_per_page_listado" not in st.session_state:
+    st.session_state.rows_per_page_listado = 10
+
+rows_per_page = st.session_state.rows_per_page_listado
 total_rows = len(filtered_df)
 total_pages = max(1, math.ceil(total_rows / rows_per_page))
 
@@ -127,13 +153,18 @@ column_config = {
     "sensibilidad": st.column_config.TextColumn("Sensibilidad")
 }
 
+row_height = 35
+header_height = 38
+table_height = header_height + (rows_per_page * row_height)
+
 edited_page_df = st.data_editor(
     page_df,
     use_container_width=True,
     hide_index=True,
+    height=table_height,
     column_config=column_config,
     disabled=["isin", "nombre", "tipo_rf", "tramo_rf", "duration", "sensibilidad"],
-    key=f"editor_listado_{current_page}"
+    key=f"editor_listado_{current_page}_{rows_per_page}"
 )
 
 # Lógica Selección Única
@@ -159,15 +190,91 @@ elif st.session_state.selected_fund_isin is not None:
         st.session_state.selected_fund_isin = None
         st.rerun()
 
-# Paginación UI
-col1, col2, col3 = st.columns([1, 2, 1])
-with col2:
-    cols = st.columns(5)
-    if cols[0].button("⏮", key="p_first"): st.session_state.page_number_listado = 1; st.rerun()
-    if cols[1].button("◀", key="p_prev") and current_page > 1: st.session_state.page_number_listado -= 1; st.rerun()
-    cols[2].markdown(f"<div style='text-align:center; padding-top:5px'>Pág. {current_page}/{total_pages}</div>", unsafe_allow_html=True)
-    if cols[3].button("▶", key="p_next") and current_page < total_pages: st.session_state.page_number_listado += 1; st.rerun()
-    if cols[4].button("⏭", key="p_last"): st.session_state.page_number_listado = total_pages; st.rerun()
+# ==========================================================
+# CONTROLES DEBAJO DE TABLA (MISMA FILA)
+# ==========================================================
+left_col, spacer_col, right_col = st.columns([2, 5, 5])
+
+# ---------- Combo pequeño izquierda ----------
+with left_col:
+    st.markdown(
+        """
+        <style>
+        div[data-testid="stSelectbox"] > div {
+            width: 140px !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    new_value_listado = st.selectbox(
+        "Filas por página",
+        [10, 15, 20, 30, 50],
+        index=[10, 15, 20, 30, 50].index(st.session_state.rows_per_page_listado),
+        key="rows_selector_listado",
+        label_visibility="collapsed"
+    )
+
+    if new_value_listado != st.session_state.rows_per_page_listado:
+        st.session_state.rows_per_page_listado = new_value_listado
+        st.session_state.page_number_listado = 1
+        st.rerun()
+
+# ---------- Paginación derecha ----------
+with right_col:
+
+    pag_cols = st.columns(8)
+
+    if pag_cols[0].button("⏮", disabled=(current_page == 1), key=f"first_listado_{current_page}"):
+        st.session_state.page_number_listado = 1
+        st.rerun()
+
+    if pag_cols[1].button("◀", disabled=(current_page == 1), key=f"prev_listado_{current_page}"):
+        st.session_state.page_number_listado -= 1
+        st.rerun()
+
+    max_visible = 3
+    start_page = max(1, current_page - 1)
+    end_page = min(total_pages, start_page + max_visible - 1)
+
+    page_range = range(start_page, end_page + 1)
+
+    col_index = 2
+
+    for p in page_range:
+        if p == current_page:
+            pag_cols[col_index].markdown(
+                f"<div class='page-active'>{p}</div>",
+                unsafe_allow_html=True
+            )
+        else:
+            if pag_cols[col_index].button(str(p), key=f"page_listado_{p}_{current_page}"):
+                st.session_state.page_number_listado = p
+                st.rerun()
+        col_index += 1
+
+    if pag_cols[col_index].button("▶", disabled=(current_page == total_pages), key=f"next_listado_{current_page}"):
+        st.session_state.page_number_listado += 1
+        st.rerun()
+    col_index += 1
+
+    if pag_cols[col_index].button("⏭", disabled=(current_page == total_pages), key=f"last_listado_{current_page}"):
+        st.session_state.page_number_listado = total_pages
+        st.rerun()
+
+# ==========================================================
+# INFO RANGO
+# ==========================================================
+start_row_lbl = (current_page - 1) * rows_per_page + 1
+end_row_lbl = min(current_page * rows_per_page, total_rows)
+
+st.markdown(
+    f"<div class='pagination-info' style='text-align:right;'>"
+    f"Mostrando {start_row_lbl}-{end_row_lbl} de {total_rows} fondos"
+    f"</div>",
+    unsafe_allow_html=True
+)
 
 st.markdown("---")
 
