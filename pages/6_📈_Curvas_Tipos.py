@@ -484,7 +484,7 @@ for i, pais in enumerate(datos_mostrar):
     # ---- Gráfico de curva de tipos ----
     if plazos:
         fig = crear_grafico_curva(plazos, pais["nombre"], pais["emoji"])
-        target_col.plotly_chart(fig, use_container_width=True, key=f"chart_{pais['codigo']}")
+        target_col.plotly_chart(fig, width="stretch", key=f"chart_{pais['codigo']}")
 
     # ---- Tabla de rendimientos ----
     rows_html = ""
@@ -589,6 +589,6 @@ if historial:
             "Países": doc.get("num_paises", 0),
             "ID Mongo": str(doc.get("_id", "")),
         })
-    st.dataframe(pd.DataFrame(hist_rows), use_container_width=True, hide_index=True)
+    st.dataframe(pd.DataFrame(hist_rows), width="stretch", hide_index=True)
 else:
     st.info("No hay consultas guardadas todavía.")

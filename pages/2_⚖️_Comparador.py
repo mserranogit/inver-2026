@@ -55,19 +55,26 @@ df.rename(columns={
 }, inplace=True)
 
 # ==========================================================
-# SECCIÓN 1: FILTROS
+# SECCIÓN 1: FILTROS (Encima de la Tabla)
 # ==========================================================
-st.sidebar.header("🔎 Filtros")
-
-isin_input = st.sidebar.text_input("Buscar por ISIN o Nombre").strip()
-
-tipo_options = ["Todos"] + sorted(df["tipo_rf"].dropna().unique().tolist())
-tramo_options = ["Todos"] + sorted(df["tramo_rf"].dropna().unique().tolist())
-sensibilidad_options = ["Todos"] + sorted(df["sensibilidad"].dropna().unique().tolist())
-
-tipo_filter = st.sidebar.selectbox("Tipo RF", tipo_options)
-tramo_filter = st.sidebar.selectbox("Tramo RF", tramo_options)
-sensibilidad_filter = st.sidebar.selectbox("Sensibilidad", sensibilidad_options)
+filter_container = st.container()
+with filter_container:
+    col_f1, col_f2, col_f3, col_f4 = st.columns(4)
+    
+    with col_f1:
+        isin_input = st.text_input("🔍 Buscar por ISIN o Nombre", placeholder="Escriba ISIN o nombre...").strip()
+    
+    with col_f2:
+        tipo_options = ["Todos"] + sorted(df["tipo_rf"].dropna().unique().tolist())
+        tipo_filter = st.selectbox("📊 Tipo RF", tipo_options)
+    
+    with col_f3:
+        tramo_options = ["Todos"] + sorted(df["tramo_rf"].dropna().unique().tolist())
+        tramo_filter = st.selectbox("⏳ Tramo RF", tramo_options)
+    
+    with col_f4:
+        sensibilidad_options = ["Todos"] + sorted(df["sensibilidad"].dropna().unique().tolist())
+        sensibilidad_filter = st.selectbox("⚖️ Sensibilidad", sensibilidad_options)
 
 # Aplicar Filtros
 filtered_df = df.copy()
@@ -96,7 +103,7 @@ if "compare_isins" not in st.session_state:
 if "page_num_comp" not in st.session_state:
     st.session_state.page_num_comp = 1
 
-rows_per_page = 8
+rows_per_page = 15
 total_rows = len(filtered_df)
 total_pages = max(1, math.ceil(total_rows / rows_per_page))
 
@@ -121,8 +128,9 @@ st.caption(f"Seleccionados: {len(st.session_state.compare_isins)} / 4 (Máximo)"
 
 edited_df = st.data_editor(
     page_df,
-    use_container_width=True,
+    width="stretch",
     hide_index=True,
+    height=38 + (rows_per_page * 35),
     column_config={
         "Comparar": st.column_config.CheckboxColumn("Seleccionar", default=False),
         "nombre": st.column_config.TextColumn("Nombre", width="large"),
@@ -207,7 +215,7 @@ if len(selected_isins) > 0:
                 row[name] = "-"
         table_data.append(row)
 
-    st.dataframe(pd.DataFrame(table_data), use_container_width=True, hide_index=True)
+    st.dataframe(pd.DataFrame(table_data), width="stretch", hide_index=True)
 
     # --- 2. GESTIÓN DE DATOS VISUALES ---
     st.subheader("🕸️ Perfil Visual (Individual)")

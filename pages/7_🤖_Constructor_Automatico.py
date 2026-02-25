@@ -241,10 +241,10 @@ with st.container():
     with col4:
         st.write("") # Espaciador
         st.write("")
-        generar = st.button("🚀 Generar Propuesta", type="primary", use_container_width=True)
+        generar = st.button("🚀 Generar Propuesta", type="primary", width="stretch")
         
         # Botón Reset en parámetros usando callback
-        st.button("🔄 Reset Parámetros", use_container_width=True, on_click=reset_todo)
+        st.button("🔄 Reset Parámetros", width="stretch", on_click=reset_todo)
 
 # --- PROCESAMIENTO ---
 if generar:
@@ -452,7 +452,7 @@ if "cartera_auto" in st.session_state:
         height=480, # Tamaño aumentado
         legend=dict(orientation="h", yanchor="bottom", y=-0.1, xanchor="center", x=0.5)
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # --- NUEVA SECCIÓN: ANÁLISIS DETALLADO DEL FONDO ---
     st.markdown("---")
@@ -501,7 +501,7 @@ if "cartera_auto" in st.session_state:
                         gauge = {'axis': {'range': [0, 15]}, 'bar': {'color': "#d9534f"}}
                     ))
                     fig_v.update_layout(height=250, margin=dict(l=20, r=20, t=40, b=20))
-                    st.plotly_chart(fig_v, use_container_width=True)
+                    st.plotly_chart(fig_v, width="stretch")
 
             with tab_perf:
                 hist = f_doc.get('rentabilidad', {}).get('historica', {})
@@ -533,10 +533,10 @@ if "cartera_auto" in st.session_state:
     col_acc1, col_acc2, col_acc3, col_acc4 = st.columns([3.5, 1.5, 1.5, 3.5])
     
     with col_acc2:
-        confirmar = st.button("✅ Confirmar", type="primary", use_container_width=True)
+        confirmar = st.button("✅ Confirmar", type="primary", width="stretch")
     
     with col_acc3:
-        st.button("🔄 Reset", use_container_width=True, on_click=reset_todo)
+        st.button("🔄 Reset", width="stretch", on_click=reset_todo)
         
     if confirmar:
         cartera_id = "AUTO-" + datetime.now().strftime("%Y%m%d-%H%M%S")

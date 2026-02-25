@@ -1,4 +1,5 @@
 import streamlit as st
+from styles import apply_styles
 
 # ==========================================
 # CONFIGURACIÓN GENERAL
@@ -9,46 +10,56 @@ st.set_page_config(
     layout="wide"
 )
 
-# ==========================================
-# LIMPIEZA UI
-# ==========================================
-st.markdown("""
-<style>
-header {visibility: hidden;}
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-
-.stApp {
-    background-color: #f4f6f9;
-}
-
-section[data-testid="stSidebar"] {
-    background-color: #2c3e50;
-}
-
-section[data-testid="stSidebar"] * {
-    color: #ecf0f1 !important;
-}
-
-h1, h2, h3 {
-    color: #2c3e50;
-}
-</style>
-""", unsafe_allow_html=True)
+# Aplicar estilos globales
+apply_styles()
 
 # ==========================================
-# DASHBOARD
+# DEFINICIÓN DE NAVEGACIÓN (Secciones)
 # ==========================================
 
-st.title("📊 Inver 2026")
-st.subheader("Plataforma Profesional de Análisis de Fondos")
+# Definimos las páginas por secciones
+pages = {
+    "Dashboard": [
+        st.Page("Inicio.py", title="Principal", icon="📊", default=True)
+    ],
+    "Fondos": [
+        st.Page("pages/1_📈_Fondos_Renta_Fija.py", title="Fondos de Renta Fija", icon="📈"),
+        st.Page("pages/2_⚖️_Comparador.py", title="Comparador", icon="⚖️"),
+        st.Page("pages/3_🧮_Constructor_Cartera.py", title="Constructor de cartera", icon="🧮"),
+        st.Page("pages/7_🤖_Constructor_Automatico.py", title="Constructor Automático", icon="🤖"),
+    ],
+    "ETFs": [
+        st.Page("pages/8_📋_Lista_ETFs.py", title="Lista ETFs", icon="📋"),
+        st.Page("pages/9_⚖️_Comparador_ETFs.py", title="Comparador", icon="⚖️"),
+        st.Page("pages/10_🧮_Constructor_ETFs.py", title="Constructor de cartera", icon="🧮"),
+    ],
+    "Datos Macro": [
+        st.Page("pages/5_🏦_Tipos_Interes.py", title="Tipos de Interés", icon="🏦"),
+        st.Page("pages/6_📈_Curvas_Tipos.py", title="Curvas de Tipos", icon="📈"),
+    ],
+    "Administración": [
+        st.Page("pages/4_⚙️_Administracion.py", title="Administración", icon="⚙️"),
+    ]
+}
 
-col1, col2, col3 = st.columns(3)
+# Ejecutar Navegación
+pg = st.navigation(pages)
+pg.run()
 
-col1.metric("Fondos en Base de Datos", "125")
-col2.metric("Duración Media", "3.2 años")
-col3.metric("Rentabilidad Media", "2.84 %")
+# Lógica del Dashboard (solo se muestra cuando pg.title es "Principal")
+if pg.title == "Principal":
+    # ==========================================
+    # DASHBOARD PRINCIPAL
+    # ==========================================
+    st.title("📊 Inver 2026")
+    st.subheader("Plataforma Profesional de Análisis de Fondos y ETFs")
 
-st.divider()
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Fondos en Base de Datos", "125")
+    col2.metric("Duración Media", "3.2 años")
+    col3.metric("Rentabilidad Media", "2.84 %")
 
-st.markdown("### Bienvenido al sistema de análisis y construcción de carteras.")
+    st.divider()
+    st.markdown("### Bienvenido al sistema de análisis y construcción de carteras.")
+    
+    st.info("Utilice el menú de la izquierda para navegar entre las diferentes secciones de Fondos, ETFs y Datos Macro.")

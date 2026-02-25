@@ -468,6 +468,6 @@ if historial:
             "ID Mongo": str(doc.get("_id", "")),
         })
     df_hist = pd.DataFrame(hist_rows)
-    st.dataframe(df_hist, use_container_width=True, hide_index=True)
+    st.dataframe(df_hist, width="stretch", hide_index=True)
 else:
     st.info("No hay consultas guardadas todavía.")

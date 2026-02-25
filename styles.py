@@ -77,5 +77,26 @@ def apply_styles():
         color: #2c3e50;
     }
 
+    /* ===========================
+       PAGINACIÓN
+       =========================== */
+    .pagination-info {
+        font-size: 14px;
+        color: #6c757d;
+        margin-top: 6px;
+    }
+
+    .page-active {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 38px;
+        background-color: #4a6fa5;
+        color: white;
+        border-radius: 4px;
+        font-weight: 600;
+        text-align: center;
+    }
+
     </style>
     """, unsafe_allow_html=True)

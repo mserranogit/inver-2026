@@ -20,25 +20,7 @@ if "success_msg" in st.session_state:
 # ==========================================================
 # ESTILOS
 # ==========================================================
-st.markdown("""
-<style>
-
-.pagination-info {
-    font-size: 14px;
-    color: #6c757d;
-    margin-top: 6px;
-}
-
-.page-active {
-    padding:6px 10px;
-    background-color:#4a6fa5;
-    color:white;
-    border-radius:4px;
-    text-align:center;
-}
-
-</style>
-""", unsafe_allow_html=True)
+# Estilos movidos a styles.py (apply_styles())
 
 # ==========================================================
 # CONEXIÓN MONGO
@@ -83,26 +65,37 @@ df.rename(columns={
 }, inplace=True)
 
 # ==========================================================
-# FILTROS SIDEBAR
+# FILTROS (Encima de la Tabla)
 # ==========================================================
-st.sidebar.header("🔎 Filtros")
-
-tipo_filter = st.sidebar.selectbox(
-    "Tipo RF",
-    ["Todos"] + sorted(df["tipo_rf"].dropna().unique())
-)
-
-tramo_filter = st.sidebar.selectbox(
-    "Tramo RF",
-    ["Todos"] + sorted(df["tramo_rf"].dropna().unique())
-)
-
-sensibilidad_filter = st.sidebar.selectbox(
-    "Sensibilidad",
-    ["Todos"] + sorted(df["sensibilidad"].dropna().unique())
-)
+filter_container = st.container()
+with filter_container:
+    col_f1, col_f2, col_f3, col_f4 = st.columns(4)
+    
+    with col_f1:
+        isin_input = st.text_input("🔍 Buscar por ISIN", placeholder="Escriba ISIN...").strip()
+    
+    with col_f2:
+        tipo_filter = st.selectbox(
+            "📊 Tipo RF",
+            ["Todos"] + sorted(df["tipo_rf"].dropna().unique())
+        )
+    
+    with col_f3:
+        tramo_filter = st.selectbox(
+            "⏳ Tramo RF",
+            ["Todos"] + sorted(df["tramo_rf"].dropna().unique())
+        )
+    
+    with col_f4:
+        sensibilidad_filter = st.selectbox(
+            "⚖️ Sensibilidad",
+            ["Todos"] + sorted(df["sensibilidad"].dropna().unique())
+        )
 
 filtered_df = df.copy()
+
+if isin_input:
+    filtered_df = filtered_df[filtered_df["isin"].str.contains(isin_input, case=False, na=False)]
 
 if tipo_filter != "Todos":
     filtered_df = filtered_df[filtered_df["tipo_rf"] == tipo_filter]
@@ -153,7 +146,7 @@ table_height = header_height + (rows_per_page * row_height)
 
 edited_df = st.data_editor(
     page_df,
-    use_container_width=True,
+    width="stretch",
     hide_index=True,
     height=table_height,
     disabled=["isin", "nombre", "tipo_rf", "tramo_rf", "duration", "sensibilidad"],

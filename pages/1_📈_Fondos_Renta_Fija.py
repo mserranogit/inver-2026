@@ -15,25 +15,7 @@ st.title("📈 Fondos de Renta Fija - Consulta")
 # ==========================================================
 # ESTILOS
 # ==========================================================
-st.markdown("""
-<style>
-
-.pagination-info {
-    font-size: 14px;
-    color: #6c757d;
-    margin-top: 6px;
-}
-
-.page-active {
-    padding:6px 10px;
-    background-color:#4a6fa5;
-    color:white;
-    border-radius:4px;
-    text-align:center;
-}
-
-</style>
-""", unsafe_allow_html=True)
+# Estilos movidos a styles.py (apply_styles())
 
 # ==========================================================
 # CONEXIÓN MONGO
@@ -78,19 +60,26 @@ df.rename(columns={
 }, inplace=True)
 
 # ==========================================================
-# SECCIÓN 1: FILTROS
+# SECCIÓN 1: FILTROS (Encima de la Tabla)
 # ==========================================================
-st.sidebar.header("🔎 Filtros")
-
-isin_input = st.sidebar.text_input("Buscar por ISIN").strip()
-
-tipo_options = ["Todos"] + sorted(df["tipo_rf"].dropna().unique().tolist())
-tramo_options = ["Todos"] + sorted(df["tramo_rf"].dropna().unique().tolist())
-sensibilidad_options = ["Todos"] + sorted(df["sensibilidad"].dropna().unique().tolist())
-
-tipo_filter = st.sidebar.selectbox("Tipo RF", tipo_options)
-tramo_filter = st.sidebar.selectbox("Tramo RF", tramo_options)
-sensibilidad_filter = st.sidebar.selectbox("Sensibilidad", sensibilidad_options)
+filter_container = st.container()
+with filter_container:
+    col_f1, col_f2, col_f3, col_f4 = st.columns(4)
+    
+    with col_f1:
+        isin_input = st.text_input("🔍 Buscar por ISIN", placeholder="Escriba ISIN...").strip()
+    
+    with col_f2:
+        tipo_options = ["Todos"] + sorted(df["tipo_rf"].dropna().unique().tolist())
+        tipo_filter = st.selectbox("📊 Tipo RF", tipo_options)
+    
+    with col_f3:
+        tramo_options = ["Todos"] + sorted(df["tramo_rf"].dropna().unique().tolist())
+        tramo_filter = st.selectbox("⏳ Tramo RF", tramo_options)
+    
+    with col_f4:
+        sensibilidad_options = ["Todos"] + sorted(df["sensibilidad"].dropna().unique().tolist())
+        sensibilidad_filter = st.selectbox("⚖️ Sensibilidad", sensibilidad_options)
 
 # Aplicar Filtros
 filtered_df = df.copy()
@@ -159,7 +148,7 @@ table_height = header_height + (rows_per_page * row_height)
 
 edited_page_df = st.data_editor(
     page_df,
-    use_container_width=True,
+    width="stretch",
     hide_index=True,
     height=table_height,
     column_config=column_config,
@@ -290,16 +279,23 @@ if st.session_state.selected_fund_isin:
         st.markdown(f"## 🔎 {fondo_doc.get('nombre', 'Sin Nombre')}")
         
         divisa = fondo_doc.get('currency', {}).get('base_currency', 'EUR')
-        st.caption(f"ISIN: {fondo_doc.get('isin')} | Categoría: {fondo_doc.get('categoria', 'N/A')} | Divisa: {divisa}")
+        mstar_id = fondo_doc.get('mstar_id')
+        if mstar_id:
+            mstar_url = f"https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id={mstar_id}"
+        else:
+            mstar_url = f"https://www.morningstar.es/es/funds/SecuritySearchResults.aspx?type=ALL&search={isin_detail}"
+            
+        st.caption(f"ISIN: {fondo_doc.get('isin')} | Categoría: {fondo_doc.get('categoria', 'N/A')} | Divisa: {divisa} | Morningstar: [Snapshot]({mstar_url})")
         
         st.divider()
 
         # Tabs reorganizados
-        tab_fundamental, tab_riesgo, tab_rentabilidad, tab_cartera = st.tabs([
+        tab_fundamental, tab_riesgo, tab_rentabilidad, tab_cartera, tab_detalles = st.tabs([
             "🏛️ Fundamental", 
             "⚠️ Riesgo",
             "📈 Rentabilidad", 
-            "🌍 Composición"
+            "🌍 Composición",
+            "➕ Detalles"
         ])
         
         # ------------------------------------------------------
@@ -401,7 +397,7 @@ if st.session_state.selected_fund_isin:
             
             if hist:
                 df_hist = pd.DataFrame([hist])
-                st.dataframe(df_hist, use_container_width=True, hide_index=True)
+                st.dataframe(df_hist, width="stretch", hide_index=True)
                 
                 valid = {k: v for k, v in hist.items() if isinstance(v, (int, float))}
                 if valid:
@@ -471,6 +467,28 @@ if st.session_state.selected_fund_isin:
                 
                 if not has_assets and not has_sectors:
                     st.warning("⚠️ No disponemos del desglose detallado (sectores/activos) para este fondo en concreto.")
+
+        # ------------------------------------------------------
+        # TAB 5: DETALLES
+        # ------------------------------------------------------
+        with tab_detalles:
+            st.markdown("##### 🛠️ Datos Adicionales")
+            col_e1, col_e2 = st.columns(2)
+            with col_e1:
+                st.write("**Tipo RF:**", fondo_doc.get('tipo_rf', 'N/A'))
+                st.write("**Tramo RF:**", fondo_doc.get('tramo_rf', 'N/A'))
+                st.write("**Sensibilidad:**", fondo_doc.get('sensibilidad', 'N/A'))
+            with col_e2:
+                updated = fondo_doc.get('updated_at')
+                st.write("**Última Actualización:**", updated.strftime("%Y-%m-%d %H:%M") if updated else "N/A")
+                
+                mstar_id = fondo_doc.get('mstar_id')
+                if mstar_id:
+                    mstar_url = f"https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id={mstar_id}"
+                else:
+                    mstar_url = f"https://www.morningstar.es/es/funds/SecuritySearchResults.aspx?type=ALL&search={isin_detail}"
+                
+                st.write("**Morningstar Link:**", f"[Ver en directo]({mstar_url})")
 
     else:
         st.error(f"No se pudo cargar la información del fondo {isin_detail}")
