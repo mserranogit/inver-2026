@@ -11,7 +11,7 @@ MONGO_CONFIG = {
     "password": "mike",
     "database": "db-inver",
     "collection_fondos": "fondos",
-    "collection_carteras": "carteras",
+    "collection_carteras": "carteras_fondos",
     "auth_source": "admin"
 }
 

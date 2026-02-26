@@ -38,7 +38,8 @@ def get_db():
 
 db = get_db()
 fondos_collection = db["fondos"]
-carteras_collection = db["carteras"]
+curvas_collection = db["curvas_tipos"]
+carteras_collection = db["carteras_fondos"]
 
 # ==========================================================
 # CARGA DATOS
@@ -248,7 +249,10 @@ for _, row in edited_df.iterrows():
     isin = row["isin"]
 
     if row["Seleccionar"]:
-        st.session_state.seleccion_global[isin] = row["nombre"]
+        st.session_state.seleccion_global[isin] = {
+            "nombre": row["nombre"],
+            "tramo": row["tramo_rf"]
+        }
     else:
         if isin in st.session_state.seleccion_global:
             del st.session_state.seleccion_global[isin]
@@ -286,9 +290,11 @@ with col1:
             # Asegurar tipos nativos de Python para Mongo
             fondos_lista = []
             for isin in selected_isins:
+                info = st.session_state.seleccion_global[isin]
                 fondos_lista.append({
                     "isin": str(isin),
-                    "nombre": str(st.session_state.seleccion_global[isin])
+                    "nombre": str(info["nombre"]),
+                    "tramo": str(info["tramo"])
                 })
 
             cartera_doc = {
