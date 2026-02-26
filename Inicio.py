@@ -32,6 +32,10 @@ pages = {
     "Dashboard": [
         st.Page(show_dashboard, title="Principal", icon="📊", default=True)
     ],
+    "Mi Cartera": [
+        st.Page("pages/13_💼_Gestion_Personal.py", title="Gestión", icon="💼"),
+        st.Page("pages/14_📈_Rentabilidad_Personal.py", title="Rentabilidad", icon="📈"),
+    ],
     "Fondos": [
         st.Page("pages/1_📈_Fondos_Renta_Fija.py", title="Fondos de Renta Fija", icon="📈"),
         st.Page("pages/2_⚖️_Comparador.py", title="Comparador", icon="⚖️"),
@@ -44,7 +48,8 @@ pages = {
         st.Page("pages/10_🧮_Constructor_ETFs.py", title="Constructor de cartera", icon="🧮"),
         st.Page("pages/11_🤖_Constructor_Automatico_ETFs.py", title="Constructor Automático", icon="🤖"),
     ],
-    "Datos Macro": [
+    "Macro": [
+        st.Page("pages/15_📊_Datos_Macro.py", title="Datos Macro", icon="📊"),
         st.Page("pages/5_🏦_Tipos_Interes.py", title="Tipos de Interés", icon="🏦"),
         st.Page("pages/6_📈_Curvas_Tipos.py", title="Curvas de Tipos", icon="📈"),
     ],

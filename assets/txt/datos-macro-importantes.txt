@@ -1,0 +1,228 @@
+﻿---
+
+# 📊 LOS 10 DATOS MACRO REALMENTE IMPORTANTES
+
+(Enfocado a EEUU, Eurozona y China principalmente — que mueven los mercados globales)
+
+---
+
+## 1️⃣ Crecimiento del PIB (y previsiones)
+
+Qué mirar:
+
+* PIB anual actual
+* Previsión 1–2 años (5 años no es muy fiable)
+* Revisión de expectativas (si las están bajando)
+
+Por qué importa:
+
+* Si el crecimiento se desacelera fuerte → riesgo de recesión → bolsas bajan.
+* Si crece demasiado rápido → puede generar inflación → tipos suben.
+
+Nivel de alerta:
+
+* PIB < 1% en EEUU o Europa = cuidado.
+* 2 trimestres negativos = recesión técnica.
+
+---
+
+## 2️⃣ Inflación (CPI y Core CPI)
+
+Qué mirar:
+
+* Inflación general
+* Inflación subyacente (sin energía y alimentos)
+
+Por qué importa:
+
+* La inflación determina lo que harán los bancos centrales.
+* Inflación alta persistente → tipos altos → bolsas y bonos sufren.
+
+Nivel de alerta:
+
+* > 3% sostenido en EEUU o Europa ya es incómodo.
+* Si vuelve a subir tras bajar → mercados nerviosos.
+
+---
+
+## 3️⃣ Tipos de interés oficiales
+
+EEUU → Reserva Federal
+Europa → BCE
+
+Por qué importa:
+Es el indicador más importante para activos financieros.
+
+* Tipos subiendo → presión en bolsa, inmobiliario y empresas endeudadas.
+* Tipos bajando → impulso a bolsa y crecimiento.
+
+Claves:
+
+* No solo el tipo actual, sino expectativas futuras.
+* Escucha si hablan de “higher for longer”.
+
+---
+
+## 4️⃣ Mercado laboral
+
+Qué mirar:
+
+* Tasa de desempleo
+* Creación mensual de empleo
+* Crecimiento salarial
+
+Por qué importa:
+
+* Si el paro sube fuerte → recesión.
+* Si salarios suben mucho → inflación futura.
+
+Nivel de alerta:
+
+* Subida rápida del desempleo en EEUU (0,5% en pocos meses) suele preceder recesión.
+
+---
+
+## 5️⃣ Curva de tipos (muy importante y poco conocida)
+
+Qué mirar:
+
+* Diferencia entre bono 10 años y 2 años (EEUU)
+
+Por qué importa:
+
+* Si está invertida (10Y < 2Y) → suele anticipar recesión en 6–18 meses.
+
+Es uno de los indicadores más fiables históricamente.
+
+---
+
+## 6️⃣ Deuda pública y déficit
+
+Qué mirar:
+
+* % deuda/PIB
+* Tendencia del déficit
+
+Importa porque:
+
+* Niveles muy altos pueden generar tensiones financieras.
+* Afecta a bonos y divisas.
+
+Pero no hace falta seguirlo cada mes.
+
+---
+
+## 7️⃣ Confianza empresarial (PMI)
+
+Qué mirar:
+
+* PMI manufacturero
+* PMI servicios
+
+Nivel clave:
+
+* > 50 = expansión
+* <50 = contracción
+
+Es indicador adelantado del ciclo.
+
+Muy útil y fácil de interpretar.
+
+---
+
+## 8️⃣ Beneficios empresariales (EPS growth)
+
+No es macro puro, pero es vital.
+
+La bolsa sigue beneficios, no el PIB.
+
+Si:
+
+* Beneficios suben → bolsas tienden a subir.
+* Beneficios caen → correcciones probables.
+
+---
+
+## 9️⃣ Liquidez global
+
+Más técnico, pero importante:
+
+* Balance de la Fed
+* Expansión o contracción monetaria
+
+Más liquidez = más soporte a activos de riesgo.
+
+---
+
+## 🔟 Riesgos geopolíticos
+
+No es dato numérico, pero afecta muchísimo:
+
+* Guerras
+* Tensiones China–EEUU
+* Crisis energéticas
+* Elecciones clave
+
+---
+
+# 🌍 ¿Qué economías vigilar?
+
+Si no quieres complicarte:
+
+1. 🇺🇸 EEUU (la más importante del mundo financiero)
+2. 🇪🇺 Eurozona
+3. 🇨🇳 China
+4. Opcional: Japón e India
+
+Si EEUU estornuda, el mundo se resfría.
+
+---
+
+# 🧠 Si quieres simplificar aún más
+
+Para alguien “normal” que quiere proteger inversiones:
+
+Mira solo esto cada mes:
+
+1. Inflación EEUU
+2. Tipos de la Fed
+3. Desempleo EEUU
+4. PMI global
+5. Curva de tipos EEUU
+
+Con eso tienes el 70% del contexto.
+
+---
+
+# ⚠️ Señales de alerta macro
+
+🔴 Inflación repuntando
+🔴 Curva de tipos invertida
+🔴 PMI < 48
+🔴 Paro subiendo rápido
+🔴 Bancos centrales endureciendo discurso
+
+Si coinciden varias → prudencia.
+
+---
+
+# 📌 Mi sugerencia personal para ti
+
+En lugar de intentar reaccionar a cada dato:
+
+* Ten una asignación de activos robusta.
+* Usa rebalanceos periódicos.
+* Mantén liquidez estratégica.
+* Diversifica por regiones y activos.
+
+El mayor error del inversor medio es sobre-reaccionar a macro de corto plazo.
+
+---
+
+Si quieres, puedo:
+
+* 📈 Analizar la situación macro actual (2026) y decirte en qué fase estamos.
+* 🧭 Crear un “checklist macro mensual” simplificado.
+* 🛡 Diseñar una estrategia defensiva adaptada a tu perfil.
+
+¿Inviertes más en fondos indexados, acciones individuales o inmobiliario?

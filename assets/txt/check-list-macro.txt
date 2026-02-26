@@ -1,0 +1,180 @@
+﻿
+# 📋 CHECKLIST MACRO MENSUAL (VERSIÓN SIMPLE Y EFICAZ)
+
+## 🥇 BLOQUE 1 — Política monetaria (lo más importante)
+
+### 1️⃣ ¿Qué están haciendo los bancos centrales?
+
+* 🇺🇸 Reserva Federal
+* 🇪🇺 BCE
+
+✔ ¿Han subido, bajado o mantenido tipos?
+✔ ¿El discurso es más agresivo o más flexible?
+✔ ¿Hablan de “inflación persistente” o de “desaceleración”?
+
+🟢 Señal positiva:
+
+* Hablan de bajadas futuras o inflación controlada.
+
+🔴 Señal de alerta:
+
+* Dicen que podrían volver a subir tipos.
+
+---
+
+## 🥈 BLOQUE 2 — Inflación
+
+### 2️⃣ Inflación anual (EEUU y Eurozona)
+
+Mira:
+
+* Inflación general
+* Inflación subyacente
+
+✔ ¿Está bajando?
+✔ ¿Se estanca?
+✔ ¿Rebota?
+
+🟢 Buen entorno:
+Inflación bajando lentamente hacia 2%.
+
+🔴 Riesgo:
+Inflación repunta tras haber bajado.
+
+---
+
+## 🥉 BLOQUE 3 — Crecimiento y actividad
+
+### 3️⃣ PMI (indicador adelantado)
+
+Mira:
+
+* PMI compuesto o servicios
+
+✔ > 50 → economía en expansión
+✔ < 50 → contracción
+
+🔴 Si cae por debajo de 48 durante varios meses → riesgo de recesión.
+
+---
+
+### 4️⃣ PIB (trimestral)
+
+No hace falta obsesionarse.
+
+Solo pregúntate:
+
+* ¿Se está desacelerando mucho?
+* ¿Hay riesgo de recesión técnica?
+
+---
+
+## 🧑‍💼 BLOQUE 4 — Mercado laboral
+
+### 5️⃣ Desempleo (EEUU sobre todo)
+
+✔ ¿Está estable?
+✔ ¿Sube rápido?
+
+🔴 Subidas rápidas en pocos meses suelen preceder recesiones.
+
+---
+
+## 📉 BLOQUE 5 — Señales financieras
+
+### 6️⃣ Curva de tipos (EEUU 10Y vs 2Y)
+
+✔ ¿Está invertida?
+✔ ¿Se está normalizando?
+
+Importante:
+Cuando pasa de invertida a positiva tras meses invertida → muchas veces la recesión ya está cerca.
+
+---
+
+### 7️⃣ Crédito y estrés financiero
+
+Pregunta simple:
+
+* ¿Hay noticias de problemas bancarios?
+* ¿Aumentan impagos?
+* ¿Se endurecen las condiciones de crédito?
+
+---
+
+## 📈 BLOQUE 6 — Beneficios empresariales
+
+### 8️⃣ Resultados empresariales
+
+✔ ¿Las empresas baten expectativas?
+✔ ¿Revisan beneficios al alza o a la baja?
+
+La bolsa sigue beneficios más que el PIB.
+
+---
+
+# 🚦 INTERPRETACIÓN RÁPIDA (Semáforo macro)
+
+Al final del mes clasifícalo así:
+
+🟢 Verde (entorno favorable)
+
+* Inflación controlada
+* Tipos estables o bajando
+* PMI > 50
+* Paro estable
+* Beneficios creciendo
+
+🟡 Amarillo (desaceleración)
+
+* PMI cerca de 50
+* Inflación pegajosa
+* Beneficios planos
+* Curva invertida
+
+🔴 Rojo (defensivo)
+
+* Inflación repunta
+* Tipos subiendo
+* PMI < 48
+* Paro subiendo rápido
+* Beneficios cayendo
+
+---
+
+# 🧠 Cómo usar el checklist sin sobre-reaccionar
+
+Muy importante:
+
+❌ No cambies tu cartera cada mes.
+✅ Úsalo para ajustar el riesgo gradualmente.
+
+Ejemplo:
+
+* Verde → puedes mantener exposición a renta variable.
+* Amarillo → revisa diversificación.
+* Rojo → aumenta liquidez / defensivos / calidad.
+
+---
+
+# 🗂 Versión ultra resumida (5 datos clave)
+
+Si un mes vas justo de tiempo, mira solo:
+
+1. Inflación EEUU
+2. Tipos Fed
+3. Desempleo EEUU
+4. PMI global
+5. Beneficios empresariales
+
+Con eso ya tienes una foto bastante buena.
+
+---
+
+Si quieres, puedo prepararte:
+
+* 📊 Una plantilla en formato tabla para rellenar cada mes.
+* 🧮 Un sistema de puntuación (tipo scoring 0–10 riesgo macro).
+* 🛡 Cómo adaptar esto a tu cartera concreta.
+
+¿Quieres que lo hagamos más técnico o mantenerlo sencillo y práctico?

@@ -7,7 +7,7 @@ def apply_styles():
     /* ===========================
        OCULTAR ELEMENTOS STREAMLIT
        =========================== */
-    header {visibility: hidden;}
+    header[data-testid="stHeader"] {visibility: hidden;}
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
 
@@ -30,11 +30,21 @@ def apply_styles():
        MENÚ MULTIPAGE (CORRECTO)
        =========================== */
 
-    /* Texto del menú */
-    [data-testid="stSidebarNav"] span {
+    /* Todos los textos del sidebar en color claro */
+    [data-testid="stSidebarNav"] span,
+    [data-testid="stNavSectionHeader"] span {
         color: #e5e7eb !important;
         font-weight: 500;
     }
+
+    /* Estilo diferenciado para títulos de sección */
+    [data-testid="stNavSectionHeader"] span {
+        font-size: 0.68rem !important;
+        font-weight: 700 !important;
+        letter-spacing: 0.12em !important;
+        text-transform: uppercase !important;
+    }
+
 
     /* Hover */
     [data-testid="stSidebarNav"] button:hover {
